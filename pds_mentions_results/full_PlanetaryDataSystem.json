@@ -1,0 +1,2815 @@
+{
+    "2011472": {
+        "title": [
+            "Overview of the <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "1996P&SS...44....3M",
+            "title": [
+                "Overview of the Planetary Data System"
+            ],
+            "author": [
+                "McMahon, Susan K."
+            ],
+            "pubdate": "1996-01-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/0032-0633(95)00101-8"
+            ],
+            "grant": null
+        }
+    },
+    "21960852": {
+        "title": [
+            "Giant Planet Observations in NASA's <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "2022RemS...14.6112C",
+            "title": [
+                "Giant Planet Observations in NASA's Planetary Data System"
+            ],
+            "author": [
+                "Chanover, Nancy J.",
+                "Bauer, James M.",
+                "Blalock, John J.",
+                "Gordon, Mitchell K.",
+                "Huber, Lyle F.",
+                "Mace, Mia J. T.",
+                "Neakrase, Lynn D. V.",
+                "Tiscareno, Matthew S.",
+                "Walker, Raymond J."
+            ],
+            "pubdate": "2022-12-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.3390/rs14236112",
+                "10.48550/arXiv.2212.02492"
+            ],
+            "grant": null
+        }
+    },
+    "2011568": {
+        "title": [
+            "The Rings Node for the <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "1996P&SS...44...33S",
+            "title": [
+                "The Rings Node for the Planetary Data System"
+            ],
+            "author": [
+                "Showalter, M. R.",
+                "Bollinger, K. J.",
+                "Cuzzi, J. N.",
+                "Nicholson, P. D."
+            ],
+            "pubdate": "1996-01-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/0032-0633(95)00104-2"
+            ],
+            "grant": null
+        }
+    },
+    "11561885": {
+        "title": [
+            "The <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "1991RvGeo..29S.337L",
+            "title": [
+                "The Planetary Data System"
+            ],
+            "author": [
+                "Lee, Steven W."
+            ],
+            "pubdate": "1991-08-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1002/rog.1991.29.s1.337"
+            ],
+            "grant": null
+        }
+    },
+    "2011509": {
+        "title": [
+            "The Imaging Node for the <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "1996P&SS...44...23E",
+            "title": [
+                "The Imaging Node for the Planetary Data System"
+            ],
+            "author": [
+                "Eliason, Eric M.",
+                "LaVoie, Susan K.",
+                "Soderblom, Laurence A."
+            ],
+            "pubdate": "1996-01-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/0032-0633(95)00103-4"
+            ],
+            "grant": null
+        }
+    },
+    "20855810": {
+        "source": {
+            "bibcode": "2021SSRv..217...88Z",
+            "title": [
+                "China's Lunar and Planetary Data System: Preserve and Present Reliable Chang'e Project and Tianwen-1 Scientific Data Sets"
+            ],
+            "author": [
+                "Zuo, Wei",
+                "Li, Chunlai",
+                "Zhang, Zhoubin",
+                "Zeng, Xingguo",
+                "Liu, Yuxuan",
+                "Xiong, Yaying"
+            ],
+            "pubdate": "2021-12-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1007/s11214-021-00862-3"
+            ],
+            "grant": null
+        }
+    },
+    "2011494": {
+        "title": [
+            "The <em>Planetary Data System</em> Geosciences Node"
+        ],
+        "source": {
+            "bibcode": "1996P&SS...44...13G",
+            "title": [
+                "The Planetary Data System Geosciences Node"
+            ],
+            "author": [
+                "Guinness, Edward A.",
+                "Arvidson, Raymond E.",
+                "Slavney, Susan"
+            ],
+            "pubdate": "1996-01-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/0032-0633(95)00102-6"
+            ],
+            "grant": null
+        }
+    },
+    "14214560": {
+        "title": [
+            "The NASA <em>Planetary Data System</em> Roadmap Study for 2017 - 2026"
+        ],
+        "source": {
+            "bibcode": "2017AGUFMIN43E..02M",
+            "title": [
+                "The NASA Planetary Data System Roadmap Study for 2017 - 2026"
+            ],
+            "author": [
+                "McNutt, R. L., Jr.",
+                "Gaddis, L. R.",
+                "Law, E.",
+                "Beyer, R. A.",
+                "Crombie, M. K.",
+                "Ebel, D. S. S.",
+                "Ghosh, A.",
+                "Grayzeck, E.",
+                "Morgan, T. H.",
+                "Paganelli, F.",
+                "Raugh, A.",
+                "Stein, T.",
+                "Tiscareno, M. S.",
+                "Weber, R. C.",
+                "Banks, M.",
+                "Powell, K."
+            ],
+            "pubdate": "2017-12-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2299894": {
+        "title": [
+            "PDS-D -- The <em>Planetary Data System</em> Distribution Subsystem"
+        ],
+        "source": {
+            "bibcode": "2003LPI....34.1496H",
+            "title": [
+                "PDS-D -- The Planetary Data System Distribution Subsystem"
+            ],
+            "author": [
+                "Hughes, J. S.",
+                "Lavoie, S.",
+                "Wilf, J.",
+                "Joyner, R.",
+                "Crichton, D."
+            ],
+            "pubdate": "2003-03-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "21299925": {
+        "title": [
+            "FAIR and the <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "2021AGUFM.U43E..11P",
+            "title": [
+                "FAIR and the Planetary Data System"
+            ],
+            "author": [
+                "Padams, Jordan",
+                "Raugh, Anne",
+                "Hughes, Steve",
+                "Joyner, Ronald",
+                "Crichton, Daniel",
+                "Loubrieu, Thomas"
+            ],
+            "pubdate": "2021-12-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "19960998": {
+        "title": [
+            "Metadata Evolution in the <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "2020ASPC..527..343R",
+            "title": [
+                "Metadata Evolution in the Planetary Data System"
+            ],
+            "author": [
+                "Raugh, A. C.",
+                "Hughes, J. S.",
+                "Padams, J. H."
+            ],
+            "pubdate": "2020-00-00",
+            "doctype": "inproceedings",
+            "property": [
+                "ADS_OPENACCESS",
+                "ARTICLE",
+                "ESOURCE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "20180307": {
+        "title": [
+            "The <em>Planetary Data System:</em> A Vital Component in NASA's Science Exploration Program"
+        ],
+        "source": {
+            "bibcode": "2021BAAS...53d.459P",
+            "title": [
+                "The Planetary Data System: A Vital Component in NASA's Science Exploration Program"
+            ],
+            "author": [
+                "Prockter, Louise",
+                "Tiscareno, Matthew S.",
+                "Grayzeck, Edwin J.",
+                "Acton, Charles H.",
+                "Arvidson, Raymond E.",
+                "Bauer, James M.",
+                "Beebe, Reta",
+                "Besse, Sebastien",
+                "Chanover, Nancy",
+                "Crichton, Daniel J.",
+                "Gaddis, Lisa R.",
+                "Gordon, Mitchell K.",
+                "Hare, Trent M.",
+                "Hollibaugh Baker, David M.",
+                "Hughes, John S.",
+                "Law, Emily S.",
+                "McAuley, Myche",
+                "McClanahan, Tim",
+                "Padams, Jordan H.",
+                "Raugh, Anne C.",
+                "Showalter, Mark R.",
+                "Stein, Thomas",
+                "Walker, Ray J."
+            ],
+            "pubdate": "2021-05-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS"
+            ],
+            "doi": [
+                "10.3847/25c2cfeb.c3deebea"
+            ],
+            "grant": null
+        }
+    },
+    "29095221": {
+        "title": [
+            "Optimized MARSIS Radar Data on the <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "2023AGUFM.P41H3269P",
+            "title": [
+                "Optimized MARSIS Radar Data on the Planetary Data System"
+            ],
+            "author": [
+                "Plaut, Jeffrey J."
+            ],
+            "pubdate": "2023-12-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "31608928": {
+        "title": [
+            "The <em>Planetary Data System</em> Radio Science Sub-Node"
+        ],
+        "source": {
+            "bibcode": "2024EPSC...17.1182M",
+            "title": [
+                "The Planetary Data System Radio Science Sub-Node"
+            ],
+            "author": [
+                "Majid, Walid",
+                "Kahan, Daniel",
+                "Buccino, Dustin",
+                "Lee, Clement",
+                "Barbinis, Elias",
+                "Yang, Oscar",
+                "Tiscareno, Matthew",
+                "Simpson, Richard"
+            ],
+            "pubdate": "2024-09-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": [
+                "10.5194/epsc2024-1182"
+            ],
+            "grant": null
+        }
+    },
+    "2633020": {
+        "title": [
+            "Evolving the Technical Infrastructure of the <em>Planetary Data System</em> for the 21st Century"
+        ],
+        "source": {
+            "bibcode": "2010cosp...38..806B",
+            "title": [
+                "Evolving the Technical Infrastructure of the Planetary Data System for the 21st Century"
+            ],
+            "author": [
+                "Beebe, Reta",
+                "Crichton, Daniel",
+                "Hughes, Steven",
+                "Grayzeck, Edwin"
+            ],
+            "pubdate": "2010-00-00",
+            "doctype": "abstract",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2809297": {
+        "title": [
+            "The <em>Planetary Data System</em> Geosciences Node Data Services"
+        ],
+        "source": {
+            "bibcode": "2015LPICo1846.7019S",
+            "title": [
+                "The Planetary Data System Geosciences Node Data Services"
+            ],
+            "author": [
+                "Stein, T. C.",
+                "Wang, J.",
+                "Guinness, E. A."
+            ],
+            "pubdate": "2015-06-00",
+            "doctype": "inproceedings",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "22645269": {
+        "source": {
+            "bibcode": "2022AGUFMIN22D0330R",
+            "title": [
+                "First Steps in Developing an Ontology of Targeting for the Planetary Data System (PDS) Archives"
+            ],
+            "author": [
+                "Raugh, Anne",
+                "Hughes, John S.",
+                "Guinness, Edward A.",
+                "Gordon, Mitchell K."
+            ],
+            "pubdate": "2022-12-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "31607979": {
+        "source": {
+            "bibcode": "2024EPSC...17..163K",
+            "title": [
+                "How to access and download the scientific data of Korean space exploration using KARI Planetary Data System"
+            ],
+            "author": [
+                "Kim, Joo Hyeon",
+                "Kim, Daesung"
+            ],
+            "pubdate": "2024-09-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": [
+                "10.5194/epsc2024-163"
+            ],
+            "grant": null
+        }
+    },
+    "14340249": {
+        "source": {
+            "bibcode": "2018LPICo2082.6005L",
+            "title": [
+                "The Relationship Between Planetary Spatial Data Infrastructure and the Planetary Data System"
+            ],
+            "author": [
+                "Laura, J.",
+                "Arvidson, R. E.",
+                "Gaddis, L. R."
+            ],
+            "pubdate": "2018-04-00",
+            "doctype": "inproceedings",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2601040": {
+        "title": [
+            "A Framework to Manage Information Models -- The <em>Planetary Data System</em> Case Study"
+        ],
+        "source": {
+            "bibcode": "2009LPI....40.1139H",
+            "title": [
+                "A Framework to Manage Information Models -- The Planetary Data System Case Study"
+            ],
+            "author": [
+                "Hughes, J. S.",
+                "Crichton, D. J.",
+                "Mattmann, C. A."
+            ],
+            "pubdate": "2009-03-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "21982901": {
+        "title": [
+            "Giant Planet Observations in NASA's <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "2022DPS....5441501C",
+            "title": [
+                "Giant Planet Observations in NASA's Planetary Data System"
+            ],
+            "author": [
+                "Chanover, Nancy",
+                "Bauer, James",
+                "Gordon, Mitchell",
+                "Huber, Lyle",
+                "Mace, Mia",
+                "Neakrase, Lynn",
+                "Tiscareno, Matthew",
+                "Walker, Raymond"
+            ],
+            "pubdate": "2022-12-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2412425": {
+        "title": [
+            "Archiving Lightcurve Data in the NASA <em>Planetary Data System</em> (PDS)"
+        ],
+        "source": {
+            "bibcode": "2005SASS...24...79S",
+            "title": [
+                "Archiving Lightcurve Data in the NASA Planetary Data System (PDS)"
+            ],
+            "author": [
+                "Sykes, M. V.",
+                "Tarico, D.",
+                "Early, R."
+            ],
+            "pubdate": "2005-05-00",
+            "doctype": "article",
+            "property": [
+                "ADS_OPENACCESS",
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2701921": {
+        "source": {
+            "bibcode": "2011LPI....42.2089G",
+            "title": [
+                "The Moon Mineralogy Mapper Data Set Delivered to the Planetary Data System and Calibration and Validation Status"
+            ],
+            "author": [
+                "Green, R. O.",
+                "Pieters, C. M.",
+                "Boardman, J.",
+                "Lundeen, S.",
+                "Staid, M.",
+                "M3 Team"
+            ],
+            "pubdate": "2011-03-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2790456": {
+        "source": {
+            "bibcode": "2015DPS....4731202C",
+            "title": [
+                "NASA's Planetary Data System: Support for the Delivery of Derived Data Sets at the Atmospheres Node"
+            ],
+            "author": [
+                "Chanover, Nancy J.",
+                "Beebe, Reta",
+                "Neakrase, Lynn",
+                "Huber, Lyle",
+                "Rees, Shannon",
+                "Hornung, Danae"
+            ],
+            "pubdate": "2015-11-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "17583436": {
+        "title": [
+            "<em>Planetary Data System</em> (PDS) Tools and Tool Registry"
+        ],
+        "source": {
+            "bibcode": "2019EPSC...13..170L",
+            "title": [
+                "Planetary Data System (PDS) Tools and Tool Registry"
+            ],
+            "author": [
+                "Law, Emily",
+                "Cayanan, Michael",
+                "Crichton, Daniel",
+                "Hollins, Galen",
+                "Hughes, Steve",
+                "Padams, Jordon"
+            ],
+            "pubdate": "2019-09-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "27468045": {
+        "title": [
+            "The Cartography and Imaging Sciences Discipline Node of NASA's <em>Planetary Data System</em> (PDS)"
+        ],
+        "source": {
+            "bibcode": "2024LPICo3040.2690H",
+            "title": [
+                "The Cartography and Imaging Sciences Discipline Node of NASA's Planetary Data System (PDS)"
+            ],
+            "author": [
+                "Hartke, M. A.",
+                "Hare, T. M.",
+                "McAuley, M."
+            ],
+            "pubdate": "2024-03-00",
+            "doctype": "inproceedings",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "29094266": {
+        "title": [
+            "The <em>Planetary Data System</em> Radio Science Sub-Node"
+        ],
+        "source": {
+            "bibcode": "2023AGUFM.P21E3065M",
+            "title": [
+                "The Planetary Data System Radio Science Sub-Node"
+            ],
+            "author": [
+                "Majid, Walid",
+                "Kahan, Daniel S.",
+                "Buccino, Dustin",
+                "Yang, Yu-Ming",
+                "Barbinis, Elias",
+                "Lee, Clement G.",
+                "Tiscareno, Matthew",
+                "Simpson, Richard A."
+            ],
+            "pubdate": "2023-12-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "20111276": {
+        "title": [
+            "Novelty and Discovery Content Analysis Methods for the <em>Planetary Data System</em> Image Atlas"
+        ],
+        "source": {
+            "bibcode": "2020AGUFMP004.0013H",
+            "title": [
+                "Novelty and Discovery Content Analysis Methods for the Planetary Data System Image Atlas"
+            ],
+            "author": [
+                "Horton, P.",
+                "Ravichandar, S.",
+                "Lee, J.",
+                "Kerner, H. R.",
+                "Natha, A.",
+                "Soliman, T. K.",
+                "Grimes, K.",
+                "Wagstaff, K.",
+                "Verma, R.",
+                "McAuley, J."
+            ],
+            "pubdate": "2020-12-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "22647547": {
+        "title": [
+            "<em>Planetary Data System</em> Training Efforts"
+        ],
+        "source": {
+            "bibcode": "2022AGUFMSY14B..02L",
+            "title": [
+                "Planetary Data System Training Efforts"
+            ],
+            "author": [
+                "Loftin, Sheri",
+                "Hirsch, Benjamin"
+            ],
+            "pubdate": "2022-12-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "20717832": {
+        "title": [
+            "An Update on Venus Data in NASA's <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "2021DPS....5341009C",
+            "title": [
+                "An Update on Venus Data in NASA's Planetary Data System"
+            ],
+            "author": [
+                "Chanover, Nancy",
+                "Neakrase, Lynn",
+                "Huber, Lyle",
+                "Beebe, Reta",
+                "Arvidson, Raymond",
+                "Guinness, Edward",
+                "Slavney, Susan"
+            ],
+            "pubdate": "2021-10-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2809281": {
+        "source": {
+            "bibcode": "2015LPICo1846.7057G",
+            "title": [
+                "A History of the NASA Planetary Data System (PDS) Imaging Node's Map-A-Planet Legacy Web Services"
+            ],
+            "author": [
+                "Garcia, P. A.",
+                "Isbell, C. E.",
+                "Gaddis, L. R."
+            ],
+            "pubdate": "2015-06-00",
+            "doctype": "inproceedings",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "21309697": {
+        "source": {
+            "bibcode": "2021AGUFMSM45G..09L",
+            "title": [
+                "Additions to Voyager 2 Cosmic Ray Subsystem Data in the Planetary Data System from Ice Giant Flybys"
+            ],
+            "author": [
+                "Looper, Mark",
+                "Mafi, Joseph",
+                "Heikkila, Bryant",
+                "Joy, Steven"
+            ],
+            "pubdate": "2021-12-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "14279514": {
+        "title": [
+            "The Role of the <em>Planetary Data System</em> in a Planetary Spatial Data Infrastructure"
+        ],
+        "source": {
+            "bibcode": "2018LPI....49.1540G",
+            "title": [
+                "The Role of the Planetary Data System in a Planetary Spatial Data Infrastructure"
+            ],
+            "author": [
+                "Gaddis, L.",
+                "Laura, J.",
+                "Arvidson, R."
+            ],
+            "pubdate": "2018-03-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "15788912": {
+        "source": {
+            "bibcode": "2019LPI....50.2047N",
+            "title": [
+                "Digitization of the Photographic Image Archive of Earth Analog Site, Amboy Crater, for the Planetary Data System"
+            ],
+            "author": [
+                "Nelson, D. M.",
+                "Williams, D. A."
+            ],
+            "pubdate": "2019-03-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "14212310": {
+        "title": [
+            "Strategy of Planetary Data Archives in Japanese Missions for <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "2017AGUFMIN43E..07Y",
+            "title": [
+                "Strategy of Planetary Data Archives in Japanese Missions for Planetary Data System"
+            ],
+            "author": [
+                "Yamamoto, Y.",
+                "Ishihara, Y.",
+                "Murakami, S. Y."
+            ],
+            "pubdate": "2017-12-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2809315": {
+        "title": [
+            "The NASA <em>Planetary Data System:</em> Past, Present, and Future"
+        ],
+        "source": {
+            "bibcode": "2015LPICo1846.7028A",
+            "title": [
+                "The NASA Planetary Data System: Past, Present, and Future"
+            ],
+            "author": [
+                "Arvidson, R. E."
+            ],
+            "pubdate": "2015-06-00",
+            "doctype": "inproceedings",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2876777": {
+        "title": [
+            "OSIRIS-REx <em>Planetary Data System</em> Archive Implementation"
+        ],
+        "source": {
+            "bibcode": "2017LPI....48.2184C",
+            "title": [
+                "OSIRIS-REx Planetary Data System Archive Implementation"
+            ],
+            "author": [
+                "Crombie, M. K.",
+                "Lauretta, D. S."
+            ],
+            "pubdate": "2017-03-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "460969": {
+        "title": [
+            "The <em>Planetary Data System</em> Information Model for Geometry Metadata"
+        ],
+        "source": {
+            "bibcode": "2014AGUFMIN23C3740G",
+            "title": [
+                "The Planetary Data System Information Model for Geometry Metadata"
+            ],
+            "author": [
+                "Guinness, E. A.",
+                "Gordon, M. K."
+            ],
+            "pubdate": "2014-12-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2011626": {
+        "title": [
+            "Services of the Small Bodies Node of the <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "1996P&SS...44...47G",
+            "title": [
+                "Services of the Small Bodies Node of the Planetary Data System"
+            ],
+            "author": [
+                "Grayzeck, E. J., Jr.",
+                "A'Hearn, M. F.",
+                "Raugh, A. C.",
+                "Sykes, M. V.",
+                "Davis, D. R.",
+                "Tholen, D."
+            ],
+            "pubdate": "1996-01-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/0032-0633(95)00099-2"
+            ],
+            "grant": null
+        }
+    },
+    "2500504": {
+        "title": [
+            "Mars Image Data Available Through the <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "2007LPICo1353.3356G",
+            "title": [
+                "Mars Image Data Available Through the Planetary Data System"
+            ],
+            "author": [
+                "Garcia, P. A.",
+                "Gaddis, L. R.",
+                "Lavoie, S. K.",
+                "Isbell, C. E.",
+                "Sword, B. J.",
+                "Eliason, E. M."
+            ],
+            "pubdate": "2007-07-00",
+            "doctype": "inproceedings",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "124457": {
+        "title": [
+            "NASA\u2019s <em>Planetary Data System</em>\u2014An Accumulating Archive developed by Scientists for Scientists"
+        ],
+        "source": {
+            "bibcode": "2013DPS....4521126M",
+            "title": [
+                "NASA\u2019s Planetary Data System\u2014An Accumulating Archive developed by Scientists for Scientists"
+            ],
+            "author": [
+                "Morgan, Thomas H.",
+                "McLaughlin, S. A.",
+                "Grayzeck, E. J.",
+                "Knopf, W. P.",
+                "Vilas, F.",
+                "Crichton, D. J."
+            ],
+            "pubdate": "2013-10-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "21982905": {
+        "source": {
+            "bibcode": "2022DPS....5421101M",
+            "title": [
+                "Trends in Information Technology Use by Planetary Scientists based on Planetary Data System 2022 Customer Satisfaction Survey"
+            ],
+            "author": [
+                "Morgan, Thomas",
+                "McClanahan, Timothy",
+                "Galauner, Mark",
+                "Hollibaugh-Baker, David"
+            ],
+            "pubdate": "2022-12-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2552217": {
+        "title": [
+            "Lunar Image Data at the Imaging Node of the <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "2008LPI....39.2365G",
+            "title": [
+                "Lunar Image Data at the Imaging Node of the Planetary Data System"
+            ],
+            "author": [
+                "Garcia, P. A.",
+                "Gaddis, L. R.",
+                "Isbell, C.",
+                "Lavoie, S. K.",
+                "Becker, K.",
+                "Stanboli, A."
+            ],
+            "pubdate": "2008-03-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2809350": {
+        "title": [
+            "The <em>Planetary Data System</em> New Geometry Metadata Model"
+        ],
+        "source": {
+            "bibcode": "2015LPICo1846.7027G",
+            "title": [
+                "The Planetary Data System New Geometry Metadata Model"
+            ],
+            "author": [
+                "Guinness, E. A.",
+                "Gordon, M. K."
+            ],
+            "pubdate": "2015-06-00",
+            "doctype": "inproceedings",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "12580274": {
+        "title": [
+            "An Overview of the <em>Planetary Data System</em> Roadmap Study for 2017 - 2026"
+        ],
+        "source": {
+            "bibcode": "2017DPS....4921801M",
+            "title": [
+                "An Overview of the Planetary Data System Roadmap Study for 2017 - 2026"
+            ],
+            "author": [
+                "Morgan, Thomas H.",
+                "McNutt, Ralph L.",
+                "Gaddis, Lisa",
+                "Law, Emily",
+                "Beyer, Ross A.",
+                "Crombie, Kate",
+                "Ebel, Denton",
+                "Ghosh, Amitahba",
+                "Grayzeck, Edwin J.",
+                "Paganelli, Flora",
+                "Raugh, Anne C.",
+                "Stein, Thomas",
+                "Tiscareno, Matthew S.",
+                "Weber, Renee",
+                "E Banks, Maria",
+                "Powell, Kathryn"
+            ],
+            "pubdate": "2017-10-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "27117901": {
+        "title": [
+            "<em>Planetary Data System</em> (PDS) Migration of PDS3 Data to PDS4 Standards: Progress and Plans"
+        ],
+        "source": {
+            "bibcode": "2023LPICo2991.7080B",
+            "title": [
+                "Planetary Data System (PDS) Migration of PDS3 Data to PDS4 Standards: Progress and Plans"
+            ],
+            "author": [
+                "Baker, D. M. H.",
+                "McClanahan, T. P.",
+                "Morgan, T. A.",
+                "Banks, M. E.",
+                "Loftin, S. A.",
+                "Givens, L.",
+                "Civilini, F."
+            ],
+            "pubdate": "2023-06-00",
+            "doctype": "inproceedings",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2877981": {
+        "source": {
+            "bibcode": "2017LPICo1986.7124G",
+            "title": [
+                "The NASA Planetary Data System's Cartography and Imaging Sciences Node and the Planetary Spatial Data Infrastructure (PSDI) Initiative"
+            ],
+            "author": [
+                "Gaddis, L. R.",
+                "Laura, J.",
+                "Hare, T.",
+                "Hagerty, J."
+            ],
+            "pubdate": "2017-06-00",
+            "doctype": "inproceedings",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "18810497": {
+        "title": [
+            "The Cassini Mission Archive at the <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "2019AGUFMIN11E0703R",
+            "title": [
+                "The Cassini Mission Archive at the Planetary Data System"
+            ],
+            "author": [
+                "Ray, T. L.",
+                "Edgington, S. G.",
+                "Tapella, R. K.",
+                "Beebe, R. F.",
+                "Buratti, B. J.",
+                "Burton, M. E.",
+                "Weld, K. R.",
+                "Streiffert, B. A.",
+                "Connell, A.",
+                "Brooks, S. M."
+            ],
+            "pubdate": "2019-12-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2401356": {
+        "title": [
+            "Archiving lightcurve data in the NASA <em>Planetary Data System</em> (PDS)"
+        ],
+        "source": {
+            "bibcode": "2005MPBu...32...11S",
+            "title": [
+                "Archiving lightcurve data in the NASA Planetary Data System (PDS)"
+            ],
+            "author": [
+                "Sykes, Mark V.",
+                "Tarico, David",
+                "Early, Rose"
+            ],
+            "pubdate": "2005-03-00",
+            "doctype": "article",
+            "property": [
+                "ADS_OPENACCESS",
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "17584301": {
+        "title": [
+            "Data into the <em>Planetary Data System:</em> When Data Systems Collide"
+        ],
+        "source": {
+            "bibcode": "2019EPSC...13..926G",
+            "title": [
+                "Data into the Planetary Data System: When Data Systems Collide"
+            ],
+            "author": [
+                "Gordon, Mitchell",
+                "Showalter, Mark",
+                "Nedervold, Eric",
+                "Tiscareno, Matthew",
+                "Kolokolova, Ludmilla",
+                "Barnes, Tilden",
+                "Evans, Michael",
+                "French, Robert"
+            ],
+            "pubdate": "2019-09-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "12579880": {
+        "title": [
+            "The <em>Planetary Data System</em> (PDS) Data Dictionary Tool (LDDTool)"
+        ],
+        "source": {
+            "bibcode": "2017DPS....4922301R",
+            "title": [
+                "The Planetary Data System (PDS) Data Dictionary Tool (LDDTool)"
+            ],
+            "author": [
+                "Raugh, Anne C.",
+                "Hughes, John S."
+            ],
+            "pubdate": "2017-10-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "22183090": {
+        "source": {
+            "bibcode": "2023P&SS..22905673P",
+            "title": [
+                "Re-calibration of Mars Global Surveyor Thermal Emission Spectrometer spectra. 1. Methodology and re-derived data products: Aerosol opacities and surface emissivities"
+            ],
+            "author": [
+                "Pankine, Alexey A.",
+                "Bandfield, Joshua L.",
+                "McConnochie, Timothy H.",
+                "Rogers, A. Deanne"
+            ],
+            "pubdate": "2023-05-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "DATA",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/j.pss.2023.105673"
+            ],
+            "grant": null
+        }
+    },
+    "22624857": {
+        "source": {
+            "bibcode": "2022AGUFMSM43B..04L",
+            "title": [
+                "Additions to Voyager 2 Cosmic Ray Subsystem Data in the Planetary Data System from Ice Giant Flybys"
+            ],
+            "author": [
+                "Looper, Mark Dixon",
+                "Mafi, Joseph N.",
+                "Heikkila, Bryant C.",
+                "Joy, Steven P."
+            ],
+            "pubdate": "2022-12-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "23652203": {
+        "source": {
+            "bibcode": "2023EP&S...75..103E",
+            "title": [
+                "High-resolution shape models of Phobos and Deimos from stereophotoclinometry"
+            ],
+            "author": [
+                "Ernst, Carolyn M.",
+                "Daly, R. Terik",
+                "Gaskell, Robert W.",
+                "Barnouin, Olivier S.",
+                "Nair, Hari",
+                "Hyatt, Benjamin A.",
+                "Al Asad, Manar M.",
+                "Hoch, Kielan K. W."
+            ],
+            "pubdate": "2023-12-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "DATA",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1186/s40623-023-01814-7"
+            ],
+            "grant": null
+        }
+    },
+    "2436817": {
+        "source": {
+            "bibcode": "2006epsc.conf..616Z",
+            "title": [
+                "Planetary Science Archives Interoperability, A Prototype between NASA's Planetary Data System and ESA's Planetary Science Archive"
+            ],
+            "author": [
+                "Zender, J.",
+                "Crichton, D.",
+                "Interoperability Working Team"
+            ],
+            "pubdate": "2006-00-00",
+            "doctype": "inproceedings",
+            "property": [
+                "ADS_OPENACCESS",
+                "ARTICLE",
+                "ESOURCE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "1698484": {
+        "title": [
+            "Connecting the Astrophysics Data System and <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "1997DPS....29.2704E",
+            "title": [
+                "Connecting the Astrophysics Data System and Planetary Data System"
+            ],
+            "author": [
+                "Eichhorn, G.",
+                "Kurtz, M. J.",
+                "Accomazzi, A.",
+                "Grant, C. S.",
+                "Murray, S. S.",
+                "Hughes, J. S.",
+                "Mortellaro, J.",
+                "McMahon, S. K."
+            ],
+            "pubdate": "1997-07-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "27117866": {
+        "title": [
+            "Overview of the <em>Planetary Data System</em> (PDS) and the PDS Project Office"
+        ],
+        "source": {
+            "bibcode": "2023LPICo2991.7065M",
+            "title": [
+                "Overview of the Planetary Data System (PDS) and the PDS Project Office"
+            ],
+            "author": [
+                "McClanahan, T. P.",
+                "Morgan, T. H.",
+                "Baker, D. H.",
+                "Banks, M. E.",
+                "Civilini, F.",
+                "Givens, L.",
+                "Loftin, S. A."
+            ],
+            "pubdate": "2023-06-00",
+            "doctype": "inproceedings",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "20133053": {
+        "source": {
+            "bibcode": "2020AGUFMIN0170003S",
+            "title": [
+                "Archiving Citizen Science Data in a Public Archive: Radio JOVE Data and the Planetary Data System"
+            ],
+            "author": [
+                "Sharlow, M.",
+                "Cecconi, B.",
+                "Sky, J.",
+                "Mafi, J. N.",
+                "Kurth, W. S.",
+                "Higgins, C. A.",
+                "Walker, R. J."
+            ],
+            "pubdate": "2020-12-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "22644811": {
+        "title": [
+            "How Peer Review Helps Ensure Data FAIRness and TRUSTworthiness in the <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "2022AGUFMIN42B0334M",
+            "title": [
+                "How Peer Review Helps Ensure Data FAIRness and TRUSTworthiness in the Planetary Data System"
+            ],
+            "author": [
+                "Mafi, Joseph N.",
+                "Joy, Steven P.",
+                "Banks, Maria",
+                "Guinness, Edward A.",
+                "Kazden, Debra P.",
+                "Walker, Raymond J."
+            ],
+            "pubdate": "2022-12-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2011600": {
+        "title": [
+            "The Planetary Plasma Interactions Node of the <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "1996P&SS...44...55W",
+            "title": [
+                "The Planetary Plasma Interactions Node of the Planetary Data System"
+            ],
+            "author": [
+                "Walker, Raymond J.",
+                "Joy, Steven P.",
+                "King, Todd A.",
+                "Russell, Christopher T.",
+                "McPherron, Robert L.",
+                "Kurth, William S."
+            ],
+            "pubdate": "1996-01-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/0032-0633(95)00106-9"
+            ],
+            "grant": null
+        }
+    },
+    "19493630": {
+        "source": {
+            "bibcode": "2020DPS....5241304C",
+            "title": [
+                "The Planetary Data System Atmospheres Node: A Comprehensive Archive for Planetary Atmospheric Data"
+            ],
+            "author": [
+                "Chanover, N. J.",
+                "Huber, L.",
+                "Neakrase, L.",
+                "Johnson, J.",
+                "Beebe, R."
+            ],
+            "pubdate": "2020-10-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "15117996": {
+        "source": {
+            "bibcode": "2018JGRA..123.4171W",
+            "title": [
+                "First Ionospheric Results From the MAVEN Radio Occultation Science Experiment (ROSE)"
+            ],
+            "author": [
+                "Withers, Paul",
+                "Felici, M.",
+                "Mendillo, M.",
+                "Moore, L.",
+                "Narvaez, C.",
+                "Vogt, M. F.",
+                "Jakosky, B. M."
+            ],
+            "pubdate": "2018-05-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2018JA025182"
+            ],
+            "grant": null
+        }
+    },
+    "2516623": {
+        "source": {
+            "bibcode": "2007SSRv..131..601W",
+            "title": [
+                "The MESSENGER Science Operations Center"
+            ],
+            "author": [
+                "Winters, Helene L.",
+                "Domingue, Deborah L.",
+                "Choo, Teck H.",
+                "Espiritu, Raymond",
+                "Hash, Christopher",
+                "Malaret, Erick",
+                "Mick, Alan A.",
+                "Skura, Joseph P.",
+                "Steele, Joshua"
+            ],
+            "pubdate": "2007-08-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1007/s11214-007-9257-4"
+            ],
+            "grant": null
+        }
+    },
+    "2637874": {
+        "title": [
+            "Evolving the Technical Infrastructure of the <em>Planetary Data System</em> for the 21st Century"
+        ],
+        "source": {
+            "bibcode": "2010DPS....42.3702B",
+            "title": [
+                "Evolving the Technical Infrastructure of the Planetary Data System for the 21st Century"
+            ],
+            "author": [
+                "Beebe, Reta F.",
+                "Crichton, D.",
+                "Hughes, S.",
+                "Grayzeck, E."
+            ],
+            "pubdate": "2010-10-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "22138086": {
+        "source": {
+            "bibcode": "2023Icar..39515474F",
+            "title": [
+                "Uranus ring occultation observations: 1977-2006"
+            ],
+            "author": [
+                "French, Richard G.",
+                "McGhee-French, Colleen A.",
+                "Gordon, Mitchell",
+                "Baron, Richard L.",
+                "Bosh, Amanda S.",
+                "Buie, Marc W.",
+                "Chanover, Nancy",
+                "Clark, Mary Ann",
+                "Dunham, Edward W.",
+                "French, Linda M.",
+                "Glass, Ian S.",
+                "Goguen, Jay D.",
+                "Gregory, Brooke",
+                "Hock, Rachel A.",
+                "Kangas, Julie A.",
+                "Levine, Stephen E.",
+                "Matthews, Keith Y.",
+                "McMason, Emily C.",
+                "Meech, Karen J.",
+                "Mink, Jessica",
+                "Nicholson, Philip D.",
+                "Person, Michael J.",
+                "Roques, Fran\u00e7oise",
+                "Sicardy, Bruno",
+                "Stecklum, Bringfried",
+                "Tholen, David",
+                "Young, Eliot F.",
+                "Young, Leslie A."
+            ],
+            "pubdate": "2023-05-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "DATA",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/j.icarus.2023.115474"
+            ],
+            "grant": null
+        }
+    },
+    "598408": {
+        "source": {
+            "bibcode": "2014DPS....4621404M",
+            "title": [
+                "The Planetary Data System\u2014 Archiving Planetary Data for the use of the Planetary Science Community"
+            ],
+            "author": [
+                "Morgan, Thomas H.",
+                "McLaughlin, Stephanie A.",
+                "Grayzeck, Edwin J.",
+                "Vilas, Faith",
+                "Knopf, William P.",
+                "Crichton, Daniel J."
+            ],
+            "pubdate": "2014-11-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "590267": {
+        "title": [
+            "PDS4 - Positioning the <em>Planetary Data System</em> for the Future"
+        ],
+        "source": {
+            "bibcode": "2014cosp...40E1247H",
+            "title": [
+                "PDS4 - Positioning the Planetary Data System for the Future"
+            ],
+            "author": [
+                "Hughes, J. Steven",
+                "Beebe, Reta",
+                "Crichton, Daniel J.",
+                "Morgan, Tom"
+            ],
+            "pubdate": "2014-00-00",
+            "doctype": "abstract",
+            "property": [
+                "ARTICLE",
+                "NOT REFEREED",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "20367343": {
+        "title": [
+            "Cloud Adoption Strategy for the <em>Planetary Data System</em> Geosciences Node"
+        ],
+        "source": {
+            "bibcode": "2021LPICo2549.7055A",
+            "title": [
+                "Cloud Adoption Strategy for the Planetary Data System Geosciences Node"
+            ],
+            "author": [
+                "Arvidson, L. A.",
+                "Politte, D. V.",
+                "Scholes, D."
+            ],
+            "pubdate": "2021-06-00",
+            "doctype": "inproceedings",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "460854": {
+        "title": [
+            "The <em>Planetary Data System</em>\u2014An Accumulating Archive developed by Scientists for Scientists"
+        ],
+        "source": {
+            "bibcode": "2014AGUFMIN11C3617M",
+            "title": [
+                "The Planetary Data System\u2014An Accumulating Archive developed by Scientists for Scientists"
+            ],
+            "author": [
+                "Morgan, T. H.",
+                "McLaughlin, S.",
+                "Grayzeck, E. J.",
+                "Knopf, W.",
+                "Crichton, D. J."
+            ],
+            "pubdate": "2014-12-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2790444": {
+        "title": [
+            "The <em>Planetary Data System</em>--preparing for a New Decade"
+        ],
+        "source": {
+            "bibcode": "2015DPS....4731203M",
+            "title": [
+                "The Planetary Data System--preparing for a New Decade"
+            ],
+            "author": [
+                "Morgan, Thomas H.",
+                "Knopf, William P.",
+                "Grayzeck, Edwin J."
+            ],
+            "pubdate": "2015-11-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "20367347": {
+        "title": [
+            "NASA <em>Planetary Data System</em> and Data Object Identifiers (DOIs)"
+        ],
+        "source": {
+            "bibcode": "2021LPICo2549.7059P",
+            "title": [
+                "NASA Planetary Data System and Data Object Identifiers (DOIs)"
+            ],
+            "author": [
+                "Padams, J.",
+                "Raugh, A.",
+                "Crichton, D.",
+                "Law, E.",
+                "Hughes, J. S.",
+                "Joyner, R."
+            ],
+            "pubdate": "2021-06-00",
+            "doctype": "inproceedings",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "19085548": {
+        "source": {
+            "bibcode": "2020SSRv..216...61W",
+            "title": [
+                "The MAVEN Radio Occultation Science Experiment (ROSE)"
+            ],
+            "author": [
+                "Withers, Paul",
+                "Felici, M.",
+                "Mendillo, M.",
+                "Moore, L.",
+                "Narvaez, C.",
+                "Vogt, M. F.",
+                "Oudrhiri, K.",
+                "Kahan, D.",
+                "Jakosky, B. M."
+            ],
+            "pubdate": "2020-05-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1007/s11214-020-00687-6"
+            ],
+            "grant": null
+        }
+    },
+    "2236050": {
+        "title": [
+            "Asteroid Data Archiving in the <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "2002aste.book..757N",
+            "title": [
+                "Asteroid Data Archiving in the Planetary Data System"
+            ],
+            "author": [
+                "Neese, C. L.",
+                "Grayzeck, E. J.",
+                "Sykes, M. V."
+            ],
+            "pubdate": "2002-03-00",
+            "doctype": "inbook",
+            "property": [
+                "ARTICLE",
+                "REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2688557": {
+        "abstract": [
+            "The <em>Planetary Data System</em> (PDS) is in the midst of a major upgrade to its system. "
+        ],
+        "title": [
+            "PDS4: Developing the Next Generation <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "2011epsc.conf.1733C",
+            "title": [
+                "PDS4: Developing the Next Generation Planetary Data System"
+            ],
+            "author": [
+                "Crichton, D.",
+                "Beebe, R.",
+                "Hughes, S.",
+                "Stein, T.",
+                "Grayzeck, E."
+            ],
+            "pubdate": "2011-10-00",
+            "doctype": "inproceedings",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "20367348": {
+        "title": [
+            "NASA <em>Planetary Data System</em> API"
+        ],
+        "source": {
+            "bibcode": "2021LPICo2549.7060P",
+            "title": [
+                "NASA Planetary Data System API"
+            ],
+            "author": [
+                "Padams, J.",
+                "Loubrieu, T.",
+                "Crichton, D.",
+                "Hughes, J. S.",
+                "Law, E."
+            ],
+            "pubdate": "2021-06-00",
+            "doctype": "inproceedings",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "21122546": {
+        "title": [
+            "Becoming a More FAIR NASA <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "2022LPICo2678.2868P",
+            "title": [
+                "Becoming a More FAIR NASA Planetary Data System"
+            ],
+            "author": [
+                "Padams, J.",
+                "Raugh, A.",
+                "Hughes, J. S.",
+                "Joyner, R.",
+                "Crichton, D.",
+                "Loubrieu, T.",
+                "Collins, S.",
+                "Arevalo, E.",
+                "Suh, C."
+            ],
+            "pubdate": "2022-03-00",
+            "doctype": "inproceedings",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "14202113": {
+        "title": [
+            "Archiving Spectral Libraries in the <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "2017AGUFMIN51C0028S",
+            "title": [
+                "Archiving Spectral Libraries in the Planetary Data System"
+            ],
+            "author": [
+                "Slavney, S.",
+                "Guinness, E. A.",
+                "Scholes, D.",
+                "Zastrow, A."
+            ],
+            "pubdate": "2017-12-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "9254031": {
+        "source": {
+            "bibcode": "2012AGUFMIN11F..02C",
+            "title": [
+                "Towards an International Planetary Community Built on Open Source Software: the Evolution of the Planetary Data System"
+            ],
+            "author": [
+                "Crichton, D. J.",
+                "Ramirez, P.",
+                "Hardman, S.",
+                "Hughes, J. S."
+            ],
+            "pubdate": "2012-12-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "1905562": {
+        "source": {
+            "bibcode": "1993well.rept.....F",
+            "title": [
+                "Submission of Earth-based ring occultation observations to the NASA planetary data system rings discipline node"
+            ],
+            "author": [
+                "French, Richard G."
+            ],
+            "pubdate": "1993-08-00",
+            "doctype": "techreport",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "15636113": {
+        "source": {
+            "bibcode": "2018AGUFM.P33C3858C",
+            "title": [
+                "Schedule of Origins, Spectral Interpretation, Resource Identification, Security-Regolith Explorer Data Product Releases to the Planetary Data System"
+            ],
+            "author": [
+                "Crombie, M.",
+                "Selznick, S.",
+                "Loveridge, M.",
+                "Rizk, B.",
+                "DellaGiustina, D. N.",
+                "Golish, D. R.",
+                "Bos, B. J.",
+                "Christensen, P. R.",
+                "Hamilton, V. E.",
+                "Reuter, D.",
+                "Simon, A. A.",
+                "Barnouin, O. S.",
+                "Daly, M. G.",
+                "Espiritu, R. C.",
+                "Clark, B.",
+                "Nolan, M. C.",
+                "Lauretta, D. S."
+            ],
+            "pubdate": "2018-12-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2832808": {
+        "title": [
+            "<em>Planetary Data System</em> (PDS) Strategic Roadmap"
+        ],
+        "source": {
+            "bibcode": "2016cosp...41E1129L",
+            "title": [
+                "Planetary Data System (PDS) Strategic Roadmap"
+            ],
+            "author": [
+                "Law, Emily",
+                "McNutt, Ralph",
+                "Crichton, Daniel J.",
+                "Morgan, Tom"
+            ],
+            "pubdate": "2016-07-00",
+            "doctype": "abstract",
+            "property": [
+                "ARTICLE",
+                "NOT REFEREED",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "14210270": {
+        "source": {
+            "bibcode": "2017AGUFMIN43E..05W",
+            "title": [
+                "Earth analog image digitization of field, aerial, and lab experiment studies for Planetary Data System archiving."
+            ],
+            "author": [
+                "Williams, D. A.",
+                "Nelson, D. M."
+            ],
+            "pubdate": "2017-12-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "9598212": {
+        "source": {
+            "bibcode": "2015AGUFMIN13A1828M",
+            "title": [
+                "The Planetary Data System \u2014 Renewing Our Science Nodes in Order to Better Serve Our Science Community"
+            ],
+            "author": [
+                "Morgan, T. H.",
+                "McLaughlin, S.",
+                "Grayzeck, E. J.",
+                "Knopf, W.",
+                "McNutt, R. L., Jr.",
+                "Crichton, D. J.",
+                "New, M. H."
+            ],
+            "pubdate": "2015-12-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2498552": {
+        "source": {
+            "bibcode": "2007JGRE..112.5S05S",
+            "title": [
+                "SHARAD sounding radar on the Mars Reconnaissance Orbiter"
+            ],
+            "author": [
+                "Seu, Roberto",
+                "Phillips, Roger J.",
+                "Biccari, Daniela",
+                "Orosei, Roberto",
+                "Masdea, Arturo",
+                "Picardi, Giovanni",
+                "Safaeinili, Ali",
+                "Campbell, Bruce A.",
+                "Plaut, Jeffrey J.",
+                "Marinangeli, Lucia",
+                "Smrekar, Suzanne E.",
+                "Nunes, Daniel C."
+            ],
+            "pubdate": "2007-05-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2006JE002745"
+            ],
+            "grant": null
+        }
+    },
+    "598486": {
+        "title": [
+            "Implementation the NASA <em>Planetary Data System</em> PDS4 Providing Access to LADEE Data"
+        ],
+        "source": {
+            "bibcode": "2014DPS....4641307B",
+            "title": [
+                "Implementation the NASA Planetary Data System PDS4 Providing Access to LADEE Data"
+            ],
+            "author": [
+                "Beebe, Reta F.",
+                "Huber , Lyle",
+                "Neakrase, Lynn",
+                "Reese, Shannon",
+                "Crichton, Daniel",
+                "Hardman, Sean",
+                "Delory, Gregory",
+                "Neese, Carol"
+            ],
+            "pubdate": "2014-11-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "14187690": {
+        "source": {
+            "bibcode": "2017AGUFM.P33E2914A",
+            "title": [
+                "The Role of NASA's Planetary Data System in the Planetary Spatial Data Infrastructure Initiative"
+            ],
+            "author": [
+                "Arvidson, R. E.",
+                "Gaddis, L. R."
+            ],
+            "pubdate": "2017-12-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "18806466": {
+        "title": [
+            "The images have been delivered to the NASA <em>Planetary Data System.</em>"
+        ],
+        "source": {
+            "bibcode": "2019AGUFMED21A..09W",
+            "title": [
+                "The Lunar Orbiter Image Recovery Project (LOIRP) was a project to recover the highest dynamic range images of the lunar surface from the NASA Lunar Orbiters from 1966-67. Images were recovered from 2\" analog instrumentation tapes, recorded at the NASA ground stations during the mission. The images have been delivered to the NASA Planetary Data System."
+            ],
+            "author": [
+                "Wingo, D. R."
+            ],
+            "pubdate": "2019-12-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2011436": {
+        "title": [
+            "The <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "1996P&SS...44....1R",
+            "title": [
+                "The Planetary Data System"
+            ],
+            "author": [
+                "Russell, C. T."
+            ],
+            "pubdate": "1996-01-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/0032-0633(96)89055-6"
+            ],
+            "grant": null
+        }
+    },
+    "2018391": {
+        "title": [
+            "Dust Subnode of the Small Bodies Discipline Node: NASA <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "1996uat..rept.....S",
+            "title": [
+                "Dust Subnode of the Small Bodies Discipline Node: NASA Planetary Data System"
+            ],
+            "author": [
+                "Sykes, Mark V."
+            ],
+            "pubdate": "1996-03-00",
+            "doctype": "techreport",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2701288": {
+        "title": [
+            "Release of HiRISE Digital Terrain Models to the <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "2011LPI....42.1558M",
+            "title": [
+                "Release of HiRISE Digital Terrain Models to the Planetary Data System"
+            ],
+            "author": [
+                "Mattson, S.",
+                "Kirk, R. L.",
+                "Heyd, R.",
+                "McEwen, A. S.",
+                "Eliason, E.",
+                "Hare, T.",
+                "Beyer, R.",
+                "Howington-Kraus, E.",
+                "Okubo, C.",
+                "Herkenhoff, K."
+            ],
+            "pubdate": "2011-03-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "9254013": {
+        "title": [
+            "Examination of a Model Driven Technical Implementation by the <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "2012AGUFMIN11D1486R",
+            "title": [
+                "Examination of a Model Driven Technical Implementation by the Planetary Data System"
+            ],
+            "author": [
+                "Ramirez, P.",
+                "Hardman, S.",
+                "Crichton, D. J.",
+                "Hughes, J. S."
+            ],
+            "pubdate": "2012-12-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2271939": {
+        "title": [
+            "Planetary Data in Education: Tool Development for Access to the <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "2003AGUFMED32C1229A",
+            "title": [
+                "Planetary Data in Education: Tool Development for Access to the Planetary Data System"
+            ],
+            "author": [
+                "Atkinson, C. H.",
+                "Andres, P. M.",
+                "Liggett, P. K.",
+                "Lowes, L. L.",
+                "Sword, B. J."
+            ],
+            "pubdate": "2003-12-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "21304908": {
+        "title": [
+            "Enhanced Support for Particle and Plasma Data in the <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "2021AGUFMIN55F0291M",
+            "title": [
+                "Enhanced Support for Particle and Plasma Data in the Planetary Data System"
+            ],
+            "author": [
+                "Mafi, Joseph",
+                "Joy, Steven",
+                "Miller, Lucas",
+                "Piker, Chris",
+                "Faden, Jeremy",
+                "Walker, Raymond",
+                "Manweiler, Jerry"
+            ],
+            "pubdate": "2021-12-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "12359400": {
+        "source": {
+            "bibcode": "2015aste.book..297N",
+            "title": [
+                "Identification and Dynamical Properties of Asteroid Families"
+            ],
+            "author": [
+                "Nesvorn\u00fd, D.",
+                "Bro\u017e, M.",
+                "Carruba, V."
+            ],
+            "pubdate": "2015-00-00",
+            "doctype": "inbook",
+            "property": [
+                "ARTICLE",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.2458/azu_uapress_9780816532131-ch016",
+                "10.48550/arXiv.1502.01628"
+            ],
+            "grant": null
+        }
+    },
+    "10197749": {
+        "source": {
+            "bibcode": "2017E&SS....4..396B",
+            "title": [
+                "The Mars Science Laboratory Curiosity rover Mastcam instruments: Preflight and in-flight calibration, validation, and data archiving"
+            ],
+            "author": [
+                "Bell, J. F.",
+                "Godber, A.",
+                "McNair, S.",
+                "Caplinger, M. A.",
+                "Maki, J. N.",
+                "Lemmon, M. T.",
+                "Van Beek, J.",
+                "Malin, M. C.",
+                "Wellington, D.",
+                "Kinch, K. M.",
+                "Madsen, M. B.",
+                "Hardgrove, C.",
+                "Ravine, M. A.",
+                "Jensen, E.",
+                "Harker, D.",
+                "Anderson, R. B.",
+                "Herkenhoff, K. E.",
+                "Morris, R. V.",
+                "Cisneros, E.",
+                "Deen, R. G."
+            ],
+            "pubdate": "2017-07-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "DATA",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1002/2016EA000219"
+            ],
+            "grant": null
+        }
+    },
+    "19289440": {
+        "source": {
+            "bibcode": "2020SSRv..216...97V",
+            "title": [
+                "In Situ UV Measurements by MSL/REMS: Dust Deposition and Angular Response Corrections"
+            ],
+            "author": [
+                "Vicente-Retortillo, A.",
+                "Mart\u00ednez, G. M.",
+                "Renn\u00f3, N. O.",
+                "Lemmon, M. T.",
+                "de\u00c2 la Torre-Ju\u00e1rez, M.",
+                "G\u00f3mez-Elvira, J."
+            ],
+            "pubdate": "2020-07-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1007/s11214-020-00722-6"
+            ],
+            "grant": null
+        }
+    },
+    "2847797": {
+        "title": [
+            "NASA <em>Planetary Data System</em> Support for Cartographic Sciences"
+        ],
+        "source": {
+            "bibcode": "2016LPI....47.2281H",
+            "title": [
+                "NASA Planetary Data System Support for Cartographic Sciences"
+            ],
+            "author": [
+                "Hare, T. M.",
+                "Gaddis, L. R.",
+                "LaVoie, S. K.",
+                "Isbell, C. E.",
+                "Milazzo, M. P.",
+                "Lawrence, S. J."
+            ],
+            "pubdate": "2016-03-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2333970": {
+        "source": {
+            "bibcode": "2004DPS....36.1425H",
+            "title": [
+                "A Planetary Data System for the 2006 Mars Reconnaissance Orbiter Era PV-2004, ``Ensuring the Long-Term Preservation and Adding Value to the Scientific and Technical Data\""
+            ],
+            "author": [
+                "Hughes, J. S.",
+                "Crichton, D.",
+                "Crichton, G.",
+                "Joyner, R. S.",
+                "Kelly, S.",
+                "Mattmann, C.",
+                "Wilf, J."
+            ],
+            "pubdate": "2004-12-00",
+            "doctype": "abstract",
+            "property": [
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "1624044": {
+        "title": [
+            "<em>Planetary Data System</em> (PDS)"
+        ],
+        "source": {
+            "bibcode": "1986BAAS...18..776R",
+            "title": [
+                "Planetary Data System (PDS)"
+            ],
+            "author": [
+                "Renfrow, J. T."
+            ],
+            "pubdate": "1986-06-00",
+            "doctype": "abstract",
+            "property": [
+                "ADS_OPENACCESS",
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED",
+                "OPENACCESS"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "34035661": {
+        "title": [
+            "The <em>Planetary Data System</em> Radio Science Sub-Node: Data and Services"
+        ],
+        "source": {
+            "bibcode": "2024AGUFMP51C.3009M",
+            "title": [
+                "The Planetary Data System Radio Science Sub-Node: Data and Services"
+            ],
+            "author": [
+                "Majid, Walid",
+                "Kahan, Daniel S.",
+                "Buccino, Dustin",
+                "Barbinis, Elias",
+                "Yang, Yu-Ming",
+                "Lee, Clement G."
+            ],
+            "pubdate": "2024-12-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    }
+}

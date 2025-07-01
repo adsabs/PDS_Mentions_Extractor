@@ -1,0 +1,3911 @@
+{
+    "2231957": {
+        "body": [
+            "The IRAS asteroid albedo and diameter data (the IRAS Minor Planet Survey, or IMPS) currently in use (and available, e.g., from the NSSDC or NASA's <em>Planetary Data System)</em> were created under support provided by the US Air Force Geophysics Laboratory (now the Air Force Research Laboratory). ",
+            "The results of this reprocessing were deposited at the NSSDC, and later with the <em>Planetary Data System,</em> where they supplanted the 1986 version \u201c IRAS Asteroid and Comet Database and Catalog\u201d and where they are known as the \u201c IRAS Diameters and Albedos from the IRAS Minor Planet Survey\u201d data set. ",
+            "These are a superset of version 5.0 of the <em>Planetary Data System</em>'s Small Bodies Node data set, which contains magnitude parameters for all asteroids numbered as of 2000 April 18 and includes 14,788 entries. "
+        ],
+        "source": {
+            "bibcode": "2002AJ....123.1056T",
+            "title": [
+                "The Supplemental IRAS Minor Planet Survey"
+            ],
+            "author": [
+                "Tedesco, Edward F.",
+                "Noah, Paul V.",
+                "Noah, Meg",
+                "Price, Stephan D."
+            ],
+            "pubdate": "2002-02-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1086/338320"
+            ],
+            "grant": null
+        }
+    },
+    "33929438": {
+        "body": [
+            "The GEODSS camera was initially paired with the US Air Force 1 m telescope; in 2000 it was moved to the Maui Space Surveillance Site 1.2 m telescope. 11 11 <em>Planetary Data System:</em> . GEODSS had 4096 \u00d7 4096 pixels, with a 143 pixel \u20131 scale on the first telescope and a 136 pixel \u20131 scale on the second telescope. ",
+            "As its name implies, the TriCam camera consisted of three distinct 4096 \u00d7 4096 pixel CCD sets, or cameras. 12 12 <em>Planetary Data System:</em> . The cameras are arrayed vertically and distinguished via \u201ca,\u201d \u201cb,\u201d and \u201cc\u201d labels. ",
+            "Observing cadence information is available in the logs folder associated with each archived NEAT night in the <em>Planetary Data System</em> archive (J. M. Bauer K. J. Lawrence 2013 ). According to those log files, observations generally had 60 s exposures with either 900 or 1800 s between exposures in the same field. ",
+            "Compressed images, in fits.fz format, were downloaded from the <em>Planetary Data System</em> (J. M. Bauer K. J. Lawrence 2013 ) using wget . The pipeline processes 1 night at a time. "
+        ],
+        "source": {
+            "bibcode": "2025PSJ.....6...82N",
+            "title": [
+                "Reprocessing the NEAT Data Set: Preliminary Results"
+            ],
+            "author": [
+                "Nugent, C. R.",
+                "Bauer, J. M.",
+                "Benitez, O.",
+                "Blain, M.",
+                "D'Souza, N.",
+                "Garimella, S.",
+                "Goldwater, M.",
+                "Kim, Y.",
+                "Larsen, H. C. G.",
+                "Linder, T.",
+                "Mackowiak, K.",
+                "McGinnis, Z.",
+                "Pan, E.",
+                "Pedersen, C. C.",
+                "Sadhwani, P.",
+                "Spoto, F.",
+                "Tan, N. J.",
+                "Vere\u0161, P.",
+                "Xue, C."
+            ],
+            "pubdate": "2025-04-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.3847/PSJ/adbca1",
+                "10.48550/arXiv.2503.20032"
+            ],
+            "grant": null
+        }
+    },
+    "873243": {
+        "body": [
+            "These products are available on the <em>Planetary Data System</em> (PDS) [ <em>Planetary Data System</em> , ], and documentation is provided by Perry [ ]. ",
+            "Spacecraft antenna coordinates are available in PDS documents [ <em>Planetary Data System</em> , ] and listed with five digits in Table . We applied the 0.89662 m correction to the spacecraft antenna coordinates [ <em>Planetary Data System</em> , ]. ",
+            "We used meteorological data [ <em>Planetary Data System</em> , ] collected at each DSN sites to compute these propagation delays. ",
+            "We used meteorological data [ <em>Planetary Data System</em> , ] collected at each DSN sites to compute these propagation delays. "
+        ],
+        "source": {
+            "bibcode": "2016JGRE..121.1627V",
+            "title": [
+                "Mercury's gravity, tides, and spin from MESSENGER radio science data"
+            ],
+            "author": [
+                "Verma, Ashok Kumar",
+                "Margot, Jean-Luc"
+            ],
+            "pubdate": "2016-09-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1002/2016JE005037",
+                "10.48550/arXiv.1608.01360"
+            ],
+            "grant": null
+        }
+    },
+    "2818195": {
+        "body": [
+            "Asteroid Taxonomy v6.0, Neese, C., Ed., EAR\u0002A\u00025\u0002DDR\u0002 TAXONOMY\u0002V6.0, NASA <em>Planetary Data System,</em> 2010. Bus, S.J., Compositional structure in the asteroid belt: results of a spectroscopic survey, PhD Thesis, Boston: Massachusetts Institute of Technology, 1999. ",
+            "Hasselmann, P.H., Carvano, J.M., and Lazzaro, D., SDSS\u0002 based asteroid taxonomy V1.1, EAR\u0002AI0035\u00025\u0002 SDSSTAX\u0002V1.1, NASA <em>Planetary Data System,</em> 2012. Jewitt, D.C., Trujillo, C.A., and Luu, J.X., Population and size distribution of small Jovian Trojan asteroids, Astron. ",
+            "IRAS\u0002A\u0002FPA\u00023\u0002RDR\u0002IMPS\u0002V6.0, NASA <em>Planetary Data System,</em> 2004a. Tedesco, E.T., Egan, M.P., and Price, S.D., MSX infrared minor planet survey. MSX\u0002A\u0002SPIRIT3\u00025\u0002SBN0003\u0002 MIMPS\u0002V1.0, NASA <em>Planetary Data System,</em> 2004b. Tholen, D.J. and Barucci, M.A., Asteroid taxonomy, in Asteroids II, Binzel, R.P., et al., Eds., Tucson: Univ. "
+        ],
+        "source": {
+            "bibcode": "2015SoSyR..49..391V",
+            "title": [
+                "Total mass of the Jupiter Trojans"
+            ],
+            "author": [
+                "Vinogradova, T. A.",
+                "Chernetenko, Yu. A."
+            ],
+            "pubdate": "2015-11-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1134/S0038094615060076"
+            ],
+            "grant": null
+        }
+    },
+    "635996": {
+        "body": [
+            "We derived the shadow function for the Extended Mission, taking into account the GRAIL spacecraft trajectories and the lunar topography determined by the altimeter data from the Lunar Reconnaissance Orbiter, Lunar Orbiter Laser Altimeter (LOLA) [ Smith et al. , ], archived in the <em>Planetary Data System</em> (LOLA/Lunar Reconnaissance Orbiter Radio Science <em>Planetary Data System</em> Data Node, http://imbrium.mit.edu ). ",
+            "We derived the shadow function for the Extended Mission, taking into account the GRAIL spacecraft trajectories and the lunar topography determined by the altimeter data from the Lunar Reconnaissance Orbiter, Lunar Orbiter Laser Altimeter (LOLA) [ Smith et al. , ], archived in the <em>Planetary Data System</em> (LOLA/Lunar Reconnaissance Orbiter Radio Science <em>Planetary Data System</em> Data Node, http://imbrium.mit.edu ). "
+        ],
+        "ack": [
+            "The GRAIL Level 1B data used in this study are available from the Geosciences Node of the <em>Planetary Data System</em> http://pds-geosciences.wustl.edu/missions/grail/default.htm . "
+        ],
+        "source": {
+            "bibcode": "2014GeoRL..41.3382L",
+            "title": [
+                "GRGM900C: A degree 900 lunar gravity model from GRAIL primary and extended mission data"
+            ],
+            "author": [
+                "Lemoine, Frank G.",
+                "Goossens, Sander",
+                "Sabaka, Terence J.",
+                "Nicholas, Joseph B.",
+                "Mazarico, Erwan",
+                "Rowlands, David D.",
+                "Loomis, Bryant D.",
+                "Chinn, Douglas S.",
+                "Neumann, Gregory A.",
+                "Smith, David E.",
+                "Zuber, Maria T."
+            ],
+            "pubdate": "2014-05-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1002/2014GL060027"
+            ],
+            "grant": null
+        }
+    },
+    "18863619": {
+        "body": [
+            "These fits, along with those from previous survey phases, have been archived in the NASA <em>Planetary Data System</em> (Mainzer et al. 2019 ). Here, we perform the same analysis on the data collected during the survey\u2019s fourth and fifth years (2016 December 13 to 2017 December 12, and 2017 December 13 to 2018 December 12, respectively). At the end of the NEOWISE reactivated survey, all asteroid thermal modeling results will be delivered to the NASA <em>Planetary Data System</em> to augment the current archive from the original phases of the WISE mission and the first three years of the NEOWISE Reactivation survey currently archived there. ",
+            "NEOWISE diameters are drawn from the compilation in the NASA <em>Planetary Data System</em> (version 2; Mainzer et al. 2019 ). Figure 4 shows the comparison between the MBA fits published here with previously published values, while Figure 5 shows the NEOs. "
+        ],
+        "ack": [
+            "This publication uses data obtained from the NASA <em>Planetary Data System</em> (PDS). This research has made use of the NASA/IPAC Infrared Science Archive,which is funded by the National Aeronautics and Space Administration and operated by the California Institute of Technology. "
+        ],
+        "source": {
+            "bibcode": "2020PSJ.....1....5M",
+            "title": [
+                "Asteroid Diameters and Albedos from NEOWISE Reactivation Mission Years 4 and 5"
+            ],
+            "author": [
+                "Masiero, Joseph R.",
+                "Mainzer, A. K.",
+                "Bauer, J. M.",
+                "Cutri, R. M.",
+                "Grav, T.",
+                "Kramer, E.",
+                "Pittichov\u00e1, J.",
+                "Sonnett, S.",
+                "Wright, E. L."
+            ],
+            "pubdate": "2020-03-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "DATA",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.3847/PSJ/ab7820",
+                "10.48550/arXiv.2002.07941"
+            ],
+            "grant": null
+        }
+    },
+    "270979": {
+        "body": [
+            "For families not treated by these authors, we consulted the list of asteroid families available at the AstDyS website, and the Nesvorn\u00fd ( 2012 ) HCM Asteroid Families V2.0, on the <em>Planetary Data System,</em> available at http://sbn.psi.edu/pds/resource/nesvornyfam.html , accessed on 2013 March 13. ",
+            "A smaller halo associated with the Mildred family merges with the larger Polana halo at about 150 m s \u22121 , and the Clarissa <em>Planetary Data System</em> is englobed at a cutoff of 345 m s \u22121 . 4.7 The Euterpe family The Euterpe family is a low-inclination group listed by the <em>Planetary Data System.</em> ",
+            "We found seven SDSS-MOC4 interlopers and seven asteroids with p V 0.1, which yields a percentage of 13.5 per cent likely interlopers. The <em>Planetary Data System</em> group of Schulhof merges with the Eunomia family at a cutoff of 195 m s \u22121 . 5.11 The Iannini family The Iannini family was studied in Nesvorn\u00fd et al. ( 2005 ), where it was identified in proper element domain at a cutoff of 30 m s \u22121 . ",
+            "Three objects (42.9 per cent of the total) were SDSS-MOC4 interlopers, and two objects (28.6 per cent of the total) had albedos smaller than 0.1, confirming the analysis of Carruba ( 2010b ). The <em>Planetary Data System</em> Emilkowalski group merges with this family at cutoff lower than 100 m s \u22121 . 5.27 The Myriostos family The Myriostos family is listed at the AstDyS. "
+        ],
+        "source": {
+            "bibcode": "2013MNRAS.433.2075C",
+            "title": [
+                "A multidomain approach to asteroid families' identification"
+            ],
+            "author": [
+                "Carruba, V.",
+                "Domingos, R. C.",
+                "Nesvorn\u00fd, D.",
+                "Roig, F.",
+                "Huaman, M. E.",
+                "Souami, D."
+            ],
+            "pubdate": "2013-08-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ASSOCIATED",
+                "DATA",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1093/mnras/stt884",
+                "10.48550/arXiv.1305.4847"
+            ],
+            "grant": null
+        }
+    },
+    "20796042": {
+        "body": [
+            "EAR-A-I0046-3REDDYMBSPEC-V1.0. NASA <em>Planetary Data System</em> (2016). [22] Bus, S. and Binzel, R. P., 63 Ausonia CCD Spectrum. EAR-A-I0028-4SBN0001/SMASSII-V1.0:63_01_TAB. NASA <em>Planetary Data System</em> (2003). [23] DeMeo, F. E., Binzel, R. P., Slivan, S. M. & Bus, S. ",
+            "Asteroid Albedos V1.0. urn:nasa:pds:compil.ast.albedos::1.0. NASA <em>Planetary Data System;</em> https://doi.org/10.26033/crmc-j056. (2020). [37] Namouni, F. "
+        ],
+        "source": {
+            "bibcode": "2021ComEE...2..231S",
+            "title": [
+                "Lunar-like silicate material forms the Earth quasi-satellite (469219) 2016 HO<SUB>3</SUB> Kamo\u02bboalewa"
+            ],
+            "author": [
+                "Sharkey, Benjamin N. L.",
+                "Reddy, Vishnu",
+                "Malhotra, Renu",
+                "Thirouin, Audrey",
+                "Kuhn, Olga",
+                "Conrad, Albert",
+                "Rothberg, Barry",
+                "Sanchez, Juan A.",
+                "Thompson, David",
+                "Veillet, Christian"
+            ],
+            "pubdate": "2021-12-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1038/s43247-021-00303-7",
+                "10.48550/arXiv.2111.06372"
+            ],
+            "grant": null
+        }
+    },
+    "24393955": {
+        "body": [
+            "RMI data are available on the <em>Planetary Data System</em> (Wiens, Maurice, Deen, et al., 2021). Laser Induced Breakdown Spectroscopy (LIBS) LIBS measurements provide major and trace element detection and quantification (Maurice et al., 2021; Wiens, Maurice, Robinson, et al., 2021). ",
+            "Microphone data are available on the <em>Planetary Data System</em> (Wiens, Maurice, Deen, et al., 2021). Visible/Near Infrared (VISIR) Spectroscopy Reflectance spectra in the near\u2010infrared (NIR) were collected by the SuperCam Infrared Spectrometer (IRS) on various soil targets. ",
+            "Microphone data are available on the <em>Planetary Data System</em> (Wiens, Maurice, Deen, et al., 2021). Visible/Near Infrared (VISIR) Spectroscopy Reflectance spectra in the near\u2010infrared (NIR) were collected by the SuperCam Infrared Spectrometer (IRS) on various soil targets. ",
+            "Microphone data are available on the <em>Planetary Data System</em> (Wiens, Maurice, Deen, et al., 2021). Visible/Near Infrared (VISIR) Spectroscopy Reflectance spectra in the near\u2010infrared (NIR) were collected by the SuperCam Infrared Spectrometer (IRS) on various soil targets. "
+        ],
+        "source": {
+            "bibcode": "2023JGRE..12807433H",
+            "title": [
+                "An Examination of Soil Crusts on the Floor of Jezero Crater, Mars"
+            ],
+            "author": [
+                "Hausrath, E. M.",
+                "Adcock, C. T.",
+                "Bechtold, A.",
+                "Beck, P.",
+                "Benison, K.",
+                "Brown, A.",
+                "Cardarelli, E. L.",
+                "Carman, N. A.",
+                "Chide, B.",
+                "Christian, J.",
+                "Clark, B. C.",
+                "Cloutis, E.",
+                "Cousin, A.",
+                "Forni, O.",
+                "Gabriel, T. S. J.",
+                "Gasnault, O.",
+                "Golombek, M.",
+                "G\u00f3mez, F.",
+                "Hecht, M. H.",
+                "Henley, T. L. J.",
+                "Huidobro, J.",
+                "Johnson, J.",
+                "Jones, M. W. M.",
+                "Kelemen, P.",
+                "Knight, A.",
+                "Lasue, J. A.",
+                "Le Mou\u00e9lic, S.",
+                "Madariaga, J. M.",
+                "Maki, J.",
+                "Mandon, L.",
+                "Martinez, G.",
+                "Mart\u00ednez-Fr\u00edas, J.",
+                "McConnochie, T. H.",
+                "Meslin, P. -Y.",
+                "Zorzano, M. -P.",
+                "Newsom, H.",
+                "Paar, G.",
+                "Randazzo, N.",
+                "Royer, C.",
+                "Siljestr\u00f6m, S.",
+                "Schmidt, M. E.",
+                "Schr\u00f6der, S.",
+                "Sephton, M. A.",
+                "Sullivan, R.",
+                "Turenne, N.",
+                "Udry, A.",
+                "VanBommel, S.",
+                "Vaughan, A.",
+                "Wiens, R. C.",
+                "Williams, N."
+            ],
+            "pubdate": "2023-10-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "DATA",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2022JE007433"
+            ],
+            "grant": null
+        }
+    },
+    "2298259": {
+        "body": [
+            "All of the rover engineering data will be archived in the <em>Planetary Data System</em> along with Athena Payload data sets and documentation for access by the science community. ",
+            "The measurements from the IMUs will be returned for engineering purposes and will be archived in the <em>Planetary Data System</em> for access by the science community. As was done for Pathfinder [ , 1999] and Viking [ , 1977], the measurements from the MER accelerometers can be used to reconstruct the atmosphere encountered during passage through the upper atmosphere. "
+        ],
+        "abstract": [
+            "The data products will be delivered to the <em>Planetary Data System</em> as integrated batch archives."
+        ],
+        "source": {
+            "bibcode": "2003JGRE..108.8061C",
+            "title": [
+                "Mars Exploration Rover mission"
+            ],
+            "author": [
+                "Crisp, Joy A.",
+                "Adler, Mark",
+                "Matijevic, Jacob R.",
+                "Squyres, Steven W.",
+                "Arvidson, Raymond E.",
+                "Kass, David M."
+            ],
+            "pubdate": "2003-10-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2002JE002038"
+            ],
+            "grant": null
+        }
+    },
+    "2323342": {
+        "body": [
+            "Data included in this summary came from the <em>Planetary Data System</em> Small Bodies Node \u201c Taxonomy \u201d table, maintained by D. ",
+            "Data included in this summary came from the <em>Planetary Data System</em> Small Bodies Node \u201c Taxonomy \u201d table, maintained by D. ",
+            "\u2014Data included in this summary came from the <em>Planetary Data System</em> Small Bodies Node \u201c Taxonomy \u201d table, maintained by D. ",
+            "Milani of the University of Pisa in Italy, and the Small Bodies Node of the <em>Planetary Data System.</em> Some X\u2010types could be the core remnants of shattered planetesimals (like some M\u2010type asteroids), and hence their abundance and distribution could be direct indicators of the thermal and collisional evolution of the main belt. "
+        ],
+        "source": {
+            "bibcode": "2004AJ....128.3070C",
+            "title": [
+                "Spectroscopy of X-Type Asteroids"
+            ],
+            "author": [
+                "Clark, B. E.",
+                "Bus, S. J.",
+                "Rivkin, A. S.",
+                "Shepard, M. K.",
+                "Shah, S."
+            ],
+            "pubdate": "2004-12-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1086/424856"
+            ],
+            "grant": null
+        }
+    },
+    "2651742": {
+        "body": [
+            "The PLS data were obtained from the PPI node of the <em>Planetary Data System.</em> The black dashed line represents the flow energy of heavy ions (with mass/charge = 16) obtained from the simulated flow speed along the Galileo trajectory extracted from a single time step of the simulation when bursty flows are absent near the magnetopause. ",
+            "At present, velocity moment data from the Galileo Plasma Subsystem (PLS) are not available from the <em>Planetary Data System</em> (PDS), but ion energy spectrograms are. Figure 4 (bottom) shows such a spectrogram obtained during the G8 flyby. ",
+            "The EPD data are provided by the PPI node of the <em>Planetary Data System.</em> In Figure 6b, the intervals within the magnetosphere and near the outbound magnetopause crossing are color coded according to the field geometries identified in the simulation: green for closed field lines and yellow for open field lines. "
+        ],
+        "source": {
+            "bibcode": "2010JGRA..11512202J",
+            "title": [
+                "Dynamics of Ganymede's magnetopause: Intermittent reconnection under steady external conditions"
+            ],
+            "author": [
+                "Jia, Xianzhe",
+                "Walker, Raymond J.",
+                "Kivelson, Margaret G.",
+                "Khurana, Krishan K.",
+                "Linker, Jon A."
+            ],
+            "pubdate": "2010-12-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2010JA015771"
+            ],
+            "grant": [
+                "NASA-HQ",
+                "NNX06AB91G",
+                "NASA-HQ",
+                "NNX08AQ46G",
+                "NASA-HQ",
+                "NNX09AQ54G"
+            ]
+        }
+    },
+    "19506098": {
+        "body": [
+            "As Gaia asteroid astrometry is incorporated into orbit solutions, we expect the uncertainty in the path location of main belt asteroids will reduce to the kilometre level. 2 THE DATA SET OF EVENTS AND OBSERVATIONS The data set of asteroidal occultation observations is published at NASA\u2019s <em>Planetary Data System,</em> Small bodies node, Asteroid//Dust Subnode, 5 (Herald et al. 2019 ) from which it can be browsed or downloaded. ",
+            "[Additionally, about 8000 light curves from asteroidal and lunar occultations are available at VizieR, catalogue B/occ. 6 (Herald et al. 2016 )] Amateur observers of the occultation community generally use the software package called occult . 7 Written for the Windows \u00ae environment, it provides extensive tools for analyzing asteroidal occultations, as well as computing predictions. The data set at NASA\u2019s <em>Planetary Data System</em> 5 is created on an approximately annual basis from the observations file maintained by the occult software. ",
+            "The set of observations is then entered into the data set maintained by the software occult supra , from which the data set maintained at NASA\u2019s <em>Planetary Data System</em> 5 is periodically updated. The entire data set of observations was reviewed prior to its archiving at NASA\u2019s <em>Planetary Data System</em> 5 as Version 3.0. "
+        ],
+        "abstract": [
+            "The data set is published at NASA's <em>Planetary Data System</em> and is regularly updated. We provide here an overview of the data set, discuss the issues associated with determining the astrometry and diameters, and give examples of what can be derived from the data set. "
+        ],
+        "source": {
+            "bibcode": "2020MNRAS.499.4570H",
+            "title": [
+                "Precise astrometry and diameters of asteroids from occultations - a data set of observations and their interpretation"
+            ],
+            "author": [
+                "Herald, David",
+                "Gault, David",
+                "Anderson, Robert",
+                "Dunham, David",
+                "Frappa, Eric",
+                "Hayamizu, Tsutomu",
+                "Kerr, Steve",
+                "Miyashita, Kazuhisa",
+                "Moore, John",
+                "Pavlov, Hristo",
+                "Preston, Steve",
+                "Talbot, John",
+                "Timerson, Brad"
+            ],
+            "pubdate": "2020-12-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "DATA",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1093/mnras/staa3077",
+                "10.48550/arXiv.2010.06086"
+            ],
+            "grant": null
+        }
+    },
+    "29031684": {
+        "body": [
+            "These steps of calibration can be summarized as follows: We label images of r obs , n as iofL2 images for MapCam and L2d images for ONC-T, which are all accessible via the <em>Planetary Data System.</em> ONC-T and MapCam independently derive the three calibration parameters in Eq. (2) (i.e., D , J n , and RC C n ). ",
+            "The pre-cross-calibrated data are publicly available via the <em>Planetary Data System:</em> iofL2 images (urn:nasa:pds:orex.ocams:data_calibrated; version 13.0; Rizk et al., 2019 ) for the data of Bennu and L2d images (urn:jaxa:darts:hyb2_onc:data_iof; version 1.0; Sugita et al., 2022 ) for the data of Ryugu. ",
+            "These pre-cross-calibrated data are publicly available via the <em>Planetary Data System.</em> The uncertainties in F n constrain the relative difference between the cross-calibrated data of Ryugu and Bennu. ",
+            "The LROC/LRO-L-LROC-5-RDR-V1.0 dataset was obtained from the <em>Planetary Data System</em> (PDS). KY acknowledges funding from JSPS Fellowship (Grant number JP21J20894 ) and International Graduate Program for Excellence in Earth-Space Science (IGPEES) from the University of Tokyo . "
+        ],
+        "ack": [
+            "The LROC/LRO-L-LROC-5-RDR-V1.0 dataset was obtained from the <em>Planetary Data System</em> (PDS). KY acknowledges funding from JSPS Fellowship (Grant number JP21J20894 ) and International Graduate Program for Excellence in Earth-Space Science (IGPEES) from the University of Tokyo . "
+        ],
+        "source": {
+            "bibcode": "2024Icar..41716122Y",
+            "title": [
+                "Comparison of optical spectra between asteroids Ryugu and Bennu: I. Cross calibration between Hayabusa2/ONC-T and OSIRIS-REx/MapCam"
+            ],
+            "author": [
+                "Yumoto, K.",
+                "Tatsumi, E.",
+                "Kouyama, T.",
+                "Golish, D. R.",
+                "Cho, Y.",
+                "Morota, T.",
+                "Kameda, S.",
+                "Sato, H.",
+                "Rizk, B.",
+                "DellaGiustina, D. N.",
+                "Yokota, Y.",
+                "Suzuki, H.",
+                "de Le\u00f3n, J.",
+                "Campins, H.",
+                "Licandro, J.",
+                "Popescu, M.",
+                "Rizos, J. L.",
+                "Honda, R.",
+                "Yamada, M.",
+                "Sakatani, N.",
+                "Honda, C.",
+                "Matsuoka, M.",
+                "Hayakawa, M.",
+                "Sawada, H.",
+                "Ogawa, K.",
+                "Yamamoto, Y.",
+                "Lauretta, D. S.",
+                "Sugita, S."
+            ],
+            "pubdate": "2024-07-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "DATA",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/j.icarus.2024.116122",
+                "10.48550/arXiv.2306.13321"
+            ],
+            "grant": null
+        }
+    },
+    "2713499": {
+        "body": [
+            "The asteroid positions were calculated by 1 2 3 The actual data is avaliable at NASA <em>Planetary Data System,</em> Supplemental IRAS Minor Planet Survey (SIMPS) hhttp://sbn.psi.edu/pds/asteroid/ IRAS A FPA 3 RDR IMPS V6 0/i. The actual data is avaliable at NASA <em>Planetary Data System,</em> MSX Infrared Minor Planet Survey (MIMPS) hhttp://sbn.psi.edu/pds/asteroid/ MSX A SPIRIT3 5 SBN0003 MIMPS V1 0/i. "
+        ],
+        "source": {
+            "bibcode": "2011PASJ...63.1117U",
+            "title": [
+                "Asteroid Catalog Using Akari: AKARI/IRC Mid-Infrared Asteroid Survey"
+            ],
+            "author": [
+                "Usui, Fumihiko",
+                "Kuroda, Daisuke",
+                "M\u00fcller, Thomas G.",
+                "Hasegawa, Sunao",
+                "Ishiguro, Masateru",
+                "Ootsubo, Takafumi",
+                "Ishihara, Daisuke",
+                "Kataza, Hirokazu",
+                "Takita, Satoshi",
+                "Oyabu, Shinki",
+                "Ueno, Munetaka",
+                "Matsuhara, Hideo",
+                "Onaka, Takashi"
+            ],
+            "pubdate": "2011-10-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "DATA",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1093/pasj/63.5.1117"
+            ],
+            "grant": null
+        }
+    },
+    "1670199": {
+        "body": [
+            "These measurements have also been submitted to NASA\u2019s <em>Planetary Data System.</em> Thermal model calibration results, including comparison of cryogenic WISE /NEOWISE-derived diameters to other observations, are given in Mainzer et al. ( 2011c , 2011d ). ",
+            "Diameters and albedos calculated from NEOWISE Year 2 Reactivation mission observations will be submitted to the <em>Planetary Data System.</em> 2. DISCOVERIES AND FOLLOW UP NEOWISE discovered 198 NEAs and comets during Years 1 and 2 of the Reactivation mission. "
+        ],
+        "source": {
+            "bibcode": "2016AJ....152...63N",
+            "title": [
+                "NEOWISE Reactivation Mission Year Two: Asteroid Diameters and Albedos"
+            ],
+            "author": [
+                "Nugent, C. R.",
+                "Mainzer, A.",
+                "Bauer, J.",
+                "Cutri, R. M.",
+                "Kramer, E. A.",
+                "Grav, T.",
+                "Masiero, J.",
+                "Sonnett, S.",
+                "Wright, E. L."
+            ],
+            "pubdate": "2016-09-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ASSOCIATED",
+                "DATA",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.3847/0004-6256/152/3/63",
+                "10.48550/arXiv.1606.08923"
+            ],
+            "grant": null
+        }
+    },
+    "2011472": {
+        "body": [
+            "Space Sci., Vol. 44, No. 1, pp. 3-12, 1996 Published by Elsevier Science Ltd Printed in Great Britain 0032-0633(95)00101-8 Overview of the <em>Planetary Data System</em> Susan K. McMahon Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109-8099, U.S.A. ",
+            "In response to the CODMAC request, the NASA Solar System Exploration Division established the <em>Planetary Data System</em> (PDS) as an active archive. PDS became operational in 1989. ",
+            "McMahon : Overview of the PDS <em>Planetary Data System</em> FY 1995 NAIF CENTRAL NODE ATMOSPHERES GEOSCIENCES Fig. 3. <em>Planetary Data System</em> FY1995 on the experiments associated with each project. "
+        ],
+        "abstract": [
+            "The NASA <em>Planetary Data System</em> (PDS) is an active archive that provides high quality, usable planetary science data products to the science community. "
+        ],
+        "title": [
+            "Overview of the <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "1996P&SS...44....3M",
+            "title": [
+                "Overview of the Planetary Data System"
+            ],
+            "author": [
+                "McMahon, Susan K."
+            ],
+            "pubdate": "1996-01-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/0032-0633(95)00101-8"
+            ],
+            "grant": null
+        }
+    },
+    "22138086": {
+        "body": [
+            "Nearly all of these occultation data sets are available in digital form on NASAs <em>Planetary Data System</em> (PDS) Ring-Moon Systems node, 2 2 https://pds-rings.seti.org/ringocc/ . but many of them have not been previously published or described in detail. ",
+            "The apparent path of the occulted star from each station over the time interval recorded in the data is shown as a solid line, with the earliest time for each occultation chord marked by a filled circle. 2.2 NASA <em>planetary data system</em> archive Nearly all of the data sets described in this paper are available on the PDS Ring-Moon Systems node. 4 4 The archive was produced with support provided by NASA PDART grant NNX15AJ60G: Restoration and Submission of Uranus Ring Occultation Observations to the <em>Planetary Data System.</em> "
+        ],
+        "abstract": [
+            "Nearly all of these occultation data sets are available in digital form on NASA's <em>Planetary Data System</em> (PDS) Ring-Moon Systems node, but many of them have not been previously published or described in detail. "
+        ],
+        "ack": [
+            "This work was supported by NASA PDART grant NNX15AJ60G : Restoration and submission of Uranus ring occultation observations to the <em>Planetary Data System</em> and NASA Solar System Workings grant NNX15AH45G: Uranian ring dynamics and constraints on Uranus internal structure from occultation data. "
+        ],
+        "source": {
+            "bibcode": "2023Icar..39515474F",
+            "title": [
+                "Uranus ring occultation observations: 1977-2006"
+            ],
+            "author": [
+                "French, Richard G.",
+                "McGhee-French, Colleen A.",
+                "Gordon, Mitchell",
+                "Baron, Richard L.",
+                "Bosh, Amanda S.",
+                "Buie, Marc W.",
+                "Chanover, Nancy",
+                "Clark, Mary Ann",
+                "Dunham, Edward W.",
+                "French, Linda M.",
+                "Glass, Ian S.",
+                "Goguen, Jay D.",
+                "Gregory, Brooke",
+                "Hock, Rachel A.",
+                "Kangas, Julie A.",
+                "Levine, Stephen E.",
+                "Matthews, Keith Y.",
+                "McMason, Emily C.",
+                "Meech, Karen J.",
+                "Mink, Jessica",
+                "Nicholson, Philip D.",
+                "Person, Michael J.",
+                "Roques, Fran\u00e7oise",
+                "Sicardy, Bruno",
+                "Stecklum, Bringfried",
+                "Tholen, David",
+                "Young, Eliot F.",
+                "Young, Leslie A."
+            ],
+            "pubdate": "2023-05-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "DATA",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/j.icarus.2023.115474"
+            ],
+            "grant": null
+        }
+    },
+    "2701445": {
+        "body": [
+            "Several quality constraints present in the Diviner Reduced Data Records (RDR's) available at the <em>Planetary Data System</em> (PDS) repository were used as well (quality flag for calibration \u2013 0; quality flag for miscellaneous \u2013 0; noise quality flag \u2013 0 to 1). ",
+            "We used the S\u2010band circular polarization ratio (CPR) map\u2010projected level 2 products available at the <em>Planetary Data System</em> (PDS). All data used here were acquired prior to September 19, 2010. "
+        ],
+        "source": {
+            "bibcode": "2011JGRE..116.0H02B",
+            "title": [
+                "Lunar surface rock abundance and regolith fines temperatures derived from LRO Diviner Radiometer data"
+            ],
+            "author": [
+                "Bandfield, Joshua L.",
+                "Ghent, Rebecca R.",
+                "Vasavada, Ashwin R.",
+                "Paige, David A.",
+                "Lawrence, Samuel J.",
+                "Robinson, Mark S."
+            ],
+            "pubdate": "2011-12-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2011JE003866"
+            ],
+            "grant": [
+                "NASA-HQ",
+                "NNX08AT73G"
+            ]
+        }
+    },
+    "33015186": {
+        "body": [
+            "Base image data available in the <em>Planetary Data System</em> https://pds\u2010imaging.jpl.nasa.gov/ . Previous work from several landing sites has indicated that much of the finer component of Martian regolith potentially represents a ubiquitous compositional average (e.g., Clark et al., 1982; S. ",
+            "The data are contained in Tables S1 and S2 in Supporting Information S1, Table S9 and S10, and in the <em>Planetary Data System:</em> https://pds\u2010geosciences.wustl.edu/missions/mer/mer_apxs_oxide.htm . ",
+            "Data for the Opportunity mission are available on the <em>Planetary Data System:</em> https://pds\u2010geosciences.wustl.edu/missions/mer/index.htm . ",
+            "The STOP list varies slightly for each sample, and the detailed STOP list for each sample is listed as part of the Sample Dossier on the <em>Planetary Data System</em> (PDS) (Farley Stack, 2023c) and a detailed list of the regolith sampling activities are given in Table S12. "
+        ],
+        "source": {
+            "bibcode": "2025JGRE..13008046H",
+            "title": [
+                "Collection and In Situ Analyses of Regolith Samples by the Mars 2020 Rover: Implications for Their Formation and Alteration History"
+            ],
+            "author": [
+                "Hausrath, E. M.",
+                "Sullivan, R.",
+                "Goreva, Y.",
+                "Zorzano, M. P.",
+                "Vaughan, A.",
+                "Cousin, A.",
+                "Siljestr\u00f6m, S.",
+                "Sharma, S.",
+                "Shumway, A. O.",
+                "Kizovski, T.",
+                "VanBommel, S. J.",
+                "Tice, M.",
+                "Knight, A.",
+                "Martinez, G.",
+                "Vicente-Retortillo, A.",
+                "Mandon, L.",
+                "Adcock, C. T.",
+                "Madariaga, J. M.",
+                "Poblaci\u00f3n, I.",
+                "Johnson, J. R.",
+                "Lasue, J.",
+                "Gasnault, O.",
+                "Randazzo, N.",
+                "Cardarelli, E. L.",
+                "Kronyak, R.",
+                "Bechtold, A.",
+                "Paar, G.",
+                "Udry, A.",
+                "Forni, O.",
+                "Bedford, C. C.",
+                "Carman, N. A.",
+                "Bell, J. F.",
+                "Benison, K.",
+                "Bosak, T.",
+                "Brown, A.",
+                "Broz, A.",
+                "Calef, F.",
+                "Clark, B. C.",
+                "Cloutis, E.",
+                "Czaja, A. D.",
+                "Fornaro, T.",
+                "Fouchet, T.",
+                "Golombek, M.",
+                "G\u00f3mez, F.",
+                "Herd, C. D. K.",
+                "Herkenhoff, K.",
+                "Jakubek, R. S.",
+                "Jandura, L.",
+                "Martinez-Frias, J.",
+                "Mayhew, L. E.",
+                "Meslin, P. -Y.",
+                "Newman, C. E.",
+                "N\u00fa\u00f1ez, J. I.",
+                "Poulet, F.",
+                "Royer, C.",
+                "Russell, P.",
+                "Sephton, M. A.",
+                "Sharma, S. K.",
+                "Shuster, D.",
+                "Simon, J. I.",
+                "Tirona, I.",
+                "Wiens, R. C.",
+                "Weiss, B. P.",
+                "Williams, A. J.",
+                "Williford, K.",
+                "Wolf, Z. U."
+            ],
+            "pubdate": "2025-02-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "DATA",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2023JE008046"
+            ],
+            "grant": null
+        }
+    },
+    "2877004": {
+        "body": [
+            "Data Processing: As NAC PSR observations are acquired and delivered to the LROC Science Operations Center (SOC), automated processing generates <em>Planetary Data System</em> (PDS) Experiment Data Record (EDR) products for release and archive. ",
+            "Revs, 150:81-124. [3] Koeber, S.D., and Robinson, M.S. (2013) LPSC XLIV, abstr. 2588. [4] Koeber, S.D, et al. (2014) LPSC XLV, abstr. 2811. [5] NASA <em>Planetary Data System</em> (2009) <em>Planetary Data System</em> Standards Reference, JPL D-7669, Part 2, version 3.8. [6] Becker, K.J. et. al. (2013) LPSC XLIV, abstr. 2829. [7] Anderson, J.A. et. al (2004) LPSC XXXV, abstr 2039. [8] QGIS Development Team (2015) QGIS Geographic Information System, http://qgis.osgeo.org [9] Neumann, G. "
+        ],
+        "source": {
+            "bibcode": "2017LPI....48.2469C",
+            "title": [
+                "Lunar Reconnaissance Orbiter Camera Permanently Shadowed Region Imaging \u2014 Atlas and Controlled Mosaics"
+            ],
+            "author": [
+                "Cisneros, E.",
+                "Awumah, A.",
+                "Brown, H. M.",
+                "Martin, A. C.",
+                "Paris, K. N.",
+                "Povilaitis, R. Z.",
+                "Boyd, A. K.",
+                "Robinson, M. S."
+            ],
+            "pubdate": "2017-03-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2763292": {
+        "body": [
+            "A brief overview of future work is given in Section 4 . 2 Data processing The image data returned from the spacecraft are distributed inside the Dawn team in PDS <em>(Planetary Data System)</em> format [ http://pds.jpl.nasa.gov ]. The first step of the image processing pipeline is the conversion to VICAR (Video Image Communication and Retrieval) format [ http://rushmore.jpl.nasa.gov/vicar.html ] followed by the radiometric calibration of the images. ",
+            "The map tiles will also be archived as standard products in the <em>Planetary Data System</em> (PDS) [http://pds.jpl.nasa.gov]. 4 Future work The Dawn spacecraft will continue its imaging campaign during a second HAMO phase in summer 2012; then the northern part of Versta will be illuminated providing an opportunity to obtain high resolution coverage of high northern latitudes and to fill the remaining gaps in the atlas. "
+        ],
+        "source": {
+            "bibcode": "2012P&SS...73..283R",
+            "title": [
+                "High resolution Vesta High Altitude Mapping Orbit (HAMO) Atlas derived from Dawn framing camera images"
+            ],
+            "author": [
+                "Roatsch, Th.",
+                "Kersten, E.",
+                "Matz, K. -D.",
+                "Preusker, F.",
+                "Scholten, F.",
+                "Jaumann, R.",
+                "Raymond, C. A.",
+                "Russell, C. T."
+            ],
+            "pubdate": "2012-12-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/j.pss.2012.08.021"
+            ],
+            "grant": null
+        }
+    },
+    "5766838": {
+        "body": [
+            "SIPS utilities operate on images with standard headers conforming to the <em>Planetary Data System</em> (PDS) format (Jet Propul- sion Laboratory, 1991). The utilities all have a command line interface and some also have an interactive graphical interface. "
+        ],
+        "source": {
+            "bibcode": "1993RSEnv..44..145K",
+            "title": [
+                "The spectral image processing system (SIPS)\u2014interactive visualization and analysis of imaging spectrometer data"
+            ],
+            "author": [
+                "Kruse, F. A.",
+                "Lefkoff, A. B.",
+                "Boardman, J. W.",
+                "Heidebrecht, K. B.",
+                "Shapiro, A. T.",
+                "Barloon, P. J.",
+                "Goetz, A. F. H."
+            ],
+            "pubdate": "1993-05-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/0034-4257(93)90013-N"
+            ],
+            "grant": null
+        }
+    },
+    "20114499": {
+        "body": [
+            "Ice grains captured off the nucleus during the Deep Impact encounter with Hartley 2 as imaged by the HRI-VIS camera (Data available from the <em>Planetary Data System:</em> Year 2010/DOY 308/hv10110413_5004025_001; McLaughlin et al. 2011a ). ",
+            "Data were collected after closest approach and are available from the <em>Planetary Data System:</em> Year 2010/DOY 308/mv10110414_5006000_001 and HRI-IR scan hi5006000 (McLaughlin et al. 2011b , 2014 ). ",
+            "(Data available from the <em>Planetary Data System:</em> Year 2010/DOY 308/ hv10110413_5002035_001, hv10110413_5002033_001, and hv10110413_5002038_001; McLaughlin et al. 2011a .) ",
+            "In contrast, the map on the right is asymmetric and is dominated by sublimation from icy grains pushed in the anti-sunward direction (Data available from the <em>Planetary Data System:</em> Year 2010/DOY 308/HRI-IR scans 4000700 and 4001600; McLaughlin et al. 2014 ). "
+        ],
+        "source": {
+            "bibcode": "2021PSJ.....2...92S",
+            "title": [
+                "All Comets are Somewhat Hyperactive and the Implications Thereof"
+            ],
+            "author": [
+                "Sunshine, Jessica M.",
+                "Feaga, Lori M."
+            ],
+            "pubdate": "2021-06-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.3847/PSJ/abf11f"
+            ],
+            "grant": null
+        }
+    },
+    "2700425": {
+        "body": [
+            "Standard THEMIS Processing THEMIS data are provided as Reduced Data Records (RDR) through the <em>Planetary Data System</em> (PDS, http://pds.nasa.gov), which are radiometrically calibrated radiance data derived from the THEMIS Experimental Data Record (EDR) [ , 2002] and THEMIS calibration report (http://themis-data.mars.asu.edu/pds/calib/calib.pdf) [ , 2004]. ",
+            "THEMIS data are ingested at the RDR state from the <em>Planetary Data System</em> (PDS) archive and then follow the arrows in the diagram through the various processing stages. "
+        ],
+        "source": {
+            "bibcode": "2011JGRE..11610008E",
+            "title": [
+                "Mosaicking of global planetary image datasets: 1. Techniques and data processing for Thermal Emission Imaging System (THEMIS) multi-spectral data"
+            ],
+            "author": [
+                "Edwards, C. S.",
+                "Nowicki, K. J.",
+                "Christensen, P. R.",
+                "Hill, J.",
+                "Gorelick, N.",
+                "Murray, K."
+            ],
+            "pubdate": "2011-10-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2010JE003755"
+            ],
+            "grant": null
+        }
+    },
+    "2046991": {
+        "body": [
+            "Many planetary scientists require access to digital planetary image data. As part of the <em>Planetary Data System</em> (PDS), the vast majority of the data are distributed via CDROM in raw form; no processing is performed other than organizing the original digital data into raster image files. ",
+            "CURRENT PRIORITIES: The USGS Astrogeology Program is a major contributor of software for digital data processing in support of a variety of NASA programs, including the Planetary Cartography and Geologic Mapping (PCGM) Program, Code S flight programs, research and data analysis projects, and the <em>Planetary Data System.</em> In planning and implementing software development for ISIS, emphasis is placed on supporting data processing and analysis tasks for current and future NASA missions. "
+        ],
+        "source": {
+            "bibcode": "1997LPI....28..387G",
+            "title": [
+                "An Overview of the Integrated Software for Imaging Spectrometers (ISIS)"
+            ],
+            "author": [
+                "Gaddis, L.",
+                "Anderson, J.",
+                "Becker, K.",
+                "Becker, T.",
+                "Cook, D.",
+                "Edwards, K.",
+                "Eliason, E.",
+                "Hare, T.",
+                "Kieffer, H.",
+                "Lee, E. M.",
+                "Mathews, J.",
+                "Soderblom, L.",
+                "Sucharski, T.",
+                "Torson, J.",
+                "McEwen, A.",
+                "Robinson, M."
+            ],
+            "pubdate": "1997-03-00",
+            "doctype": "abstract",
+            "property": [
+                "ADS_OPENACCESS",
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "30923061": {
+        "body": [
+            "The new catalog of proper orbits is publicly available. 6 6 At https://asteroids.on.br/appeal/ , www.boulder.swri.edu/~davidn/Proper24/ , and the <em>Planetary Data System</em> (PDS) node, https://pds.nasa.gov/ . The methodology described below is scalable to \u223c10 7 bodies and can be used to compute proper orbits for the large volume of main-belt asteroids expected to be discovered by the Rubin Observatory in the next decade (see Section 5 ; Schwamb et al. 2023 ). 2. ",
+            "Catalog The new catalog of proper elements is available at https://asteroids.on.br/appeal/ , www.boulder.swri.edu/\u223cdavidn/Proper24/ , and the <em>Planetary Data System</em> (PDS) node. 14 14 https://pds.nasa.gov/ Here we give a brief description of the catalog content. "
+        ],
+        "source": {
+            "bibcode": "2024ApJS..274...25N",
+            "title": [
+                "Catalog of Proper Orbits for 1.25 Million Main-belt Asteroids and Discovery of 136 New Collisional Families"
+            ],
+            "author": [
+                "Nesvorn\u00fd, David",
+                "Roig, Fernando",
+                "Vokrouhlick\u00fd, David",
+                "Bro\u017e, Miroslav"
+            ],
+            "pubdate": "2024-10-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ASSOCIATED",
+                "DATA",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.3847/1538-4365/ad675c",
+                "10.48550/arXiv.2407.18221"
+            ],
+            "grant": null
+        }
+    },
+    "27825370": {
+        "body": [
+            "For these analyses, we use NASA <em>Planetary Data System</em>\u2010released Level 2 global\u2010mode M 3 reflectance images, which have a nominal spatial resolution of 140\u2013280 m/pixel and have been thermally and photometrically corrected and normalized to a standard viewing geometry ( i = 30\u00b0, e = 0\u00b0, g = 30\u00b0) (Besse et al., 2013). ",
+            "Lunar Prospector Elemental Abundance Fe and Th elemental abundance data were acquired from the Lunar Prospector Reduced Spectrometer Data Special Products repository on the <em>Planetary Data System</em> Geoscience Node hosted by Washington University in St. ",
+            "Lunar Prospector Elemental Abundance Fe and Th elemental abundance data were acquired from the Lunar Prospector Reduced Spectrometer Data Special Products repository on the <em>Planetary Data System</em> Geoscience Node hosted by Washington University in St. ",
+            "Lunar Prospector Elemental Abundance Fe and Th elemental abundance data were acquired from the Lunar Prospector Reduced Spectrometer Data Special Products repository on the <em>Planetary Data System</em> Geoscience Node hosted by Washington University in St. "
+        ],
+        "source": {
+            "bibcode": "2024JGRE..12908266M",
+            "title": [
+                "Mineralogical Characterization of the Lunar South Polar Region: 1. The Artemis Exploration Zone"
+            ],
+            "author": [
+                "Moriarty, D. P.",
+                "Petro, N. E."
+            ],
+            "pubdate": "2024-04-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2023JE008266"
+            ],
+            "grant": null
+        }
+    },
+    "2853617": {
+        "body": [
+            "We also show as example three map tiles from the atlas. 2 Data processing The image data returned from the spacecraft are distributed inside the Dawn team in NASA <em>Planetary Data System</em> (PDS) format. The first step of the image processing pipeline was the conversion to Video Image Communication and Retrieval (VICAR) format followed by the radiometric calibration of the images ( Schrder et al., 2013, 2014 ). ",
+            "The entire Ceres HAMO atlas is available publicly through the Dawn geographical information system (GIS) web page at http://dawngis.dlr.de/atlas and will become available through the <em>Planetary Data System</em> ( http://pdssbn.astro.umd.edu/ ). 4 Outlook The Dawn spacecraft entered the Low Altitude Mapping Orbit (LAMO) since December 2015 in which it acquires images with a resolution of about 35 m/px. "
+        ],
+        "source": {
+            "bibcode": "2016P&SS..129..103R",
+            "title": [
+                "High-resolution Ceres High Altitude Mapping Orbit atlas derived from Dawn Framing Camera images"
+            ],
+            "author": [
+                "Roatsch, Th.",
+                "Kersten, E.",
+                "Matz, K. -D.",
+                "Preusker, F.",
+                "Scholten, F.",
+                "Jaumann, R.",
+                "Raymond, C. A.",
+                "Russell, C. T."
+            ],
+            "pubdate": "2016-09-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/j.pss.2016.05.011"
+            ],
+            "grant": null
+        }
+    },
+    "21960852": {
+        "body": [
+            "remote sensing Article Giant Planet Observations in NASA\u2019s <em>Planetary Data System</em> arXiv:2212.02492v1 [astro-ph.EP] 5 Dec 2022 Nancy J. Chanover 1,\u2217 , James M. ",
+            "For all NASA planetary missions and instruments the data are available from the science discipline nodes of the NASA <em>Planetary Data System</em> (PDS). Looking ahead, the PDS will be the primary repository for giant planets data from several upcoming missions and derived datasets, as well as supporting research conducted to aid in the interpretation of the remotely sensed giant planets data already archived in the PDS. ",
+            "Giant Planet Observations in NASA\u2019s <em>Planetary Data System.</em> Remote Sens. Keywords: giant planets; planetary atmospheres; planetary interiors; magnetospheres; data archiving; Jupiter; Saturn; Uranus; Neptune; <em>Planetary Data System</em> 2022, 1, 0. https://doi.org/ Academic Editors: Imke de Pater and Yamila Miguel Received: 31 October 2022 Accepted: 20 November 2022 Published: Publisher\u2019s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations. ",
+            "It was recognized that these remote sensing (and also in situ) data represent a national treasure and a significant investment that must be preserved and maintained indefinitely. NASA\u2019s <em>Planetary Data System</em> (PDS) was established with this aim in mind, following recommendations made by the Committee on Data Management and Computation (CODMAC) on behalf of the Space Science Board, National Academy of Sciences [1,2], with the PDS being one of a series of data systems recommended (the others covering other scientific disciplines such as Heliophysics and Astrophysics). "
+        ],
+        "abstract": [
+            "For all NASA planetary missions and instruments the data are available from the science discipline nodes of the NASA <em>Planetary Data System</em> (PDS). Looking ahead, the PDS will be the primary repository for giant planets data from several upcoming missions and derived datasets, as well as supporting research conducted to aid in the interpretation of the remotely sensed giant planets data already archived in the PDS."
+        ],
+        "title": [
+            "Giant Planet Observations in NASA's <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "2022RemS...14.6112C",
+            "title": [
+                "Giant Planet Observations in NASA's Planetary Data System"
+            ],
+            "author": [
+                "Chanover, Nancy J.",
+                "Bauer, James M.",
+                "Blalock, John J.",
+                "Gordon, Mitchell K.",
+                "Huber, Lyle F.",
+                "Mace, Mia J. T.",
+                "Neakrase, Lynn D. V.",
+                "Tiscareno, Matthew S.",
+                "Walker, Raymond J."
+            ],
+            "pubdate": "2022-12-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.3390/rs14236112",
+                "10.48550/arXiv.2212.02492"
+            ],
+            "grant": null
+        }
+    },
+    "29097390": {
+        "body": [
+            "The polarimetric data of asteroids used in this research work are mainly collected from the Asteroid Polarimetric Data base, NASA <em>Planetary Data System</em> 1 (Lupishko 2022 ). The observations were carried out in bands U (3620 \u00c5), B (4350 \u00c5), G (5180 \u00c5), V (5590 \u00c5), R (6850 \u00c5), and I (8300 \u00c5). ",
+            "The observational data are collected from the Asteroid Polarimetric Data base V2.0, NASA <em>Planetary Data System.</em> 3.3 Study of polarimetric phase curve of asteroids The polarimetric analysis of various asteroids in U, B, G, V, R , and I bands are presented in Table ( A1 ). ",
+            "The asteroid polarimetric data are collected from the Asteroid Polarimetric Data base V2.0, NASA <em>Planetary Data System</em> . Figure 6. Phase-polarization curve of three different types of asteroids (C-, M-, and S-type). ",
+            "The observational data are sourced from the Asteroid Polarimetric Data base V2.0, NASA <em>Planetary Data System</em> (Lupishko 2022 ). The observations were conducted in the U, B, G, V, R , and I bands. "
+        ],
+        "source": {
+            "bibcode": "2024MNRAS.532...22P",
+            "title": [
+                "Unveiling the properties of asteroids: linking photopolarimetry to spectral classification"
+            ],
+            "author": [
+                "Prasad, B.",
+                "Das, H. S."
+            ],
+            "pubdate": "2024-07-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1093/mnras/stae1409"
+            ],
+            "grant": null
+        }
+    },
+    "27469256": {
+        "body": [
+            "MAVEN Langmuir Probe and Waves (LPW) bundle [Dataset]. NASA <em>Planetary Data System.</em> https://doi.org/10.17189/1410658 Andersson, L., Ergun, R. ",
+            "MAVEN neutral gas and ion mass spectrometer data [Dataset]. NASA <em>Planetary Data System.</em> https://doi.org/10.17189/1518931 Cao, Y.-T., Cui, J., Wu, X.",
+            "MAVEN magnetometer (MAG) calibrated data bundle [Dataset]. NASA <em>Planetary Data System.</em> https://doi.org/10.17189/1414178 Connerney, J. E., Espley, J. ",
+            "MAVEN Insitu Key Parameters Data Bundle [Dataset]. NASA <em>Planetary Data System.</em> https://doi.org/10.17189/1414174 Farrugia, C. J., Gratton, F. "
+        ],
+        "source": {
+            "bibcode": "2024arXiv240320003R",
+            "title": [
+                "Impact of solar wind disappearance event on the Martian nightside ionospheric species: First results"
+            ],
+            "author": [
+                "Ram, L.",
+                "Rout, D.",
+                "Sarkhel, S."
+            ],
+            "pubdate": "2024-03-00",
+            "doctype": "eprint",
+            "property": [
+                "ARTICLE",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "NOT REFEREED",
+                "OPENACCESS"
+            ],
+            "doi": [
+                "10.48550/arXiv.2403.20003"
+            ],
+            "grant": null
+        }
+    },
+    "33177299": {
+        "body": [
+            "The elemental map of the lunar surface created like this will be used for searching for the lunar resources. 2 KGRS data basic processing 2.1 TM2 data The scientific data from the KPLO are delivered to each institute via the KARI <em>Planetary Data System</em> (KPDS). KGRS science data are delivered within a few days of data acquisition, and a telemetry (TM) file contains data for one day. ",
+            "The kernels are provided by the KARI <em>Planetary Data System</em> (KPDS) server, just like the KGRS scientific data. All processes about these processes are written in Python programs. ",
+            "Energy calibration can be performed by applying these coefficient values to formula 1 . 2.4 KPDS release KGRS data is currently open to the public through the KPDS (KARI <em>Planetary Data System)</em> website. Three types of data are released at KPDS: Raw data, Partially Processed data, and Calibrated data. "
+        ],
+        "source": {
+            "bibcode": "2025AcAau.230..139K",
+            "title": [
+                "The basic data processing for KPLO gamma-ray spectrometer (KGRS)"
+            ],
+            "author": [
+                "Kim, Suyeon",
+                "Kim, Kyeong Ja",
+                "Hong, Ik-Seon"
+            ],
+            "pubdate": "2025-05-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/j.actaastro.2025.02.018"
+            ],
+            "grant": null
+        }
+    },
+    "15680610": {
+        "body": [
+            "The gray vertical line marks zero. PDS = <em>Planetary Data System.</em> Uncertainties must be assigned to the derived electron densities. ",
+            "The gray vertical line marks zero. PDS = <em>Planetary Data System.</em> All 20 average electron density profiles have been delivered to the PDS for archiving. ",
+            "The red line shows the average profile reported by Kliore et al. ( ) and archived at the <em>Planetary Data System.</em> The width of vertical bar indicates the 1\u2010 \u03c3 uncertainty in corresponding electron density profile. ",
+            "The red line shows the average profile reported by Kliore et al. ( ) and archived at the <em>Planetary Data System.</em> The width of vertical bar indicates the 1\u2010 \u03c3 uncertainty in corresponding electron density profile. "
+        ],
+        "ack": [
+            "Data used in this work are available at the NASA <em>Planetary Data System</em> ( http://atmos.nmsu.edu/data_and_services/atmospheres_data/Cassini/rss.html ). "
+        ],
+        "source": {
+            "bibcode": "2019JGRA..124..643D",
+            "title": [
+                "Cassini Radio Occultation Observations of Titan's Ionosphere: The Complete Set of Electron Density Profiles"
+            ],
+            "author": [
+                "Dalba, Paul A.",
+                "Withers, Paul"
+            ],
+            "pubdate": "2019-01-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2018JA025693"
+            ],
+            "grant": null
+        }
+    },
+    "2846101": {
+        "body": [
+            "The parameters derived from the Galileo PLS data by the numerical moments (NM) technique were obtained from the <em>Planetary Data System,</em> and the NM technique is described by Paterson [ ]. The PLS measures particle flux as functions of energy per charge and angle (depending on the direction of field of views of the detector at the measurement time). ",
+            "Parameters derived by this method have been delivered to NASA's <em>Planetary Data System</em> (PDS) covering all RTS (Real\u2010Time Science) measurements between radial distances of 10\u201330 R J . ",
+            "The parameters derived from the Galileo PLS data by the numerical moments (NM) technique were obtained from the <em>Planetary Data System,</em> and the NM technique is described by Paterson [ ]. The PLS measures particle flux as functions of energy per charge and angle (depending on the direction of field of views of the detector at the measurement time). ",
+            "Parameters derived by this method have been delivered to NASA's <em>Planetary Data System</em> (PDS) covering all RTS (Real\u2010Time Science) measurements between radial distances of 10\u201330 R J . "
+        ],
+        "ack": [
+            "The Galileo PLS instrument is described at this website: http://www\u2010pi.physics.uiowa.edu/pls/ The University of Iowa subnode of PDS for Planetary Plasma Interactions is provided here: http://www\u2010pw.physics.uiowa.edu/pds/home.html The Galileo PLS plasma data used in the forward model plasma parameters calculations came from volume GO\u2010J\u2010PLS\u20103\u2010RDR\u2010FULLRES\u2010V1.0 in the <em>Planetary Data System</em> (PDS) at http://pds.nasa.gov/ . Likewise, the plasma numerical moments from the Galileo PLS instrument are found in the GO\u2010J\u2010PLS\u20105\u2010RTS\u2010MOMENTS\u2010V1.0 PDS volume. "
+        ],
+        "source": {
+            "bibcode": "2016JGRE..121..871B",
+            "title": [
+                "Survey of Galileo plasma observations in Jupiter's plasma sheet"
+            ],
+            "author": [
+                "Bagenal, Fran",
+                "Wilson, Robert J.",
+                "Siler, Scott",
+                "Paterson, William R.",
+                "Kurth, William S."
+            ],
+            "pubdate": "2016-05-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "DATA",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1002/2016JE005009"
+            ],
+            "grant": null
+        }
+    },
+    "13409087": {
+        "source": {
+            "bibcode": "2017SSRv..213..447G",
+            "title": [
+                "The Ultraviolet Spectrograph on NASA's Juno Mission"
+            ],
+            "author": [
+                "Gladstone, G. Randall",
+                "Persyn, Steven C.",
+                "Eterno, John S.",
+                "Walther, Brandon C.",
+                "Slater, David C.",
+                "Davis, Michael W.",
+                "Versteeg, Maarten H.",
+                "Persson, Kristian B.",
+                "Young, Michael K.",
+                "Dirks, Gregory J.",
+                "Sawka, Anthony O.",
+                "Tumlinson, Jessica",
+                "Sykes, Henry",
+                "Beshears, John",
+                "Rhoad, Cherie L.",
+                "Cravens, James P.",
+                "Winters, Gregory S.",
+                "Klar, Robert A.",
+                "Lockhart, Walter",
+                "Piepgrass, Benjamin M.",
+                "Greathouse, Thomas K.",
+                "Trantham, Bradley J.",
+                "Wilcox, Philip M.",
+                "Jackson, Matthew W.",
+                "Siegmund, Oswald H. W.",
+                "Vallerga, John V.",
+                "Raffanti, Rick",
+                "Martin, Adrian",
+                "G\u00e9rard, J. -C.",
+                "Grodent, Denis C.",
+                "Bonfond, Bertrand",
+                "Marquet, Benoit",
+                "Denis, Fran\u00e7ois"
+            ],
+            "pubdate": "2017-11-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1007/s11214-014-0040-z"
+            ],
+            "grant": null
+        }
+    },
+    "33829186": {
+        "body": [
+            "At optical wavelengths, comet polarimetry was performed for many comets (as of March 2025, 95 comets were archived on the NASA <em>Planetary Data System,</em> Kiselev et al. 2017). Initially, it was suggested that there were two main types: high-polarized and low-polarized groups (Levasseur-Regourd et al. 1996). ",
+            "-C., et al. 2015, Polarimetry of Stars and Planetary Systems, 379 Kiselev, N., Shubina, E., Velichko, S., et al. 2017, NASA <em>Planetary Data System,</em> 271 Kolokolova, L. & Kimura, H. 2010, A&A, 513, A40. doi:10.1051/0004-6361/200913681 Korokhin, V. "
+        ],
+        "source": {
+            "bibcode": "2025ApJ...983L..19L",
+            "title": [
+                "Optical and Near-infrared Contemporaneous Polarimetry of C/2023 A3 (Tsuchinshan-ATLAS)"
+            ],
+            "author": [
+                "Lim, Bumhoo",
+                "Ishiguro, Masateru",
+                "Takahashi, Jun",
+                "Akitakya, Hiroshi",
+                "Geem, Jooyeon",
+                "Bach, Yoonsoo P.",
+                "Jin, Sunho",
+                "Jo, Hangbin",
+                "Choi, Seungwon",
+                "Seo, Jinguk",
+                "Kawabata, Koji S.",
+                "Hori, Tomoya",
+                "Maruta, Tetsuharu",
+                "Im, Myungshin"
+            ],
+            "pubdate": "2025-04-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.3847/2041-8213/adc2f9",
+                "10.48550/arXiv.2503.14896"
+            ],
+            "grant": null
+        }
+    },
+    "34657284": {
+        "body": [
+            "Data Availability Statement The Juno data used in this paper are archived in the NASA <em>Planetary Data System.</em> The Juno UVS data used in this paper are archived in Trantham (2014). ",
+            "Juno J/SW Jovian Auroral Distribution Def V1.0 [Dataset], JNO-J/SW-JAD-5-CALIBRATEDV1.0. NASA <em>Planetary Data System.</em> doi: 10.17189/2775-4623 Bolton, S. J., Lunine, J., Stevenson, D., Connerney, J. ",
+            "Juno E/J/S/SS Waves Calibrated Survey Full Resolution V2.0 [Dataset], JNO-E/J/SS-WAV-3-CDR-SRVFULL-V2.0. NASA <em>Planetary Data System.</em> doi: 10.17189/1520498 Louis, C. K., Jackman, C. M., Hospodarsky, G., O\u2019Kane Hackett, A., Devon-Hurley, E., Zarka, P., . . . others (2023). "
+        ],
+        "source": {
+            "bibcode": "2025arXiv250520461G",
+            "title": [
+                "Jupiter's UV auroral response to a magnetospheric compression event"
+            ],
+            "author": [
+                "Giles, R. S.",
+                "Greathouse, T. K.",
+                "Ebert, R. W.",
+                "Kurth, W. S.",
+                "Louis, C. K.",
+                "Vogt, M. F.",
+                "Bonfond, B.",
+                "Grodent, D.",
+                "G\u00e9rard, J. -C.",
+                "Gladstone, G. R.",
+                "Kammer, J. A.",
+                "Hue, V.",
+                "Wilson, R. J.",
+                "Bolton, S. J.",
+                "Connerney, J. E. P."
+            ],
+            "pubdate": "2025-05-00",
+            "doctype": "eprint",
+            "property": [
+                "ARTICLE",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "NOT REFEREED",
+                "OPENACCESS"
+            ],
+            "doi": [
+                "10.48550/arXiv.2505.20461"
+            ],
+            "grant": null
+        }
+    },
+    "14190188": {
+        "body": [
+            "These data will be made available to the <em>Planetary Data System.</em> For use in science analysis, the spectra will be further processed by the OSIRIS-REx science team into Level 3 products. ",
+            "These Level 3 spectra, with their associated wavelengths and uncertainties, will also be available to users in the <em>Planetary Data System.</em> Conclusion This paper describes the design, operation, and performance of OVIRS, a highly capable remote sensing visible/SWIR spectral imager flying on the OSIRIS-REx mission to the near-Earth carbonaceous asteroid, Bennu. "
+        ],
+        "source": {
+            "bibcode": "2018SSRv..214...54R",
+            "title": [
+                "The OSIRIS-REx Visible and InfraRed Spectrometer (OVIRS): Spectral Maps of the Asteroid Bennu"
+            ],
+            "author": [
+                "Reuter, D. C.",
+                "Simon, A. A.",
+                "Hair, J.",
+                "Lunsford, A.",
+                "Manthripragada, S.",
+                "Bly, V.",
+                "Bos, B.",
+                "Brambora, C.",
+                "Caldwell, E.",
+                "Casto, G.",
+                "Dolch, Z.",
+                "Finneran, P.",
+                "Jennings, D.",
+                "Jhabvala, M.",
+                "Matson, E.",
+                "McLelland, M.",
+                "Roher, W.",
+                "Sullivan, T.",
+                "Weigle, E.",
+                "Wen, Y.",
+                "Wilson, D.",
+                "Lauretta, D. S."
+            ],
+            "pubdate": "2018-03-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1007/s11214-018-0482-9",
+                "10.48550/arXiv.1703.10574"
+            ],
+            "grant": null
+        }
+    },
+    "13986622": {
+        "body": [
+            "The National Research Council's Committee on Data Management and Computation (CODMAC) report in 1982 discussed problems with the archival of data from NASAs space missions. NASA created the Pilot <em>Planetary Data System</em> (PPDS) in 1984, and later the <em>Planetary Data System</em> (PDS) in 1989, to address the findings based on recommendations contained in the CODMAC report ( Bernstein, 1982 ). ",
+            "The PDS version 3 (PDS3) that has been used for several decades is now being replaced by version 4 (PDS4) for all ESA and NASA planetary missions under development and those which will be newly selected. 2.1.1 PDS3 format The PDS3 Standards have been the baseline for archiving planetary science data sets for several decades ( <em>Planetary Data System,</em> 2006 ). This version of the standards has gone through several minor updates in those years, but at its core there have remained a number of key aspects that have allowed for scientific users to quickly and easily pick up and use the data from a compliant archive. ",
+            "This has driven the need for a new, modern version 4: PDS4. 2.1.2 PDS4 format PDS version 4 (PDS4) was developed to bring both the archiving process and use of the archived data into the modern era ( <em>Planetary Data System,</em> 2016 ). It is adapted to online dissemination and aims to build on PDS3 experience to solve some of its limitations. "
+        ],
+        "abstract": [
+            "In addition, it will support the two formats of the <em>Planetary Data System</em> (i.e., PDS3 and PDS4), as well as providing new ways for searching the data products with specific metadata and geometrical parameters. "
+        ],
+        "source": {
+            "bibcode": "2018P&SS..150..131B",
+            "title": [
+                "ESA's Planetary Science Archive: Preserve and present reliable scientific data sets"
+            ],
+            "author": [
+                "Besse, S.",
+                "Vallat, C.",
+                "Barthelemy, M.",
+                "Coia, D.",
+                "Costa, M.",
+                "De Marchi, G.",
+                "Fraga, D.",
+                "Grotheer, E.",
+                "Heather, D.",
+                "Lim, T.",
+                "Martinez, S.",
+                "Arviset, C.",
+                "Barbarisi, I.",
+                "Docasal, R.",
+                "Macfarlane, A.",
+                "Rios, C.",
+                "Saiz, J.",
+                "Vallejo, F."
+            ],
+            "pubdate": "2018-01-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/j.pss.2017.07.013"
+            ],
+            "grant": null
+        }
+    },
+    "2599661": {
+        "body": [
+            "Data Product Generation The processing of CRISM data into data products delivered to the <em>Planetary Data System</em> (PDS) is shown schematically in Figure 4. Data products in PDS\u2010compliant formats are generated in near real time and delivered every three months. Two types of products are delivered, \u201cstandard products\u201d produced for all observations, and \u201cspecial products\u201d generated on a best effort basis. 4 Schematic representation of pipeline processing of CRISM data products delivered to the <em>Planetary Data System.</em> 4.1. Radiometric and Geometric Calibration Mars scene images are calibrated to I/F (the ratio of measured radiance to the incoming solar flux) in eight major steps, using the accompanying and interleaved instrument calibrations as well as ground\u2010based calibrations. "
+        ],
+        "source": {
+            "bibcode": "2009JGRE..114.0D07M",
+            "title": [
+                "Compact Reconnaissance Imaging Spectrometer for Mars investigation and data set from the Mars Reconnaissance Orbiter's primary science phase"
+            ],
+            "author": [
+                "Murchie, Scott L.",
+                "Seelos, Frank P.",
+                "Hash, Christopher D.",
+                "Humm, David C.",
+                "Malaret, Erick",
+                "McGovern, J. Andrew",
+                "Choo, Teck H.",
+                "Seelos, Kimberly D.",
+                "Buczkowski, Debra L.",
+                "Morgan, M. Frank",
+                "Barnouin-Jha, Olivier S.",
+                "Nair, Hari",
+                "Taylor, Howard W.",
+                "Patterson, Gerald W.",
+                "Harvel, Christopher A.",
+                "Mustard, John F.",
+                "Arvidson, Raymond E.",
+                "McGuire, Patrick",
+                "Smith, Michael D.",
+                "Wolff, Michael J.",
+                "Titus, Timothy N.",
+                "Bibring, Jean-Pierre",
+                "Poulet, Francois"
+            ],
+            "pubdate": "2009-00-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2009JE003344"
+            ],
+            "grant": null
+        }
+    },
+    "14122056": {
+        "body": [
+            "We used version 5 of the retrieval dataset, which was released in the National Aeronautics and Space Administration (NASA)\u2019s <em>Planetary Data System</em> (PDS) in September 2017 (ref. 30 ). Version 5 data include several features that enable retrieval success rates in high aerosol conditions of about 90%. ",
+            "Data availability The Mars Climate Sounder retrieval dataset is available from the NASA <em>Planetary Data System</em> (PDS) Planetary Atmospheres node: http://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/Mars/Mars.html . "
+        ],
+        "source": {
+            "bibcode": "2018NatAs...2..126H",
+            "title": [
+                "Hydrogen escape from Mars enhanced by deep convection in dust storms"
+            ],
+            "author": [
+                "Heavens, Nicholas G.",
+                "Kleinb\u00f6hl, Armin",
+                "Chaffin, Michael S.",
+                "Halekas, Jasper S.",
+                "Kass, David M.",
+                "Hayne, Paul O.",
+                "McCleese, Daniel J.",
+                "Piqueux, Sylvain",
+                "Shirley, James H.",
+                "Schofield, John T."
+            ],
+            "pubdate": "2018-02-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1038/s41550-017-0353-4"
+            ],
+            "grant": null
+        }
+    },
+    "2748317": {
+        "body": [
+            "It consists of more than three billion single shots (status of March 2011 <em>Planetary Data System</em> (PDS) release, http://pds\u2010geosciences.wustl.edu/missions/lola.htm, the latest available LOLA data set at the time of writing) and an additional gridded data set, with high absolute accuracy (\u223c1 m vertical and \u223c30 m lateral [ , 2011]). ",
+            "A global 100 m/pixel LROC WAC orthoimage mosaic was released to the <em>Planetary Data System</em> (PDS) in March 2011 [ , 2011]. This mosaic was derived with a preliminary version of the GLD100 and LOLA data of the polar regions as the topographic references. "
+        ],
+        "source": {
+            "bibcode": "2012JGRE..117.0H17S",
+            "title": [
+                "GLD100: The near-global lunar 100 m raster DTM from LROC WAC stereo image data"
+            ],
+            "author": [
+                "Scholten, F.",
+                "Oberst, J.",
+                "Matz, K. -D.",
+                "Roatsch, T.",
+                "W\u00e4hlisch, M.",
+                "Speyerer, E. J.",
+                "Robinson, M. S."
+            ],
+            "pubdate": "2012-03-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2011JE003926"
+            ],
+            "grant": null
+        }
+    },
+    "31235146": {
+        "body": [
+            "The new map collection also includes data, either obtained after 2006 or set aside at the time due to processing issues, not currently in the NASA <em>Planetary Data System</em> (PDS) archive ( https://pds-geosciences.wustl.edu/missions/lunar_radar/index.htm ). ",
+            "For reference, there are additional 12.6-cm wavelength maps that cover the regions north and south of our study area, archived with the NASA <em>Planetary Data System</em> ( ). The 12.6-cm radar brightness contrast with Orientale ejecta to the west is much less pronounced (in the range of 23dB) than at 70-cm wavelength, consistent with the notion that 12.6-cm echoes are intrinsically weaker in the highlands due to the smaller number of decimeter-scale rocks. ",
+            "Images collected after the first <em>Planetary Data System</em> archive delivery are also included. Analysis of the circular polarization ratio (CPR) suggests an uncertainty of 20%, based on the likely 1dB error in estimating the background noise in a radar look. "
+        ],
+        "abstract": [
+            "Images collected after the first <em>Planetary Data System</em> archive delivery are also included. Analysis of the circular polarization ratio (CPR) suggests an uncertainty of \u223c20 %, based on the likely \u223c1 dB error in estimating the background noise in a radar look. "
+        ],
+        "source": {
+            "bibcode": "2025Icar..42516324C",
+            "title": [
+                "Refined 70-cm earth-based lunar radar maps and a new interpretation of the Cruger-Sirsalis cryptomare"
+            ],
+            "author": [
+                "Campbell, Bruce A.",
+                "Jawin, Erica R.",
+                "Morgan, Gareth A."
+            ],
+            "pubdate": "2025-01-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "DATA",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/j.icarus.2024.116324"
+            ],
+            "grant": null
+        }
+    },
+    "22627022": {
+        "body": [
+            "However, the reference surface that defines zero altitude in the set of profiles archived at the NASA <em>Planetary Data System</em> (PDS) is unknown and appears to vary by 1,500 km at fixed latitude (Section 3). ",
+            "It is hardly surprising that Schinder was unable to identify the reference surface adopted by Kliore. 1 Figure Relationship between latitude and the ad hoc altitude shift applied to the <em>Planetary Data System</em> profiles. It is unclear whether this issue also affects the altitude scales of other electron density profiles from the giant planets, such as the Pioneer 11 observations of Saturn reported by Kliore, Lindal et al. ( 1980) and Kliore, Patel et al. ( 1980) or the Galileo observations of Jupiter reported by Mendillo et al. ( 2022). ",
+            "(middle) Average profile (gray), smoothed average profile (black), and <em>Planetary Data System</em> profile (red) for the S007N occultation. The vertical gray line indicates zero. ",
+            "The average profile is shown by the gray curve, the smoothed average profile is shown by the black curve, and the <em>Planetary Data System</em> (PDS) profile is shown by the red curve. The vertical gray line indicates zero. "
+        ],
+        "abstract": [
+            "A set of electron density profiles of Saturn's ionosphere acquired by Cassini radio occultations is archived at the NASA <em>Planetary Data System.</em> However, the reference surface that defines zero altitude in these profiles is unknown and appears to vary by 1,500 km at fixed latitude. "
+        ],
+        "source": {
+            "bibcode": "2023JGRA..12831310T",
+            "title": [
+                "Cassini Radio Occultation Observations of Saturn's Ionosphere: Electron Density Profiles From 2005 to 2013"
+            ],
+            "author": [
+                "Tamburo, P.",
+                "Withers, Paul",
+                "Dalba, P. A.",
+                "Moore, L.",
+                "Koskinen, T."
+            ],
+            "pubdate": "2023-04-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "DATA",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2023JA031310"
+            ],
+            "grant": null
+        }
+    },
+    "15324364": {
+        "body": [
+            "Data availability The MAVEN IUVS data used in this study are publicly archived with the Planetary Atmospheres node of the <em>Planetary Data System</em> and are identified by filenames with the orbit number, the label \u2018periapse\u2019 and \u2018v07\u2019 as the version. The MAVEN SWIA data are publicly archived with the Planetary Plasma Interactions node of the <em>Planetary Data System.</em> The data that support the plots within this paper and other findings of this study are available from the corresponding author upon reasonable request. "
+        ],
+        "source": {
+            "bibcode": "2018NatAs...2..802D",
+            "title": [
+                "Discovery of a proton aurora at Mars"
+            ],
+            "author": [
+                "Deighan, J.",
+                "Jain, S. K.",
+                "Chaffin, M. S.",
+                "Fang, X.",
+                "Halekas, J. S.",
+                "Clarke, J. T.",
+                "Schneider, N. M.",
+                "Stewart, A. I. F.",
+                "Chaufray, J. -Y.",
+                "Evans, J. S.",
+                "Stevens, M. H.",
+                "Mayyasi, M.",
+                "Stiepen, A.",
+                "Crismani, M.",
+                "McClintock, W. E.",
+                "Holsclaw, G. M.",
+                "Lo, D. Y.",
+                "Montmessin, F.",
+                "Lef\u00e8vre, F.",
+                "Jakosky, B. M."
+            ],
+            "pubdate": "2018-07-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "DATA",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1038/s41550-018-0538-5"
+            ],
+            "grant": null
+        }
+    },
+    "218787": {
+        "source": {
+            "bibcode": "2013JGRE..118.1177G",
+            "title": [
+                "High-altitude dust layers on Mars: Observations with the Thermal Emission Spectrometer"
+            ],
+            "author": [
+                "Guzewich, Scott D.",
+                "Talaat, Elsayed R.",
+                "Toigo, Anthony D.",
+                "Waugh, Darryn W.",
+                "McConnochie, Timothy H."
+            ],
+            "pubdate": "2013-06-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1002/jgre.20076"
+            ],
+            "grant": null
+        }
+    },
+    "2549794": {
+        "body": [
+            "Magellan left\u2010look radar image is courtesy of NASA <em>Planetary Data System</em> Imaging Node, U.S. Geological Survey, Flagstaff, Arizona. ",
+            "Magellan right\u2010look radar image is courtesy of NASA <em>Planetary Data System</em> Imaging Node, U.S. Geological Survey, Flagstaff, Arizona. ",
+            "Magellan radar image is courtesy of NASA <em>Planetary Data System</em> Imaging Node, U.S. Geological Survey, Flagstaff, Arizona. 2.3. ",
+            "Magellan radar image is courtesy of NASA <em>Planetary Data System</em> Imaging Node, U.S. Geological Survey, Flagstaff, Arizona. "
+        ],
+        "source": {
+            "bibcode": "2008JGRE..113.2012W",
+            "title": [
+                "Particulate gravity currents on Venus"
+            ],
+            "author": [
+                "Waltham, Dave",
+                "Pickering, Kevin T.",
+                "Bray, Veronica J."
+            ],
+            "pubdate": "2008-02-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2007JE002913"
+            ],
+            "grant": null
+        }
+    },
+    "2811681": {
+        "body": [
+            "Through data collection by the radio telescope of Arecibo, Puerto Rico, Ostro et al. ( 2000 ) have created polyhedron's designs for many asteroids considering a constant density (NASA <em>Planetary Data System,</em> 2004). The polyhedron is partitioned into a collection of simple tetrahedra. ",
+            "By analytical calculation, the volume of the tetrahedron is given by the sixth part of the scalar triple product of the vectors represented by three concurrent edges of this solid, where We choose the data set of EAR-A-5-DDR-RADARSHAPE-MODELS-V2.0 from NASA <em>Planetary Data System</em> (2004) to build the polyhedral model with 2048 vertices and 4092 faces of asteroid (216) Kleopatra as illustrated in Fig. 2 . "
+        ],
+        "source": {
+            "bibcode": "2015MNRAS.450.3742C",
+            "title": [
+                "Mascon gravitation model using a shaped polyhedral source"
+            ],
+            "author": [
+                "Chanut, T. G. G.",
+                "Aljbaae, S.",
+                "Carruba, V."
+            ],
+            "pubdate": "2015-07-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1093/mnras/stv845"
+            ],
+            "grant": null
+        }
+    },
+    "14110125": {
+        "body": [
+            "The SPOC processes science instrument data into high-level combined data sets in standard image formats and archives the data to the <em>Planetary Data System</em> (PDS) for the benefit of future users. The SPOC TAGCAMS image processing is not as extensive as it is for the science instruments, modifying only the image headers while leaving the image portion of the data unchanged. ",
+            "TAGCAMS flight image data will be submitted to the <em>Planetary Data System</em> (PDS) for use and study by the broader community. Although not specifically designed to meet scientific imaging objectives, the high-quality imagery provided by TAGCAMS will provide important capabilities in the investigation of Bennu\u2019s surface."
+        ],
+        "source": {
+            "bibcode": "2018SSRv..214...37B",
+            "title": [
+                "Touch And Go Camera System (TAGCAMS) for the OSIRIS-REx Asteroid Sample Return Mission"
+            ],
+            "author": [
+                "Bos, B. J.",
+                "Ravine, M. A.",
+                "Caplinger, M.",
+                "Schaffner, J. A.",
+                "Ladewig, J. V.",
+                "Olds, R. D.",
+                "Norman, C. D.",
+                "Huish, D.",
+                "Hughes, M.",
+                "Anderson, S. K.",
+                "Lorenz, D. A.",
+                "May, A.",
+                "Jackman, C. D.",
+                "Nelson, D.",
+                "Moreau, M.",
+                "Kubitschek, D.",
+                "Getzandanner, K.",
+                "Gordon, K. E.",
+                "Eberhardt, A.",
+                "Lauretta, D. S."
+            ],
+            "pubdate": "2018-02-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1007/s11214-017-0465-2"
+            ],
+            "grant": null
+        }
+    },
+    "31665036": {
+        "body": [
+            "M., et al., NEOWISE Diameters and Albedos V2.0. 2019, NASA <em>Planetary Data System,</em> DOI: 10.26033/18S3-2Z54 Margot, J. L., Pravec, P., Taylor, P., Carry, B., & Jacobson, S., Asteroid Systems: Binaries, Triples, and Pairs. 2015, in Asteroids IV (University of Arizona Press), 355\u2013374 Nesvorny, D., Nesvorny HCM Asteroid Families V1.0. 2020, NASA <em>Planetary Data System,</em> urn:nasa:pds:ast.nesvorny.families::1.0 Nesvorn\u00fd, D., Morbidelli, A., Vokrouhlick\u00fd, D., Bottke, W. "
+        ],
+        "source": {
+            "bibcode": "2024CoSka..54d..57B",
+            "title": [
+                "The possible dual nature of the asteroid (12499) 1998 FR47"
+            ],
+            "author": [
+                "Borisov, G.",
+                "Todorovi\u0107, N.",
+                "Vchkova-Bebekovska, E.",
+                "Kostov, A.",
+                "Apostolovska, G."
+            ],
+            "pubdate": "2024-11-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.31577/caosp.2024.54.4.57",
+                "10.48550/arXiv.2411.11994"
+            ],
+            "grant": null
+        }
+    },
+    "2549230": {
+        "body": [
+            "In addition to the NSSDC data, we also use near\u2010Earth asteroid rendezvous (NEAR) magnetometer data, obtained from the Small Bodies Node of the <em>Planetary Data System.</em> The left\u2010hand side of Table 1 lists the spacecraft fulfilling these criteria. 1 Spacecraft Separated From Earth by More Than 10\u00b0 in Heliolatitude or Heliolongitude Used in This Study<link href=\"#jgra19656-note-0001\"></link> Spacecraft Magnetometer Data Used for Total Flux Estimates Years R Longitude Separation Latitude Separation Pioneer 6 [1966] 1965\u20131966 0.8\u20131 AU 77\u00b0 4\u00b0 Pioneer 7 [1966] 1966\u20131967 1\u20131.1 AU 113\u00b0 5\u00b0 Pioneer 10 [1975] \u2010 \u2010 \u2010 \u2010 Pioneer 11 [1975] 1973 1.1\u20132.2 AU 118\u00b0 5\u00b0 Helios 1 [1975] 1974\u20131981 0.3\u20131 AU 180\u00b0 14\u00b0 Helios 2 [1975] 1976\u20131980 0.3\u20131 AU 180\u00b0 14\u00b0 Voyager 1 [1977] 1977 1.3\u20131.8 AU 18\u00b0 3\u00b0 Voyager 2 [1977] 1977\u20131978 1.3\u20132.2 AU 54\u00b0 6\u00b0 Pioneer Venus Orbiter [1980] 1978\u20131988 0.72 AU 180\u00b0 11\u00b0 ICE (ISEE 3) [1978] 1984\u20131990 0.93\u20131 AU 71\u00b0 8\u00b0 Ulysses [1992] 1990\u20132008 1.3\u20132.2 AU 180\u00b0 87\u00b0 NEAR [1997] 1997\u20132000 1\u20131.8 AU 175\u00b0 16\u00b0 STEREO A [1997] 2007\u20132008 0.96 AU 27\u00b0 3\u00b0 STEREO B [2007] 2007\u20132008 1.1 AU 24\u00b0 3\u00b0 a Because of the strong radial variation in estimated heliospheric flux (see Figure 1), flux estimates are further limited to measurements at R 2.5 AU, as shown by the right\u2010hand side of the table. b The time period over which data are used. c The heliocentric distance covered by the spacecraft during this period. d The maximum heliographic longitude and latitude separation from Earth and, hence, the OMNI spacecraft. ",
+            "In addition to the NSSDC data, we also use near\u2010Earth asteroid rendezvous (NEAR) magnetometer data, obtained from the Small Bodies Node of the <em>Planetary Data System.</em> The left\u2010hand side of Table 1 lists the spacecraft fulfilling these criteria. 1 Spacecraft Separated From Earth by More Than 10\u00b0 in Heliolatitude or Heliolongitude Used in This Study<link href=\"#jgra19656-note-0001\"></link> Spacecraft Magnetometer Data Used for Total Flux Estimates Years R Longitude Separation Latitude Separation Pioneer 6 [1966] 1965\u20131966 0.8\u20131 AU 77\u00b0 4\u00b0 Pioneer 7 [1966] 1966\u20131967 1\u20131.1 AU 113\u00b0 5\u00b0 Pioneer 10 [1975] \u2010 \u2010 \u2010 \u2010 Pioneer 11 [1975] 1973 1.1\u20132.2 AU 118\u00b0 5\u00b0 Helios 1 [1975] 1974\u20131981 0.3\u20131 AU 180\u00b0 14\u00b0 Helios 2 [1975] 1976\u20131980 0.3\u20131 AU 180\u00b0 14\u00b0 Voyager 1 [1977] 1977 1.3\u20131.8 AU 18\u00b0 3\u00b0 Voyager 2 [1977] 1977\u20131978 1.3\u20132.2 AU 54\u00b0 6\u00b0 Pioneer Venus Orbiter [1980] 1978\u20131988 0.72 AU 180\u00b0 11\u00b0 ICE (ISEE 3) [1978] 1984\u20131990 0.93\u20131 AU 71\u00b0 8\u00b0 Ulysses [1992] 1990\u20132008 1.3\u20132.2 AU 180\u00b0 87\u00b0 NEAR [1997] 1997\u20132000 1\u20131.8 AU 175\u00b0 16\u00b0 STEREO A [1997] 2007\u20132008 0.96 AU 27\u00b0 3\u00b0 STEREO B [2007] 2007\u20132008 1.1 AU 24\u00b0 3\u00b0 a Because of the strong radial variation in estimated heliospheric flux (see Figure 1), flux estimates are further limited to measurements at R 2.5 AU, as shown by the right\u2010hand side of the table. b The time period over which data are used. c The heliocentric distance covered by the spacecraft during this period. d The maximum heliographic longitude and latitude separation from Earth and, hence, the OMNI spacecraft. ",
+            "In addition to the NSSDC data, we also use near\u2010Earth asteroid rendezvous (NEAR) magnetometer data, obtained from the Small Bodies Node of the <em>Planetary Data System.</em> The left\u2010hand side of Table 1 lists the spacecraft fulfilling these criteria. 1 Spacecraft Separated From Earth by More Than 10\u00b0 in Heliolatitude or Heliolongitude Used in This Study<link href=\"#jgra19656-note-0001\"></link> Spacecraft Magnetometer Data Used for Total Flux Estimates Years R Longitude Separation Latitude Separation Pioneer 6 [1966] 1965\u20131966 0.8\u20131 AU 77\u00b0 4\u00b0 Pioneer 7 [1966] 1966\u20131967 1\u20131.1 AU 113\u00b0 5\u00b0 Pioneer 10 [1975] \u2010 \u2010 \u2010 \u2010 Pioneer 11 [1975] 1973 1.1\u20132.2 AU 118\u00b0 5\u00b0 Helios 1 [1975] 1974\u20131981 0.3\u20131 AU 180\u00b0 14\u00b0 Helios 2 [1975] 1976\u20131980 0.3\u20131 AU 180\u00b0 14\u00b0 Voyager 1 [1977] 1977 1.3\u20131.8 AU 18\u00b0 3\u00b0 Voyager 2 [1977] 1977\u20131978 1.3\u20132.2 AU 54\u00b0 6\u00b0 Pioneer Venus Orbiter [1980] 1978\u20131988 0.72 AU 180\u00b0 11\u00b0 ICE (ISEE 3) [1978] 1984\u20131990 0.93\u20131 AU 71\u00b0 8\u00b0 Ulysses [1992] 1990\u20132008 1.3\u20132.2 AU 180\u00b0 87\u00b0 NEAR [1997] 1997\u20132000 1\u20131.8 AU 175\u00b0 16\u00b0 STEREO A [1997] 2007\u20132008 0.96 AU 27\u00b0 3\u00b0 STEREO B [2007] 2007\u20132008 1.1 AU 24\u00b0 3\u00b0 a Because of the strong radial variation in estimated heliospheric flux (see Figure 1), flux estimates are further limited to measurements at R 2.5 AU, as shown by the right\u2010hand side of the table. b The time period over which data are used. c The heliocentric distance covered by the spacecraft during this period. d The maximum heliographic longitude and latitude separation from Earth and, hence, the OMNI spacecraft. "
+        ],
+        "ack": [
+            "Acu\u00f1a) and to the Small Bodies Node of the <em>Planetary Data System</em> for NEAR magnetometer data (principal investigator M. Acu\u00f1a). "
+        ],
+        "source": {
+            "bibcode": "2008JGRA..11312103O",
+            "title": [
+                "Estimating total heliospheric magnetic flux from single-point in situ measurements"
+            ],
+            "author": [
+                "Owens, M. J.",
+                "Arge, C. N.",
+                "Crooker, N. U.",
+                "Schwadron, N. A.",
+                "Horbury, T. S."
+            ],
+            "pubdate": "2008-12-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2008JA013677"
+            ],
+            "grant": [
+                "NASA",
+                "NNG06GC18G"
+            ]
+        }
+    },
+    "32505180": {
+        "body": [
+            "Data Availability Statement The Waves burst data sets analyzed during the current study are available in the NASA <em>Planetary Data System</em> repository (Kurth Piker, 2024). The magnetometer data sets analyzed during the current study are available in the NASA <em>Planetary Data System</em> repository (Connerney, 2024). The high\u2010energy particle data sets analyzed during the current study are available in the NASA <em>Planetary Data System</em> repository (Mauk, 2024). The low/medium\u2010energy particle data sets analyzed during the current study are available in the NASA <em>Planetary Data System</em> repository (Allegrini et al., 2024)."
+        ],
+        "source": {
+            "bibcode": "2024JGRA..12933173J",
+            "title": [
+                "Evidence of Magnetic Reconnection in Ganymede's Wake Region From Juno"
+            ],
+            "author": [
+                "Joseph, J.",
+                "Kurth, W. S.",
+                "Sulaiman, A. H.",
+                "Connerney, J. E. P.",
+                "Allegrini, F.",
+                "Duling, S.",
+                "Clark, G.",
+                "Faden, J. B.",
+                "Piker, C. W.",
+                "Jaynes, A. N.",
+                "Mauk, B. H.",
+                "Bolton, S. J."
+            ],
+            "pubdate": "2024-12-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2024JA033173"
+            ],
+            "grant": null
+        }
+    },
+    "19501214": {
+        "body": [
+            "The range 0 magnetic field data have been archived on schedule and are available at the <em>planetary data system</em> (PDS). 3 Methods We find the best fitting magnetodisc parameters over the first 24 orbits via simple least squares minimization allowing all six model parameters to vary, initializing the model with the parameters of the Voyager 1 model. ",
+            "Data Availability Statement Data supporting the conclusions in this paper are available at the NASA <em>Planetary Data System</em> ( https://pds.nasa.gov ) ( https://pds-ppi.igpp.ucla.edu/search/view/?"
+        ],
+        "source": {
+            "bibcode": "2020JGRA..12528138C",
+            "title": [
+                "A Jovian Magnetodisc Model for the Juno Era"
+            ],
+            "author": [
+                "Connerney, J. E. P.",
+                "Timmins, S.",
+                "Herceg, M.",
+                "Joergensen, J. L."
+            ],
+            "pubdate": "2020-10-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "DATA",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2020JA028138"
+            ],
+            "grant": null
+        }
+    },
+    "21916579": {
+        "body": [
+            "These maps have been archived in the NASA <em>Planetary Data System</em> (Hood et al., 2022). Figure S2 in Supporting Information S1 shows the same maps superposed on LROC Wide Angle Camera shaded relief. ",
+            "Data Availability Statement Lunar Prospector calibrated magnetometer data are available from the Planetary Plasma Interactions (PPI) node of the NASA <em>Planetary Data System</em> ( https://doi.org/10.17189/1519723 ). Kaguya (SELENE) vector magnetometer data are available from the Japan Aerospace Exploration Agency (JAXA) at https://data.darts.isas.jaxa.jp/pub/pds3/sln-l-lmag-3-mag-ts-v1.0/ Digital versions of the north and south polar field maps at 30 and 20 km altitude shown in Figures 1 and 2, including the three vector field components as well as the field magnitude, are available for download from the Planetary Plasma Interactions node of the NASA <em>Planetary Data System</em> at UCLA (Hood et al., 2022; https://doi.org/10.17189/rk57-g992 ; also provided in Supplementary Information S1). "
+        ],
+        "source": {
+            "bibcode": "2022GeoRL..4900557H",
+            "title": [
+                "Lunar Magnetic Anomalies and Polar Ice"
+            ],
+            "author": [
+                "Hood, Lon L.",
+                "Bryant, Isabella",
+                "van der Leeuw, Jacob"
+            ],
+            "pubdate": "2022-11-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "DATA",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2022GL100557"
+            ],
+            "grant": null
+        }
+    },
+    "32601518": {
+        "body": [
+            "Porco et al. 2004 ) using the Outer Planets Unified Search (OPUS) 4 4 https://pds-rings.seti.org/search/ tool provided by the <em>Planetary Data System</em>'s Ring-Moon Systems node. First, we searched for all images that were part of observations whose names contained \u201cSPOKE\u201d or \u201cSPK\u201d because each of these observations contained multiple images obtained over a short time period that were designed to observe spokes as they moved across the rings and so provide the most useful information about overall spoke intensity. ",
+            "Each image was calibrated using the standard CISSCAL 4.0 beta pipeline available on the <em>Planetary Data System,</em> which removes instrumental backgrounds, applies flat fields, and converts the brightness data to I / F , a standardized measure of reflectance (R. ",
+            "These maps will be archived by the <em>Planetary Data System</em> (M. M. Hedman et al. 2024 ) and should facilitate identifying and quantifying spokes because each row of the map corresponds to one radius in the ring. "
+        ],
+        "ack": [
+            "This work also made use of the Outer Planet Unified Search tool provided by the <em>Planetary Data System</em> Ring-Moon Systems Node. The authors would also like to thank A. "
+        ],
+        "source": {
+            "bibcode": "2025PSJ.....6...17C",
+            "title": [
+                "A Survey of Cassini Images of Spokes in Saturn's Rings: Unusual Spoke Types and Seasonal Trends"
+            ],
+            "author": [
+                "Callos, S. R.",
+                "Hedman, M. M.",
+                "Hamilton, D. P."
+            ],
+            "pubdate": "2025-01-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.3847/PSJ/ad9583",
+                "10.48550/arXiv.2411.10313"
+            ],
+            "grant": null
+        }
+    },
+    "32076078": {
+        "source": {
+            "bibcode": "2024PSJ.....5..262R",
+            "title": [
+                "New Candidates for Organic-rich Regions on Ceres"
+            ],
+            "author": [
+                "Rizos, J. L.",
+                "Sunshine, J. M.",
+                "Daly, R. T.",
+                "Nathues, A.",
+                "De Sanctis, C.",
+                "Raponi, A.",
+                "Pasckert, J. H.",
+                "Farnham, T. L.",
+                "Kloos, J.",
+                "Ortiz, J. L."
+            ],
+            "pubdate": "2024-12-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.3847/PSJ/ad86ba",
+                "10.48550/arXiv.2406.14893"
+            ],
+            "grant": null
+        }
+    },
+    "33648040": {
+        "body": [
+            "All data are accessible through the NASA <em>Planetary Data System</em> ( Maurice et al., 2021 ). 1.4 Paper outline This paper is structured as follows. ",
+            "Reflectance and uncertainty are provided for each observation by the SuperCam Bundle on the NASA <em>Planetary Data System</em> ( Maurice et al., 2021 ). The position of the points in the different triangles indicates the dominant mineral family in the targets spectrum, but a more precise identification of the minerals requires studying the distribution of the absorption band positions (plotted in this study along with Triforce diagrams). "
+        ],
+        "source": {
+            "bibcode": "2025Icar..43416538R",
+            "title": [
+                "The mineralogical composition of Jezero Crater Western Fan: Multigaussian modeling of Perseverance/SuperCam near-infrared observations and overview of major units"
+            ],
+            "author": [
+                "Royer, C.",
+                "Poulet, F.",
+                "Wiens, R. C.",
+                "Montmessin, F.",
+                "Beck, P.",
+                "Beyssac, O.",
+                "Clav\u00e9, \u00c9.",
+                "Dehouck, E.",
+                "Fouchet, T.",
+                "Johnson, J. R.",
+                "Mandon, L.",
+                "Bernard, S.",
+                "Caravaca, G.",
+                "le Mou\u00e9lic, S.",
+                "Pilorget, C.",
+                "Quantin-Nataf, C.",
+                "Maurice, S.",
+                "Cousin, A."
+            ],
+            "pubdate": "2025-07-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/j.icarus.2025.116538"
+            ],
+            "grant": null
+        }
+    },
+    "12076642": {
+        "body": [
+            "Models obtained from radar observations and currently archived in the <em>Planetary Data System</em> (PDS) have typically around 4000 vertices and 8000 tiles. ",
+            "This work has made use of NASA's <em>Planetary Data System</em> and Astrophysics Data System Bibliographic Services."
+        ],
+        "ack": [
+            "This work has made use of NASA's <em>Planetary Data System</em> and Astrophysics Data System Bibliographic Services."
+        ],
+        "source": {
+            "bibcode": "2009Icar..202..502S",
+            "title": [
+                "Extreme sensitivity of the YORP effect to small-scale topography"
+            ],
+            "author": [
+                "Statler, Thomas S."
+            ],
+            "pubdate": "2009-08-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/j.icarus.2009.03.003",
+                "10.48550/arXiv.0903.1119"
+            ],
+            "grant": null
+        }
+    },
+    "10300006": {
+        "body": [
+            "We rely on the solar spectrum provided in the <em>Planetary Data System</em> (PDS) dataset to convert radiance at sensor to apparent reflectance (I/F) and use the geometry information provided for each image cube to account for photometric effects and viewing geometry. ",
+            "All original Moon Mineralogy Mapper (M 3 ) radiance data used for this work were downloaded from the NASA <em>Planetary Data System</em> (PDS) Geosciences node and are available at: http://geo.pds.nasa.gov/missions/chandrayaan1/default.htm . "
+        ],
+        "source": {
+            "bibcode": "2017NatGe..10..561M",
+            "title": [
+                "Remote detection of widespread indigenous water in lunar pyroclastic deposits"
+            ],
+            "author": [
+                "Milliken, Ralph E.",
+                "Li, Shuai"
+            ],
+            "pubdate": "2017-08-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1038/ngeo2993"
+            ],
+            "grant": null
+        }
+    },
+    "2011600": {
+        "body": [
+            "All rights reserved 0032-0633;96 $15.00+0.00 The Planetary Plasma Interactions Node of the <em>Planetary Data System</em> Raymond J. Walker,' Steven P. Joy,' Todd A. King,' Christopher T. ",
+            "In addition to the pub- 60 R. J. Walker et al.: <em>Planetary Data System</em> lication of the data we also must maintain as much of the data on-line as possible to provide quick access to the data. ",
+            "Summary and future directions The Planetary Plasma Interactions Node of the <em>Planetary Data System</em> is now a mature working tool for planetary scientists. ",
+            "McMahon, S. K., Overview of the <em>Planetary Data System.</em> Planet. Space Sci. 44, 3-11, 1996. <em>Planetary Data System,</em> <em>Planetary Data System</em> standards ref erence, in <em>Planetary Data System</em> Data Preparation Work book. "
+        ],
+        "title": [
+            "The Planetary Plasma Interactions Node of the <em>Planetary Data System</em>"
+        ],
+        "source": {
+            "bibcode": "1996P&SS...44...55W",
+            "title": [
+                "The Planetary Plasma Interactions Node of the Planetary Data System"
+            ],
+            "author": [
+                "Walker, Raymond J.",
+                "Joy, Steven P.",
+                "King, Todd A.",
+                "Russell, Christopher T.",
+                "McPherron, Robert L.",
+                "Kurth, William S."
+            ],
+            "pubdate": "1996-01-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/0032-0633(95)00106-9"
+            ],
+            "grant": null
+        }
+    },
+    "169000": {
+        "body": [
+            "The map product is available for download in digital form as Supplemental information and at http://www.lpl.arizona.edu/~rlorenz/topomap.html and may additionally be archived in future at the NASA <em>Planetary Data System</em> (PDS). We offer in this paper only some brief interpretations and observations about the topographic map. ",
+            "These data are available via the NASA <em>Planetary Data system</em> as \u2018Altimeter Summary Files\u2019, e.g. \u2018T77_ABDR_SUMMARY_04_D229_V02.CSV\u2019. "
+        ],
+        "source": {
+            "bibcode": "2013Icar..225..367L",
+            "title": [
+                "A global topographic map of Titan"
+            ],
+            "author": [
+                "Lorenz, Ralph D.",
+                "Stiles, Bryan W.",
+                "Aharonson, Oded",
+                "Lucas, Antoine",
+                "Hayes, Alexander G.",
+                "Kirk, Randolph L.",
+                "Zebker, Howard A.",
+                "Turtle, Elizabeth P.",
+                "Neish, Catherine D.",
+                "Stofan, Ellen R.",
+                "Barnes, Jason W."
+            ],
+            "pubdate": "2013-07-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/j.icarus.2013.04.002"
+            ],
+            "grant": null
+        }
+    },
+    "2880682": {
+        "body": [
+            "We also show three different map tiles from the atlas as examples. 2 Data processing The image data returned from the spacecraft are distributed inside the Dawn team in NASA <em>Planetary Data System</em> (PDS) format. The first step of the image processing pipeline was the conversion to Video Image Communication and Retrieval (VICAR) format followed by the radiometric calibration of the images ( Schrder et al., 2013, 2014 ). ",
+            "The entire Ceres LAMO atlas is available publicly through the Dawn geographical information system (GIS) web page at http://dawngis.dlr.de/atlas and will become available through the <em>Planetary Data System</em> ( http://pdssbn.astro.umd.edu/ ). 4 Nomenclature The Dawn team proposed 113 names for geological features. "
+        ],
+        "abstract": [
+            "The full atlas is available to the public through the Dawn Geographical Information System (GIS) web page [http://dawngis.dlr.de/atlas] and will become available through the NASA <em>Planetary Data System</em> (PDS) (http://pdssbn.astro.umd.edu/)."
+        ],
+        "source": {
+            "bibcode": "2017P&SS..140...74R",
+            "title": [
+                "High-resolution Ceres Low Altitude Mapping Orbit Atlas derived from Dawn Framing Camera images"
+            ],
+            "author": [
+                "Roatsch, Th.",
+                "Kersten, E.",
+                "Matz, K. -D.",
+                "Preusker, F.",
+                "Scholten, F.",
+                "Jaumann, R.",
+                "Raymond, C. A.",
+                "Russell, C. T."
+            ],
+            "pubdate": "2017-06-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/j.pss.2017.04.008"
+            ],
+            "grant": null
+        }
+    },
+    "19950465": {
+        "body": [
+            "EPD data are available through the <em>Planetary Data System</em> (PDS). Figure 2b also shows the flux in the TP1 channel of the EPD detector over approximately the same interval using data obtained from PDS but on a different scale. ",
+            "(b) Data from the same channel obtained from PDS archives and plotted on a logarithmic scale with colors indicating pitch angle as provided in the PDS data. PDS, <em>planetary data system.</em> Figure 3 is a plot of TP1 data from 17:30 UT to 18:30 UT on the E26 pass. ",
+            "Data Availability Statement We also appreciate the ready access to archived data provided by the NASA <em>Planetary Data System,</em> where the Galileo EPD ( https://doi.org/10.17189/1519660 ) and magnetometer ( https://doi.org/10.17189/1519667 ) data shown in this paper were obtained."
+        ],
+        "source": {
+            "bibcode": "2021GeoRL..4891550J",
+            "title": [
+                "Comment on \"An Active Plume Eruption on Europa During Galileo Flyby E26 as Indicated by Energetic Proton Depletions\" by Huybrighs et al."
+            ],
+            "author": [
+                "Jia, Xianzhe",
+                "Kivelson, Margaret G.",
+                "Paranicas, Christopher"
+            ],
+            "pubdate": "2021-03-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "DATA",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2020GL091550"
+            ],
+            "grant": null
+        }
+    },
+    "951947": {
+        "source": {
+            "bibcode": "2012SSRv..167...93H",
+            "title": [
+                "LCROSS (Lunar Crater Observation and Sensing Satellite) Observation Campaign: Strategies, Implementation, and Lessons Learned"
+            ],
+            "author": [
+                "Heldmann, Jennifer L.",
+                "Colaprete, Anthony",
+                "Wooden, Diane H.",
+                "Ackermann, Robert F.",
+                "Acton, David D.",
+                "Backus, Peter R.",
+                "Bailey, Vanessa",
+                "Ball, Jesse G.",
+                "Barott, William C.",
+                "Blair, Samantha K.",
+                "Buie, Marc W.",
+                "Callahan, Shawn",
+                "Chanover, Nancy J.",
+                "Choi, Young-Jun",
+                "Conrad, Al",
+                "Coulson, Dolores M.",
+                "Crawford, Kirk B.",
+                "DeHart, Russell",
+                "de Pater, Imke",
+                "Disanti, Michael",
+                "Forster, James R.",
+                "Furusho, Reiko",
+                "Fuse, Tetsuharu",
+                "Geballe, Tom",
+                "Gibson, J. Duane",
+                "Goldstein, David",
+                "Gregory, Stephen A.",
+                "Gutierrez, David J.",
+                "Hamilton, Ryan T.",
+                "Hamura, Taiga",
+                "Harker, David E.",
+                "Harp, Gerry R.",
+                "Haruyama, Junichi",
+                "Hastie, Morag",
+                "Hayano, Yutaka",
+                "Hinz, Phillip",
+                "Hong, Peng K.",
+                "James, Steven P.",
+                "Kadono, Toshihiko",
+                "Kawakita, Hideyo",
+                "Kelley, Michael S.",
+                "Kim, Daryl L.",
+                "Kurosawa, Kosuke",
+                "Lee, Duk-Hang",
+                "Long, Michael",
+                "Lucey, Paul G.",
+                "Marach, Keith",
+                "Matulonis, Anthony C.",
+                "McDermid, Richard M.",
+                "McMillan, Russet",
+                "Miller, Charles",
+                "Moon, Hong-Kyu",
+                "Nakamura, Ryosuke",
+                "Noda, Hirotomo",
+                "Okamura, Natsuko",
+                "Ong, Lawrence",
+                "Porter, Dallan",
+                "Puschell, Jeffery J.",
+                "Rayner, John T.",
+                "Rembold, J. Jedadiah",
+                "Roth, Katherine C.",
+                "Rudy, Richard J.",
+                "Russell, Ray W.",
+                "Ryan, Eileen V.",
+                "Ryan, William H.",
+                "Sekiguchi, Tomohiko",
+                "Sekine, Yasuhito",
+                "Skinner, Mark A.",
+                "S\u00f4ma, Mitsuru",
+                "Stephens, Andrew W.",
+                "Storrs, Alex",
+                "Suggs, Robert M.",
+                "Sugita, Seiji",
+                "Sung, Eon-Chang",
+                "Takatoh, Naruhisa",
+                "Tarter, Jill C.",
+                "Taylor, Scott M.",
+                "Terada, Hiroshi",
+                "Trujillo, Chadwick J.",
+                "Vaitheeswaran, Vidhya",
+                "Vilas, Faith",
+                "Walls, Brian D.",
+                "Watanabe, Jun-ihi",
+                "Welch, William J.",
+                "Woodward, Charles E.",
+                "Yim, Hong-Suh",
+                "Young, Eliot F."
+            ],
+            "pubdate": "2012-05-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "DATA",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1007/s11214-011-9759-y"
+            ],
+            "grant": null
+        }
+    },
+    "15117996": {
+        "body": [
+            "The raw data, intermediate products, and electron density profiles have been archived on the Planetary Plasma Interactions node of the NASA <em>Planetary Data System.</em> Data from the corresponding egress occultations have not yet been processed to yield reliable electron density profiles. ",
+            "A description of the data processing is available in the MAVEN ROSE <em>Planetary Data System</em> documentation, and a dedicated manuscript on this topic is currently in preparation. ",
+            "MAVEN ROSE electron density profiles are publicly available on the NASA <em>Planetary Data System.</em>"
+        ],
+        "abstract": [
+            "MAVEN Radio Occultation Science Experiment electron density profiles are publicly available on the NASA <em>Planetary Data System.</em>"
+        ],
+        "ack": [
+            "MAVEN data are available from the PPI node of the NASA <em>Planetary Data System</em> ( https://pds-ppi.igpp.ucla.edu/mission/ MAVEN/MAVEN/ROSE )."
+        ],
+        "source": {
+            "bibcode": "2018JGRA..123.4171W",
+            "title": [
+                "First Ionospheric Results From the MAVEN Radio Occultation Science Experiment (ROSE)"
+            ],
+            "author": [
+                "Withers, Paul",
+                "Felici, M.",
+                "Mendillo, M.",
+                "Moore, L.",
+                "Narvaez, C.",
+                "Vogt, M. F.",
+                "Jakosky, B. M."
+            ],
+            "pubdate": "2018-05-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2018JA025182"
+            ],
+            "grant": null
+        }
+    },
+    "15581492": {
+        "body": [
+            "These images were downloaded from NASA's <em>Planetary Data System</em> and used to generate an image mosaic with a resolution of 1.5 m per pixel for rock detection. ",
+            "The latest rock concentration map on lunar surface (covering all longitudes and 80\u00b0S to 85\u00b0N) generated using this method was released on the <em>Planetary Data System</em> Geosciences Node ( http://ode.rsl.wustl.edu/moon/index.aspx ); in this section, we compare this map with our rock abundance map in the candidate landing region. ",
+            "These images were downloaded from NASA's <em>Planetary Data System</em> and used to generate an image mosaic with a resolution of 1.5 m per pixel for rock detection. ",
+            "The latest rock concentration map on lunar surface (covering all longitudes and 80\u00b0S to 85\u00b0N) generated using this method was released on the <em>Planetary Data System</em> Geosciences Node ( http://ode.rsl.wustl.edu/moon/index.aspx ); in this section, we compare this map with our rock abundance map in the candidate landing region. "
+        ],
+        "source": {
+            "bibcode": "2018JGRE..123.3256W",
+            "title": [
+                "Rock Abundance and Crater Density in the Candidate Chang'E-5 Landing Region on the Moon"
+            ],
+            "author": [
+                "Wu, Bo",
+                "Huang, Jun",
+                "Li, Yuan",
+                "Wang, Yiran",
+                "Peng, Jin"
+            ],
+            "pubdate": "2018-12-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2018JE005820"
+            ],
+            "grant": null
+        }
+    },
+    "2701428": {
+        "body": [
+            "We use the local topography delivered with the M 3 data from the <em>Planetary Data System</em> (PDS), which is close to but slightly lower than M 3 spatial resolution in some areas. ",
+            "The data used include all the global mode R3 calibration and the registered topography (for cosine incidence correction) as delivered to the <em>Planetary Data System</em> as of January 2011. Variations in phase angle and temperature between orbital tracks mean that an assembled map of apparent reflectance ( Figure 8a), cosine incidence angle corrected reflectance ( Figure 8b), or temperature ( Figure 8c) will show boundaries due to the varying viewing geometry between orbital swaths. "
+        ],
+        "source": {
+            "bibcode": "2011JGRE..116.0G16C",
+            "title": [
+                "Thermal removal from near-infrared imaging spectroscopy data of the Moon"
+            ],
+            "author": [
+                "Clark, Roger N.",
+                "Pieters, Carl\u00e9 M.",
+                "Green, Robert O.",
+                "Boardman, J. W.",
+                "Petro, Noah E."
+            ],
+            "pubdate": "2011-06-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2010JE003751"
+            ],
+            "grant": null
+        }
+    },
+    "428234": {
+        "body": [
+            "The SDS distributes Level-0, -1A, and -1B data to the Science Team and submits the same products for archiving at the NASA <em>Planetary Data System</em> (PDS) Geosciences Node. Higher-level data products including the gravitational field harmonic coefficients, are archived with the PDS by the Principal Investigator at MIT. ",
+            "Fig. 12 GRAIL Science downlink data flow diagram Data Accessibility The GRAIL mission will archive all acquired science data at all levels along with ancillary data and relevant information and documentation to NASA\u2019s <em>Planetary Data System</em> (PDS) in order for the science community at large to benefit from the knowledge gained by the mission. "
+        ],
+        "source": {
+            "bibcode": "2013SSRv..178....3Z",
+            "title": [
+                "Gravity Recovery and Interior Laboratory (GRAIL): Mapping the Lunar Interior from Crust to Core"
+            ],
+            "author": [
+                "Zuber, Maria T.",
+                "Smith, David E.",
+                "Lehman, David H.",
+                "Hoffman, Tom L.",
+                "Asmar, Sami W.",
+                "Watkins, Michael M."
+            ],
+            "pubdate": "2013-09-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1007/s11214-012-9952-7"
+            ],
+            "grant": null
+        }
+    },
+    "20993330": {
+        "body": [
+            "LAMP, LOLA, and Diviner bolometric temperature datasets were downloaded from the <em>Planetary Data System</em> (PDS), and when necessary, additional dataset processing was used to identify detections consistent with water ice (described in Table S1 ). ",
+            "LAMP, LOLA, and Diviner bolometric temperature datasets were downloaded from the <em>Planetary Data System</em> (PDS), and when necessary, additional dataset processing was used to identify detections consistent with water ice (described in Table S1). ",
+            "Table S1 Archive of where datasets can be found on the <em>Planetary Data System</em> (PDS) and additional dataset processing used in this study. "
+        ],
+        "source": {
+            "bibcode": "2022Icar..37714874B",
+            "title": [
+                "Resource potential of lunar permanently shadowed regions"
+            ],
+            "author": [
+                "Brown, H. M.",
+                "Boyd, A. K.",
+                "Denevi, B. W.",
+                "Henriksen, M. R.",
+                "Manheim, M. R.",
+                "Robinson, M. S.",
+                "Speyerer, E. J.",
+                "Wagner, R. V."
+            ],
+            "pubdate": "2022-05-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/j.icarus.2021.114874"
+            ],
+            "grant": null
+        }
+    },
+    "15323859": {
+        "body": [
+            "This plot relies on the asteroid lightcurves recorded in the <em>Planetary Data System</em> (PDS) archive (PDS archive v16; Harris et al. 2016 ) that have U=3 rating, suggesting that they are very reliable. ",
+            "Rotation Rates and Shapes Constrain Internal Structure Seeking brightness fluctuation over time, lightcurve observations and data reduction have become increasingly automated, resulting in a large database of objects (1,757 with quality code U=3 and a diameter >200 m and 10 km in the <em>Planetary Data System</em> archive v16; Harris et al. 2016 ). A single apparition of an asteroid can provide very precise data on its rotation rate from the periodicity of the lightcurve but only weak constraints on its elongation from its amplitude due to the unknown geometry of the rotation axis relative to the observer. ",
+            "Note that the maximum lightcurve amplitude is taken from the <em>Planetary Data System</em> archive, and geometry concerns set this as only a lower limit, which could result in moving some data points up ( Harris et al. 2016 ). "
+        ],
+        "source": {
+            "bibcode": "2018ARA&A..56..593W",
+            "title": [
+                "Rubble Pile Asteroids"
+            ],
+            "author": [
+                "Walsh, Kevin J."
+            ],
+            "pubdate": "2018-09-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1146/annurev-astro-081817-052013",
+                "10.48550/arXiv.1810.01815"
+            ],
+            "grant": null
+        }
+    },
+    "10300042": {
+        "body": [
+            "Data processing techniques are outlined in detail in previous MAVEN/IUVS papers 11 , 14 , 15 , 16 , 17 and all data used herein are available on the NASA <em>Planetary Data System.</em> Detection and variability of Mg<sup>+</sup> Emission from Mg + was reliably detected in every periapse limb scan obtained over one Mars year (two Earth years; Figs 1 \u2013 3 ) whenever the Mg + layer was appropriately illuminated and the instrument orientation did not introduce excessive scattered solar continuum (for these purposes, stray light). ",
+            "The data have been publicly archived at the Planetary Atmospheres node of the <em>Planetary Data System</em> (PDS). Data products used herein are of the form: periapse[ \u2217\u2217 ]level1b. "
+        ],
+        "source": {
+            "bibcode": "2017NatGe..10..401C",
+            "title": [
+                "Detection of a persistent meteoric metal layer in the Martian atmosphere"
+            ],
+            "author": [
+                "Crismani, M. M. J.",
+                "Schneider, N. M.",
+                "Plane, J. M. C.",
+                "Evans, J. S.",
+                "Jain, S. K.",
+                "Chaffin, M. S.",
+                "Carrillo-Sanchez, J. D.",
+                "Deighan, J. I.",
+                "Yelle, R. V.",
+                "Stewart, A. I. F.",
+                "McClintock, W.",
+                "Clarke, J.",
+                "Holsclaw, G. M.",
+                "Stiepen, A.",
+                "Montmessin, F.",
+                "Jakosky, B. M."
+            ],
+            "pubdate": "2017-06-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1038/ngeo2958"
+            ],
+            "grant": null
+        }
+    },
+    "34038820": {
+        "body": [
+            "Data review and archiving to EVN or <em>Planetary Data System</em> (PDS) Standard is the final step PRIDE\u2013JUICE basic configuration, requirements, and implementation On April 14 2023, JUICE was launched from the Guiana Space Centre in Kourou, French Guiana, using the Ariane 5 ECA (Evolved Cryogenic, model A) launch vehicle [ 38 ]. ",
+            "Finally, the mission\u2019s post-processing and archiving will be carried out in accordance with the <em>Planetary Data System</em> (PDS) archiving guidelines. Mission scenario and PRIDE operations during cruise phase Fig. 5 Software architecture for the PRIDE planning and scheduling tool. "
+        ],
+        "source": {
+            "bibcode": "2025CEAS...17..339P",
+            "title": [
+                "Planetary radio interferometry and Doppler experiment as an operational component of the Jupiter Icy Moons Explorer mission"
+            ],
+            "author": [
+                "Pallichadath, Vidhya",
+                "Dirkx, Dominic",
+                "Fayolle, Marie S.",
+                "Frey, S\u00e1ndor",
+                "Gurvits, Leonid I.",
+                "Boven, Paul",
+                "Cim\u00f2, Giuseppe",
+                "Fogasy, Judit",
+                "Molera Calv\u00e9s, Guifr\u00e9",
+                "Perger, Krisztina",
+                "Said, N. Masdiana Md",
+                "Vermeersen, Bert L. A."
+            ],
+            "pubdate": "2025-05-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1007/s12567-024-00563-x",
+                "10.48550/arXiv.2408.14965"
+            ],
+            "grant": null
+        }
+    },
+    "12363310": {
+        "body": [
+            "A conservative approach would be to make comparisons across and within sols with consideration for their (quadratic) cumulative error. 3.7 <em>Planetary Data System</em> archive The data are archived with the <em>Planetary Data System</em> (Lemmon, M., MER Mars Pancam Atmospheric Opacity RDR V1.0, NASA <em>Planetary Data System,</em> MER-M-PANCAM-5-ATMOS-OPACITY-V1.0, 2004). "
+        ],
+        "source": {
+            "bibcode": "2015Icar..251...96L",
+            "title": [
+                "Dust aerosol, clouds, and the atmospheric optical depth record over 5 Mars years of the Mars Exploration Rover mission"
+            ],
+            "author": [
+                "Lemmon, Mark T.",
+                "Wolff, Michael J.",
+                "Bell, James F., III",
+                "Smith, Michael D.",
+                "Cantor, Bruce A.",
+                "Smith, Peter H."
+            ],
+            "pubdate": "2015-05-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "DATA",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/j.icarus.2014.03.029",
+                "10.48550/arXiv.1403.4234"
+            ],
+            "grant": null
+        }
+    },
+    "2498552": {
+        "body": [
+            "Data will be distributed to the community at large from the ASI Science Data Center (ASDC) in Frascati, Italy, and from the Geosciences Node of the <em>Planetary Data System</em> at Washington University in St. Louis, USA (WUSTL\u2010PDS). ",
+            "Data Processing and Standard Data Products All data released by the SHARAD Team for archiving are required to be compliant with the <em>Planetary Data System</em> (PDS) standard [ , 2003]. This standard imposes requirement"
+        ],
+        "abstract": [
+            "Preprocessed data as well as range- and azimuth-focused data will be formatted according to <em>Planetary Data System</em> (PDS) standards and be made available from the ASI Science Data Center (ASDC) and from the Geosciences Node of the <em>Planetary Data System</em> (PDS). "
+        ],
+        "source": {
+            "bibcode": "2007JGRE..112.5S05S",
+            "title": [
+                "SHARAD sounding radar on the Mars Reconnaissance Orbiter"
+            ],
+            "author": [
+                "Seu, Roberto",
+                "Phillips, Roger J.",
+                "Biccari, Daniela",
+                "Orosei, Roberto",
+                "Masdea, Arturo",
+                "Picardi, Giovanni",
+                "Safaeinili, Ali",
+                "Campbell, Bruce A.",
+                "Plaut, Jeffrey J.",
+                "Marinangeli, Lucia",
+                "Smrekar, Suzanne E.",
+                "Nunes, Daniel C."
+            ],
+            "pubdate": "2007-05-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2006JE002745"
+            ],
+            "grant": null
+        }
+    },
+    "2856591": {
+        "body": [
+            "Bell, J.F., Owensby, P.D., Hawke, B.R., Brown, R.H., Cruikshank, D., and Hartmann, W.K., 52-color asteroid survey, EAR-A-RDR-52COLOR-V2.1, NASA <em>Planetary Data System,</em> 1995. Brearley, A.J., The action of water, in Meteorites and the Early Solar System II, Lauretta, D.S. and McSween, H.Y., Jr., Eds., Univ. ",
+            "Bus, S. and Binzel, R.P., 145 Adeona CCD Spectrum, EAR-A-I0028-4-SBN0001/SMASSII-V1.0:145_01_TAB, NASA <em>Planetary Data System,</em> 2003a. Bus, S. and Binzel, R.P., 704 Interamnia CCD Spectrum, EAR-A-I0028-4-SBN0001/SMASSII-V1.0:704_01_TAB, NASA <em>Planetary Data System,</em> 2003b. Bus, S. and Binzel, R.P., 779 Nina CCD Spectrum, EARA-I0028-4-SBN0001/SMASSII-V1.0:779_01_TAB, NASA <em>Planetary Data System,</em> 2003c. SOLAR SYSTEM RESEARCH Vol. 50 No. 4 2016 291 Bus, S. and Binzel, R.P., 1474 Beira CCD Spectrum, EARA-I0028-4-SBN0001/SMASSII-V1.0:1474_01_TAB, NASA <em>Planetary Data System,</em> 2003d. "
+        ],
+        "source": {
+            "bibcode": "2016SoSyR..50..281B",
+            "title": [
+                "Material composition assessment and discovering sublimation activity on asteroids 145 Adeona, 704 Interamnia, 779 Nina, and 1474 Beira"
+            ],
+            "author": [
+                "Busarev, V. V.",
+                "Barabanov, S. I.",
+                "Puzin, V. B."
+            ],
+            "pubdate": "2016-07-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1134/S003809461604002X"
+            ],
+            "grant": null
+        }
+    },
+    "24090855": {
+        "source": {
+            "bibcode": "2023RaSc...5807740C",
+            "title": [
+                "Radio Occultation Data Analysis With Analytical Ray-Tracing"
+            ],
+            "author": [
+                "Caruso, A.",
+                "Bourgoin, A.",
+                "Togni, A.",
+                "Zannoni, M.",
+                "Tortora, P."
+            ],
+            "pubdate": "2023-09-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2023RS007740"
+            ],
+            "grant": null
+        }
+    },
+    "864559": {
+        "body": [
+            "The fleet of spacecraft that have observed the two Martian moons include: Mars flyby missions: NASA Mariners 4, 5 and 6 ESA Rosetta (still operating) Mars orbiter missions: NASA Mariner 9 Viking Orbiters 1 and 2 Soviet Phobos 88 NASA Mars Global Surveyor NASA Mars Odyssey Orbiter (still operating) ESA Mars Express (still operating) NASA Mars Reconnaissance Orbiter (still operating) Mars lander/rover missions: Viking Landers 1 and 2 Mars Pathfinder Mars Exploration Rover Spirit and Opportunity (still operating) Mars Surface Laboratory Curiosity (still operating) NASA spacecraft data for Phobos are available from the <em>Planetary Data System</em> (PDS) [1] and the National Space Science Data Center (NSSDC) [2]. ",
+            "The science and associated ancillary engineering data were archived by the Soviet Academy of Sciences Space Research Institute (IKI) and the NASA <em>Planetary Data System</em> (PDS) and NASA Ancillary Information Facility (NAIF) under the US/Soviet Joint Working Group for Solar System Exploration. ",
+            "All Mars Express observation data are and will be archived in ESAs Planetary Science Archive (PSA) [30] and NASAs <em>Planetary Data System</em> (PDS) [31]. OMEGA is an imaging spectrometer from 0.385.1 m comprising three wavelength channels. "
+        ],
+        "source": {
+            "bibcode": "2014P&SS..102....9D",
+            "title": [
+                "Spacecraft exploration of Phobos and Deimos"
+            ],
+            "author": [
+                "Duxbury, Thomas C.",
+                "Zakharov, Alexander V.",
+                "Hoffmann, Harald",
+                "Guinness, Edward A."
+            ],
+            "pubdate": "2014-11-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/j.pss.2013.12.008"
+            ],
+            "grant": null
+        }
+    },
+    "1981584": {
+        "body": [
+            "The principal public archives for Ulysses data include NSSDC, the recently created ESA Archive for Ulysses data in ESA\u2019s Space Science Department at Estec (Tranquille et al. 1996), World Data Center A for Rockets and Satellites (colocated with NSSDC for service to non-U.S. requesters), and the Planetary Plasma Interactions Discipline Node of NASA\u2019s <em>Planetary Data System</em> (PDS/PPI) at the University of the University of California at Los Angeles. ",
+            "Planetary magnetosphere data related to the February 1992 Ulysses flyby of Jupiter have been submitted to the Planetary Plasma Interactions (PPI) Discipline Node of the <em>Planetary Data System</em> (PDS) and will later be deep archived (typically on CD-ROMs) at, and distributed by, NSSDC, after PDS processing and peer review. "
+        ],
+        "source": {
+            "bibcode": "1996A&A...316..287F",
+            "title": [
+                "The heliospheric magnetic field at solar minimum: ULYSSES observations from pole to pole."
+            ],
+            "author": [
+                "Forsyth, R. J.",
+                "Balogh, A.",
+                "Horbury, T. S.",
+                "Erdoes, G.",
+                "Smith, E. J.",
+                "Burton, M. E."
+            ],
+            "pubdate": "1996-12-00",
+            "doctype": "article",
+            "property": [
+                "ADS_OPENACCESS",
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2495599": {
+        "body": [
+            "This is located at the Small Bodies Node of NASA's <em>Planetary Data System</em> and is a permanent link. at the Small Bodies Node of the <em>Planetary Data System).</em> "
+        ],
+        "source": {
+            "bibcode": "2007Icar..187....1A",
+            "title": [
+                "Deep Impact at Comet Tempel 1"
+            ],
+            "author": [
+                "A'Hearn, Michael F.",
+                "Combi, Michael R."
+            ],
+            "pubdate": "2007-03-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/j.icarus.2006.12.011"
+            ],
+            "grant": null
+        }
+    },
+    "2599815": {
+        "body": [
+            "This paper deals with the retrieval process used to obtain pressure information, temperature profiles, and profiles of dust and water ice opacity from limb radiance measurements to generate the current Level 2 data product (vertical profiles of geophysical parameters) of the MCS investigation delivered to the <em>Planetary Data System</em> (PDS). We describe the radiative transfer and the simplifications that have been implemented to accommodate a timely retrieval even with the 30 s measurement repeat cycle. "
+        ],
+        "abstract": [
+            "Here we describe the algorithm that is used to retrieve atmospheric profiles from MCS limb measurements for delivery to the <em>Planetary Data System.</em> The algorithm is based on a modified Chahine method and uses a fast radiative transfer scheme based on the Curtis-Godson approximation. "
+        ],
+        "source": {
+            "bibcode": "2009JGRE..11410006K",
+            "title": [
+                "Mars Climate Sounder limb profile retrieval of atmospheric temperature, pressure, and dust and water ice opacity"
+            ],
+            "author": [
+                "Kleinb\u00f6hl, Armin",
+                "Schofield, John T.",
+                "Kass, David M.",
+                "Abdou, Wedad A.",
+                "Backus, Charles R.",
+                "Sen, Bhaswar",
+                "Shirley, James H.",
+                "Lawson, W. Gregory",
+                "Richardson, Mark I.",
+                "Taylor, Fredric W.",
+                "Teanby, Nicholas A.",
+                "McCleese, Daniel J."
+            ],
+            "pubdate": "2009-10-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2009JE003358"
+            ],
+            "grant": null
+        }
+    },
+    "28142694": {
+        "body": [
+            "This data is available as derived PSR products (GDRPSR) in the <em>Planetary Data System</em> (PDS) Geosciences Node Lunar Orbital Data Explorer (ODE) ( https://ode.rsl.wustl.edu/moon/ ). ",
+            "LOLA albedo and surface slope datasets are available as derived albedo map (GDRDAM) and slope map (GDRDSM) in the <em>Planetary Data System</em> (PDS) Geosciences Node Lunar Orbital Data Explorer (ODE) ( https://ode.rsl.wustl.edu/moon/ ). ",
+            "In this study, we use LAMP-derived on-band, off-band, and Lyman- albedo maps from the <em>Planetary Data System</em> (PDS) Geosciences Node Lunar Orbital Data Explorer (ODE), with 240m/pixel map scale and coverage up to 80 latitude from the poles ( Table S4 , Supplementary Information ) to map water frost occurrence specific to the aforementioned criterion. ",
+            "The Diviner temperature data ( Williams et al., 2019 ) are available via the Geosciences Node of the <em>Planetary Data System</em> ( https://pds-geosciences.wustl.edu/missions/lro/diviner.htm and https://www.diviner.ucla.edu/data ). 2.9 Validation of classified water ice regions One of the primary objectives of our investigation is to provide a holistic understanding of the 3-dimensional (spatial and depth-wise) distribution of water ice within the lunar polar regions. "
+        ],
+        "source": {
+            "bibcode": "2024JPRS..211..392C",
+            "title": [
+                "On the reachability and genesis of water ice on the Moon"
+            ],
+            "author": [
+                "Chakraborty, Tathagata",
+                "Syed, Tajdarul Hassan",
+                "Heggy, Essam",
+                "Putrevu, Deepak",
+                "Dutta, Upama"
+            ],
+            "pubdate": "2024-05-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/j.isprsjprs.2024.03.020"
+            ],
+            "grant": null
+        }
+    },
+    "15503717": {
+        "body": [
+            "FITS = Flexible Image Transport System; PDS4 = <em>Planetary Data System</em> (version 4). From Calabretta and Greisen ( ). From the PDS4 Data Dictionary. ",
+            "We propose to add codes for classes of targets, more or less corresponding to <em>Planetary Data System</em> version 4 Target type attribute and to EuroPlaNet Table Access Protocol target_class parameter. ",
+            "FITS = Flexible Image Transport System; PDS4 = <em>Planetary Data System</em> (version 4). From Calabretta and Greisen ( ). From the PDS4 Data Dictionary. ",
+            "We propose to add codes for classes of targets, more or less corresponding to <em>Planetary Data System</em> version 4 Target type attribute and to EuroPlaNet Table Access Protocol target_class parameter. "
+        ],
+        "abstract": [
+            "We will also show how FITS metadata can easily be transformed in the <em>Planetary Data System</em> version 4 metadata archival model and lastly provide example implementations. "
+        ],
+        "source": {
+            "bibcode": "2018E&SS....5..640M",
+            "title": [
+                "FITS Format for Planetary Surfaces: Definitions, Applications, and Best Practices"
+            ],
+            "author": [
+                "Marmo, C.",
+                "Hare, T. M.",
+                "Erard, S.",
+                "Minin, M.",
+                "Pineau, F. -X.",
+                "Zinzi, A.",
+                "Cecconi, B.",
+                "Rossi, A. P."
+            ],
+            "pubdate": "2018-10-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2018EA000388"
+            ],
+            "grant": null
+        }
+    },
+    "31281338": {
+        "body": [
+            "While no publication on this dataset has ever been published, data from this mode are available in the <em>Planetary Data System</em> (PDS) and confirm that the instrument performed nominally for these measurements using Ion Sources 3 and 4 (see Sect. 2.3.1 and later description for the ion sources). ",
+            "In the present paper, we therefore discuss parameters for which no information was easily accessible or presented discrepancies that could affect the measurements. 2.2 Descent dataset and raw count correction Data used in this work were retrieved from the Huygens archive deposited in the Atmosphere Node of the <em>Planetary Data System.</em> We used the level 2 GCMS data archived in the HP-SSA-GCMS-3-FCO-DESCENT-V1.0.2 file. ",
+            "These data were extracted from the consolidated archive of the Huygens Atmospheric Structure Instrument (HASI) also archived on the <em>Planetary Data System</em> Atmospheres Node in the volume HP-SSA-HASI-2\u20133-4-MISSION-V1.1. "
+        ],
+        "ack": [
+            "The data analyzed here is archived in the <em>Planetary Data System,</em> atmospheres node. We also extend our thanks and acknowledgement to the following programs who funded us throughout this work: the NASA Cassini Data Analysis Program under CDAP16 2\u20130087 to T.G., M.G.T., J.S and S.M.H.; the NASA\u2019s Planetary Science Division Internal Scientist Funding Program through the Fundamental Laboratory Research (FlaRe) work package to M.G.T.; the NASA Cassini Data Analysis Program Grants 80NSSC19K0903 to J.S. and S.M.H.; the Programme National de Plan\u00e9tologie (PNP) of CNRS/INSU co-funded by CNES; and the Agence Nationale de la Recherche under the grant ANR-20-CE49\u20130004\u201301 to T.G., C.S., K.D. and M.C."
+        ],
+        "source": {
+            "bibcode": "2024A&A...690A.165G",
+            "title": [
+                "Reanalysis of the Huygens GCMS dataset: I. High-resolution methane vertical profile in the atmosphere of Titan"
+            ],
+            "author": [
+                "Gautier, T.",
+                "Serigano, J.",
+                "Das, K.",
+                "Coutelier, M.",
+                "H\u00f6rst, S. M.",
+                "Szopa, C.",
+                "Vinatier, S.",
+                "Trainer, M. G."
+            ],
+            "pubdate": "2024-10-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1051/0004-6361/202244583"
+            ],
+            "grant": null
+        }
+    },
+    "2768526": {
+        "body": [
+            "The available database To carry out our computations of obliquity, precession, and nutation, according to Eqs. (14) and (15), our study is based on the following four electronic databases: (1) <em>Planetary Data System</em> Asteroid/Dust Archive 1 , (2) Database of Asteroid Models from Inversion Techniques 2 , (3) IAU Minor Planet Center 3 , (4) Wolfram Curated Data (AstronomicalData) 4 . The <em>Planetary Data System</em> (PDS) provides quick access to different kinds of data on small solar system bodies like planetary satellites, asteroids, comets, meteorites, and dust. ",
+            "Their dataset comes mainly from two databases, the NASA <em>Planetary Data System</em> and the Uppsala\u2019s website, which is completed by other studies. "
+        ],
+        "source": {
+            "bibcode": "2013A&A...556A...8L",
+            "title": [
+                "Obliquity, precession rate, and nutation coefficients for a set of 100 asteroids"
+            ],
+            "author": [
+                "Lhotka, C.",
+                "Souchay, J.",
+                "Shahsavari, A."
+            ],
+            "pubdate": "2013-08-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ASSOCIATED",
+                "DATA",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1051/0004-6361/201321205"
+            ],
+            "grant": null
+        }
+    },
+    "33015235": {
+        "source": {
+            "bibcode": "2025JGRE..13008744B",
+            "title": [
+                "Channelized Thermal Emission, Promethean-Type Jets and Surface Changes on Io From Juno Stellar Reference Unit Imagery"
+            ],
+            "author": [
+                "Becker, Heidi N.",
+                "Schenk, Paul M.",
+                "Lopes, Rosaly M. C.",
+                "Brennan, Martin J.",
+                "Florence, Meghan M.",
+                "Mura, Alessandro",
+                "Tosi, Federico",
+                "Lunine, Jonathan I.",
+                "Alexander, James W.",
+                "Ravine, Michael A.",
+                "Hansen, Candice J.",
+                "Bolton, Scott J."
+            ],
+            "pubdate": "2025-02-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2024JE008744"
+            ],
+            "grant": null
+        }
+    },
+    "169124": {
+        "body": [
+            "The OH production rates are from AHearn et al. (1995) , 2 Data from the <em>Planetary Data System,</em> Small Bodies Node, dataset EAR-C-PHOT-3-RDR-LOWELL-COMET-DB-PR-V1.0. 2 after scaling to the heliocentric distances of the Spitzer observations. The heliocentric distance scaling was made using a simple fit (where R is the heliocentric distance in AU), which reproduces the heliocentric trend of the water production rate versus heliocentric distance calculated using the methods of Cowan and Ahearn (1979) and distributed by the Small Bodies Node of the <em>Planetary Data System.</em> A significant caveat to the OH production rates used here is that they were measured on previous apparitions of the comets, and given the changes in comets from one orbit to the next, they may not yield reliable estimates at the present time. "
+        ],
+        "source": {
+            "bibcode": "2013Icar..226..777R",
+            "title": [
+                "Survey of cometary CO<SUB>2</SUB>, CO, and particulate emissions using the Spitzer Space Telescope"
+            ],
+            "author": [
+                "Reach, William T.",
+                "Kelley, Michael S.",
+                "Vaubaillon, Jeremie"
+            ],
+            "pubdate": "2013-09-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "DATA",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/j.icarus.2013.06.011",
+                "10.48550/arXiv.1306.2381"
+            ],
+            "grant": null
+        }
+    },
+    "21120552": {
+        "body": [
+            "These images are publicly available through the <em>Planetary Data System</em> Cartography and Imaging Sciences Node ( pds-imaging.jpl.nasa.gov ). ",
+            "Geotiffs defining the regions within both Study Areas A and B are being prepared for delivery to the <em>Planetary Data System</em> for calendar year 2022. Prior to delivery they can be obtained from Zenodo at doi:10.5281/zenodo.5794193 . The Digital Elevation Models (DEMs) examined in this study (low resolution and higher\u2010resolution strips), including slope\u2010corrected and crater plus feature\u2010masked products, are part of a larger project that will be archived with the <em>Planetary Data System</em> at the completion of the project, however the images and software used to create them are in the public domain, as stated above. "
+        ],
+        "source": {
+            "bibcode": "2022GeoRL..4995285D",
+            "title": [
+                "Topographic Correlations Within Lunar Swirls in Mare Ingenii"
+            ],
+            "author": [
+                "Domingue, Deborah",
+                "Weirich, John",
+                "Chuang, Frank",
+                "Sickafoose, Amanda",
+                "Palmer, Eric"
+            ],
+            "pubdate": "2022-03-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "DATA",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2021GL095285",
+                "10.1002/essoar.10507851.1"
+            ],
+            "grant": null
+        }
+    },
+    "2701481": {
+        "body": [
+            "The IGDS delivers the M 3 measurement to the science team for validation and processing to higher levels, and is responsible for delivery of the calibrated, Level 0, and Level 1b data to the NASA <em>Planetary Data System</em> (PDS). The M 3 IGDS was designed based upon the data subsystem of the AVIRIS imaging spectrometer [ , 1998] that has been developed and continuously evolved for processing high volumes of imaging spectrometer measurements. ",
+            "The data backup approach is through geographically distributed storage of the packetized and level 0 M 3 data and processing software and delivery of the full data set to the <em>Planetary Data System</em> (PDS). The design of M 3 was carefully optimized to balance the full set of science measurement requirements against the constraints of the observational and mission conditions in order to fully achieve the M 3 science goals and objectives. "
+        ],
+        "abstract": [
+            "An end-to-end science data calibration system was developed and all measurements have been passed through this system and delivered to the <em>Planetary Data System</em> (PDS.NASA.GOV). An extensive effort has been undertaken by the science team to validate the Moon Mineralogy Mapper science measurements in the context of the mission objectives. "
+        ],
+        "source": {
+            "bibcode": "2011JGRE..116.0G19G",
+            "title": [
+                "The Moon Mineralogy Mapper (M<SUP>3</SUP>) imaging spectrometer for lunar science: Instrument description, calibration, on-orbit measurements, science data calibration and on-orbit validation"
+            ],
+            "author": [
+                "Green, R. O.",
+                "Pieters, C.",
+                "Mouroulis, P.",
+                "Eastwood, M.",
+                "Boardman, J.",
+                "Glavich, T.",
+                "Isaacson, P.",
+                "Annadurai, M.",
+                "Besse, S.",
+                "Barr, D.",
+                "Buratti, B.",
+                "Cate, D.",
+                "Chatterjee, A.",
+                "Clark, R.",
+                "Cheek, L.",
+                "Combe, J.",
+                "Dhingra, D.",
+                "Essandoh, V.",
+                "Geier, S.",
+                "Goswami, J. N.",
+                "Green, R.",
+                "Haemmerle, V.",
+                "Head, J.",
+                "Hovland, L.",
+                "Hyman, S.",
+                "Klima, R.",
+                "Koch, T.",
+                "Kramer, G.",
+                "Kumar, A. S. K.",
+                "Lee, K.",
+                "Lundeen, S.",
+                "Malaret, E.",
+                "McCord, T.",
+                "McLaughlin, S.",
+                "Mustard, J.",
+                "Nettles, J.",
+                "Petro, N.",
+                "Plourde, K.",
+                "Racho, C.",
+                "Rodriquez, J.",
+                "Runyon, C.",
+                "Sellar, G.",
+                "Smith, C.",
+                "Sobel, H.",
+                "Staid, M.",
+                "Sunshine, J.",
+                "Taylor, L.",
+                "Thaisen, K.",
+                "Tompkins, S.",
+                "Tseng, H.",
+                "Vane, G.",
+                "Varanasi, P.",
+                "White, M.",
+                "Wilson, D."
+            ],
+            "pubdate": "2011-10-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2011JE003797"
+            ],
+            "grant": null
+        }
+    },
+    "1851690": {
+        "body": [
+            "These are part of the reduced Viking Lander Pressure Dataset provided by the <em>Planetary Data System</em> (see References). VL1 recorded pressures from July 1976 to September 1982. ",
+            "Tillman, the Viking Lander Meteorology Team, and the <em>Planetary Data System</em> for supplying us with these invaluable data, and P. B. ",
+            "Res. 93, 9433-9451. TILLMAN, J. E. 1989. <em>Planetary Data System,</em> VL1/VL2 Mars Meteorology Data Calibrated Pressure Data V1.0, \"VL1/VL2-M-MET-3-PV 1.0\". "
+        ],
+        "source": {
+            "bibcode": "1992Icar...99....1W",
+            "title": [
+                "Modeling the Martian seasonal CO <SUB>2</SUB> cycle 1. Fitting the Viking Lander pressure curves"
+            ],
+            "author": [
+                "Wood, Stephen E.",
+                "Paige, David A."
+            ],
+            "pubdate": "1992-09-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/0019-1035(92)90166-5"
+            ],
+            "grant": null
+        }
+    },
+    "21683068": {
+        "body": [
+            "Data Archiving and Distribution Standard data products from the Psyche Gravity Investigation will be archived in the Small Bodies Node of the NASA <em>Planetary Data System</em> on a schedule set by the Psyche Project, as per its contract with NASA. ",
+            "Level 3 data, including spherical harmonic models of gravitational potential, free air gravity and Bouguer gravity, and determinations of other physical parameters ( e.g. , planetocentric reference frame, spin-pole axis, rotation rate, etc.) will be archived at a <em>Planetary Data System</em> (PDS) Small Bodies Node as part of the Psyche archival plan. "
+        ],
+        "source": {
+            "bibcode": "2022SSRv..218...57Z",
+            "title": [
+                "The Psyche Gravity Investigation"
+            ],
+            "author": [
+                "Zuber, Maria T.",
+                "Park, Ryan S.",
+                "Elkins-Tanton, Linda T.",
+                "Bell, J. F.",
+                "Bruvold, Kristoffer N.",
+                "Bercovici, David",
+                "Bills, Bruce G.",
+                "Binzel, Richard P.",
+                "Jaumann, R.",
+                "Marchi, Simone",
+                "Raymond, Carol A.",
+                "Roatsch, T.",
+                "Wang, Charles C.",
+                "Weiss, Benjamin P.",
+                "Wenkert, Daniel",
+                "Wieczorek, Mark A."
+            ],
+            "pubdate": "2022-12-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1007/s11214-022-00905-3"
+            ],
+            "grant": null
+        }
+    },
+    "2599615": {
+        "body": [
+            "At present, these derived data are available via <em>Planetary Data System</em> (PDS) for observations through early 2008 (http://pds-geosciences.wustl.edu/missions/mer/geo_mer_datasets.htm). "
+        ],
+        "source": {
+            "bibcode": "2009JGRE..114.0D04W",
+            "title": [
+                "Wavelength dependence of dust aerosol single scattering albedo as observed by the Compact Reconnaissance Imaging Spectrometer"
+            ],
+            "author": [
+                "Wolff, M. J.",
+                "Smith, M. D.",
+                "Clancy, R. T.",
+                "Arvidson, R.",
+                "Kahre, M.",
+                "Seelos, F.",
+                "Murchie, S.",
+                "Savij\u00e4rvi, H."
+            ],
+            "pubdate": "2009-06-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1029/2009JE003350"
+            ],
+            "grant": null
+        }
+    },
+    "28150674": {
+        "body": [
+            "These lightcurves are available on NASA <em>Planetary Data System</em> Small Bodies Node. 1 1 https://pds-smallbodies.astro.umd.edu/ Null et al. ( 1993 ) and Null Owen ( 1996 ) used the HST Wide Field Camera to measure absolute positions of Pluto and Charon as \u201cSamples\u201d and \u201cLines\u201d in camera coordinates. ",
+            "The New Horizons Optical Navigation Team reported Charon\u2019s astrometry (Pelletier et al. 2016 ; Thompson et al. 2016 ) based on raw images that are publicly available on NASA <em>Planetary Data System</em> (see footnote 1) archive. There were more than five hundred measurements of the absolute position of Charon from 2014 July 19 to 2015 July 15. "
+        ],
+        "source": {
+            "bibcode": "2024AJ....167..256B",
+            "title": [
+                "Post-new-horizons Orbits and Masses for the Satellites of Pluto"
+            ],
+            "author": [
+                "Brozovi\u0107, Marina",
+                "Jacobson, Robert A."
+            ],
+            "pubdate": "2024-06-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "DATA",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.3847/1538-3881/ad39f0"
+            ],
+            "grant": null
+        }
+    },
+    "12359400": {
+        "body": [
+            "Electronic tables of the membership for 122 notable families are reported on the <em>Planetary Data System</em> node. See related chapters in this volume for the significance of asteroid families for studies of physics of large scale collisions, collisional history of the main belt, source regions of the near-Earth asteroids, meteorites and dust particles, and space weathering. 1. ",
+            "The lists of notable families are being made available at the <em>Planetary Data System</em> (PDS) node, and are discussed in Section 7. A new and exciting development in the past decade was the detection of several asteroid families with very young formation ages. "
+        ],
+        "abstract": [
+            "Electronic tables of the membership for 122 notable families are reported on the <em>Planetary Data System</em> node. See related chapters in this volume for the significance of asteroid families for studies of physics of large-scale collisions, collisional history of the main belt, source regions of the near-Earth asteroids, meteorites and dust particles, and space weathering."
+        ],
+        "source": {
+            "bibcode": "2015aste.book..297N",
+            "title": [
+                "Identification and Dynamical Properties of Asteroid Families"
+            ],
+            "author": [
+                "Nesvorn\u00fd, D.",
+                "Bro\u017e, M.",
+                "Carruba, V."
+            ],
+            "pubdate": "2015-00-00",
+            "doctype": "inbook",
+            "property": [
+                "ARTICLE",
+                "EPRINT_OPENACCESS",
+                "ESOURCE",
+                "OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.2458/azu_uapress_9780816532131-ch016",
+                "10.48550/arXiv.1502.01628"
+            ],
+            "grant": null
+        }
+    },
+    "30700011": {
+        "body": [
+            "The DART mission data archives are available at NASA\u2019s <em>Planetary Data System</em> and include the DRACO data collection (Ernst et al. 2023 ) as well as data from the Light Italian Cubesat for Imaging of Asteroids (LICIACube) provided by the Italian Space Agency (ASI\u2014Agenzia Spaziale Italiana; Zinzi Della Corte 2023 ) and data bundles from the Lowell, Magdalena Ridge, Las Cumbres, and Las Campanas ground observatories (Lister et al. 2023 ). In addition to the DART mission archive, shape models and derived data products for both Didymos and Dimorphos are available in a separate collection at the <em>Planetary Data System</em> (PDS; Daly et al. 2023b ). All of these products include digital object identifiers (DOIs) to provide persistent links to this data and encourage citation of these efforts. ",
+            "Data Availability The DART mission archive at NASA\u2019s <em>Planetary Data System</em> contains data from DRACO, LICIACube, and DART-supported telescopic data sets, as well as associated documentation and advanced products, including the shape models of Didymos and Dimorphos. 10 10 https://pds-smallbodies.astro.umd.edu/data_sb/missions/dart/ The Small Body Mapping Tool developed by Johns Hopkins Applied Physics Lab contains the shape models of both asteroids with DRACO images and associated backplanes that resolve the surfaces of the asteroids. 11 11 https://sbmt.jhuapl.edu"
+        ],
+        "source": {
+            "bibcode": "2024PSJ.....5..177W",
+            "title": [
+                "Science Product Pipelines and Archive Architecture for the DART Mission"
+            ],
+            "author": [
+                "Waller, C. Dany",
+                "Espiritu, Raymond C.",
+                "Tinsman, Calley",
+                "Nair, Hari",
+                "Ernst, Carolyn M.",
+                "Daly, R. Terik",
+                "Barnouin, Olivier S.",
+                "Zinzi, Angelo",
+                "Chabot, Nancy L.",
+                "Rivkin, Andrew S.",
+                "Moskovitz, Nicholas",
+                "Osip, David",
+                "Lister, Tim",
+                "Ryan, Eileen",
+                "Ryan, William"
+            ],
+            "pubdate": "2024-08-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.3847/PSJ/ad5959"
+            ],
+            "grant": null
+        }
+    },
+    "21834829": {
+        "body": [
+            "Finally, conclusions are given in Section 6 . 2 Data V-type asteroid spectra were obtained from SpeX ground based observations and are available on the <em>Planetary Data System</em> (PDS). The SpeX instrument is one of the most significant developments in ground-based characterization of small bodies at the NASA Infrared Telescope Facility (IRTF) in Mauna Kea, Hawaii. ",
+            "IRTF Near -IR Spectroscopy of Asteroids V1.0. urn:nasa:pds:gbo.ast.irtf -spex -collection.spectra::1.0. NASA <em>Planetary Data System;</em> https://doi.org/10.26033/ct3r-eh13 ] (hereafter named as group 1) all spectra were scaled by fitting a polynomial over the region centred on the J-band (1.215m), and then normalizing the fitted value at 1.215m to 1.00 ( Fig. 1 left side), while in Hardersen et al. (2014, s2015, 2018) data 2 2 [Hardersen, P.S., Hardersen IRTF Asteroid NIR Reflectance Spectra V1.0. EAR -A -I0046 -3 -HARDERSENSPEC -V1.0. NASA <em>Planetary Data System,</em> 2016.]. (hereafter named group 2) were normalized at 1.5m ( Fig. 1 right side). "
+        ],
+        "source": {
+            "bibcode": "2023Icar..39015320A",
+            "title": [
+                "A new prospect to analyse the spectral properties of v-type asteroids"
+            ],
+            "author": [
+                "Angrisani, M.",
+                "Palomba, E.",
+                "Longobardo, A.",
+                "Raponi, A.",
+                "Dirri, F.",
+                "Gisellu, C."
+            ],
+            "pubdate": "2023-01-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/j.icarus.2022.115320"
+            ],
+            "grant": null
+        }
+    },
+    "18917284": {
+        "body": [
+            "We note that a timing offset of ~73 min was discovered in the temperature calibration applied to the data in the June <em>Planetary Data System</em> data release. This has been corrected in the data shown here and in subsequent <em>Planetary Data System</em> releases. "
+        ],
+        "source": {
+            "bibcode": "2020NatGe..13..199J",
+            "title": [
+                "Crustal and time-varying magnetic fields at the InSight landing site on Mars"
+            ],
+            "author": [
+                "Johnson, Catherine L.",
+                "Mittelholz, Anna",
+                "Langlais, Benoit",
+                "Russell, Christopher T.",
+                "Ansan, V\u00e9ronique",
+                "Banfield, Don",
+                "Chi, Peter J.",
+                "Fillingim, Matthew O.",
+                "Forget, Francois",
+                "Haviland, Heidi Fuqua",
+                "Golombek, Matthew",
+                "Joy, Steve",
+                "Lognonn\u00e9, Philippe",
+                "Liu, Xinping",
+                "Michaut, Chlo\u00e9",
+                "Pan, Lu",
+                "Quantin-Nataf, Cathy",
+                "Spiga, Aymeric",
+                "Stanley, Sabine",
+                "Thorne, Shea N.",
+                "Wieczorek, Mark A.",
+                "Yu, Yanan",
+                "Smrekar, Suzanne E.",
+                "Banerdt, William B."
+            ],
+            "pubdate": "2020-02-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1038/s41561-020-0537-x"
+            ],
+            "grant": null
+        }
+    },
+    "14204316": {
+        "body": [
+            "At wavelengths less than ~2 \u03bcm where thermal emission is negligible on the Moon, reflectance values calculated for this work are identical to the M 3 Level 2 reflectance data products available at the <em>Planetary Data System.</em> The correction of M 3 data using the output of the roughness emission model is relatively straightforward. ",
+            "Data availability All data used in this work are available at the <em>Planetary Data System.</em> Specifically, LRO Diviner data are available at http://pds-geosciences.wustl.edu/missions/lro/diviner.htm . "
+        ],
+        "source": {
+            "bibcode": "2018NatGe..11..173B",
+            "title": [
+                "Widespread distribution of OH/H<SUB>2</SUB>O on the lunar surface inferred from spectral data"
+            ],
+            "author": [
+                "Bandfield, Joshua L.",
+                "Poston, Michael J.",
+                "Klima, Rachel L.",
+                "Edwards, Christopher S."
+            ],
+            "pubdate": "2018-03-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1038/s41561-018-0065-0"
+            ],
+            "grant": null
+        }
+    },
+    "2848613": {
+        "body": [
+            "Conclusion: These derived mineral maps, including global maps of FeO and OMAT, are available from the USGS at the <em>Planetary Data System\u2019s</em> Cartography and Imaging Sciences (\u201cImaging\u201d) Node Annex (see http://astrogeology.usgs.gov/pds/annex, [9]). "
+        ],
+        "source": {
+            "bibcode": "2016LPI....47.2994L",
+            "title": [
+                "Global Map Products from the Kaguya Multiband Imager at 512 ppd: Minerals, FeO, and OMAT"
+            ],
+            "author": [
+                "Lemelin, M.",
+                "Lucey, P. G.",
+                "Gaddis, L. R.",
+                "Hare, T.",
+                "Ohtake, M."
+            ],
+            "pubdate": "2016-03-00",
+            "doctype": "abstract",
+            "property": [
+                "ESOURCE",
+                "NONARTICLE",
+                "NOT REFEREED",
+                "OPENACCESS",
+                "PUB_OPENACCESS",
+                "TOC"
+            ],
+            "doi": null,
+            "grant": null
+        }
+    },
+    "2546295": {
+        "body": [
+            "Based largely on lightcurve analyses, a number of authors have reported poles for Psyche, most of which are compiled in the Small Bodies Node of the <em>Planetary Data System</em> (PDS) (Magnusson, P., Neese, C. (Eds.), 1996. Asteroid Spin Vectors. EAR-A-5-DDR-ASTEROID-SPIN-VECTORS-V4.2. NASA <em>Planetary Data System).</em> Kaasalainen et al. (2002) used lightcurves from 19 apparitions and derived a convex shape model for Psyche with axes ratios a / b \u223c 1.2 and b / c \u223c 1.2 , a rotation period P = 4.195947 \u00b1 0.000001 h , and two possible poles at ecliptic coordinates ( \u03bb , \u03b2 ) = ( 216 \u00b0 , \u2212 2 \u00b0 ) and ( 35 \u00b0 , \u2212 9 \u00b0 ) \u00b1 5 \u00b0 . ",
+            "EAR-A-5-DDR-ASTEROID-SPIN-VECTORS-V4.2. NASA <em>Planetary Data System;</em> and those above). Only a handful of published poles are consistent with our data and D max \u2a7e 225 km and none are consistent with D max > 270 km , even including our uncertainties in B ZC . "
+        ],
+        "source": {
+            "bibcode": "2008Icar..195..184S",
+            "title": [
+                "A radar survey of M- and X-class asteroids"
+            ],
+            "author": [
+                "Shepard, Michael K.",
+                "Clark, Beth Ellen",
+                "Nolan, Michael C.",
+                "Howell, Ellen S.",
+                "Magri, Christopher",
+                "Giorgini, Jon D.",
+                "Benner, Lance A. M.",
+                "Ostro, Steven J.",
+                "Harris, Alan W.",
+                "Warner, Brian",
+                "Pray, Donald",
+                "Pravec, Petr",
+                "Fauerbach, Michael",
+                "Bennett, Thomas",
+                "Klotz, Alain",
+                "Behrend, Raoul",
+                "Correia, Horacio",
+                "Coloma, Josep",
+                "Casulli, Silvano",
+                "Rivkin, Andrew"
+            ],
+            "pubdate": "2008-05-00",
+            "doctype": "article",
+            "property": [
+                "ARTICLE",
+                "ASSOCIATED",
+                "ESOURCE",
+                "REFEREED"
+            ],
+            "doi": [
+                "10.1016/j.icarus.2007.11.032"
+            ],
+            "grant": [
+                "NASA",
+                "NNG06GI32G",
+                "NSF-AST",
+                "0205975",
+                "NSF-AST",
+                "0605903",
+                "NSF-AST",
+                "0606704",
+                "NSF-AST",
+                "0607505"
+            ]
+        }
+    }
+}
